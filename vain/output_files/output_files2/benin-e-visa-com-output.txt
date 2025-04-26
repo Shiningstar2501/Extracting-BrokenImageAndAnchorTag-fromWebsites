@@ -1,0 +1,208 @@
+[Unique Anchor Issues for Website]: https://benin-e-visa.com/
+[Line with Issue]:
+<a href="https://benin-e-visa.com/traditions-and-culture-in-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Traditions and Culture in Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-brazil-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin e-visa for Brazil citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-proposes-citizenship-law-for-afro-descendants/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin Proposes Citizenship Law for Afro-Descendants</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-united-states-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin e-visa for United States citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/9-must-try-dishes-of-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>9 Must Try Dishes of Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com"><strong>Benin electronic visa</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-burkina-faso-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin visa for Burkina Faso citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a class="text-white text-bold" href="https://benin-e-visa.com" style="font-weight: 500;  font-size: large;"> 2025 Benin Visa Solutions. All rights reserved.</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>Indian visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a class="navbar-brand font-weight-bold text-secondary" href="https://benin-e-visa.com">
+<picture>
+<source srcset="https://benin-e-visa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://benin-e-visa.com/images/logo.png" style="max-width: 90%; height: auto; border-radius: 86px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin Visa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Apply for Benin e-Visa e-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-united-kingdom-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin e-visa for United Kingdom citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin E-Visa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-voodoo-festival-transforms-into-vodun-days-to-woo-tourists/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin Unveils Vodun Days: A Cultural Spectacle Reborn</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://india-e-visas.com/apply-visa/"><strong>Indian visa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-travel-advice/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin travel advice</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a class="nav-item nav-link line" href="https://benin-e-visa.com/application/" title="Apply eVisa ">Apply eVisa </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-top-8-unforgettable-experiences-you-can-not-miss/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin Top 8 Unforgettable Experiences You can not Miss</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-new-nationality-law-for-african-descendants/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin's New Nationality Law for African Descendants</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/9-unmissable-benin-places-to-visit-experience/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>9 Unmissable Benin Places to Visit &amp; Experience</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a class="btn btn-whatsapp btn-lg btn-block support-btn" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+                                       WhatsApp Support <br/><span class="phn_spn"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/best-placesto-visit-in-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Best places to visit in Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-e-visa-for-us-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin e Visa for US Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-canada-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin e-visa for Canada citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/language-and-currency-of-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Language and Currency of Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/top-popular-cities-in-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Top Popular Cities in Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Line with Issue]:
+<a class="btn btn-primary" href="https://benin-e-visa.com/application/">
+                      Get Your Benin eVisa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Apply for Benin e-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/"><strong>Benin E-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin eVisa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/india-visa-for-benin-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>India Visa for Benin Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin E-Visa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>apply for Benin e-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-evisa-for-netherlands-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin eVisa for Netherlands Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/traditional-music-and-festivals-in-benin/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Traditional music and festivals in Benin</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://benin-e-visa.com/benin-bahamas-abolish-visa-requirements-for-each-other-citizens/" style="color:rgb(2, 117, 216);display:flex; align-items:baseline;">
+<span>Benin Bahamas Abolish Visa Requirements for Each Other Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Line with Issue]:
+<a href="https://india-e-visas.com/"><strong>e-visa to India</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Line with Issue]:
+<a href="/apply-evisa-from-vatican-city-holy-see/"><span class="flag flag-va"></span> Vatican City (Holy See)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Line with Issue]:
+<a class="btn btn-whatsapp btn-lg btn-block support-btn" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+															WhatsApp Support <br/><span class="phn_spn"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag

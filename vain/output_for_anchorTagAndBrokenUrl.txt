@@ -1,0 +1,34 @@
+PS C:\Users\Intel\Desktop\ANUSHKA\Python Projects\Broken Links and Anchor tag> python .\minimal_checkBroken_for_onePage.py
+#### not found URL --> web page URL --> https://online.djibouti-evisa.com/djibouti-visa-types/ --> URL of the image --> https://online.djibouti-evisa.com/images/djibouti-businesss-evisa.png
+##### there is some issue in URL --> web page URL --> https://online.djibouti-evisa.com/djibouti-visa-types/ --> URL of the image --> https://online.djibouti-evisa.com/images/family-visit%20-visa.png
+#### not found URL --> web page URL --> https://online.djibouti-evisa.com/djibouti-visa-types/ --> URL of the image --> https://online.djibouti-evisa.com/images/family-visit%20-visa.png
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/djibouti-visa-types/
+[Line with Issue]:
+<p>Planning a trip to Djibouti? Whether you're visiting for tourism, business, or transit, understanding the right visa type is essential for a smooth entry. The<a href="https://online.djibouti-evisa.com/"><strong> Djibouti eVisa</strong></a> offers a quick and convenient way to obtain travel authorization without visiting an embassy.</p>
+[⚠️ Warning] No space before <a> tag
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/djibouti-visa-types/
+[Line with Issue]:
+<p>The Djibouti Business eVisa is an electronic visa that allows business travelers to enter and<strong> conduct business activities</strong> in Djibouti. This eVisa is issued by the Ministry of Foreign Affairs and International Cooperation and can be applied for online by filling out the <a href="https://online.djibouti-evisa.com/apply-evisa/"><strong>Djibouti Business eVisa Application Form.</strong></a></p>
+[⚠️ Warning] Anchor text ends with punctuation: '.'
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/djibouti-visa-types/
+[Line with Issue]:
+<p>The Djibouti Tourism eVisa is an electronic visa that allows foreign nationals to visit Djibouti for tourism purposes. It is issued by the Djibouti Ministry of Foreign Affairs and International Cooperation and can be applied for online by filling out the<a href="https://online.djibouti-evisa.com/apply-evisa/"><strong>Djibouti Tourist eVisa Application Form</strong></a>.</p>
+[⚠️ Warning] No space before <a> tag
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/djibouti-visa-types/
+[Line with Issue]:
+<div class="d-md-flex justify-content-start align-items-center mb-2">
+<span style="margin-right: 0.5rem;color:white;">Connect With Us:</span>
+<a class="support-email mr-3" href="/cdn-cgi/l/email-protection#a9dadcd9d9c6dbdde9cdc3c0cbc6dcddc084ccdfc0dac887cac6c4"><span class="__cf_email__" data-cfemail="7f0c0a0f0f100d0b3f1b15161d100a0b16521a09160c1e511c1012">[email protected]</span></a>
+<div class="social-icons">
+</div>
+</div>
+[⚠️ Warning] Anchor text ends with punctuation: ']'
+PS C:\Users\Intel\Desktop\ANUSHKA\Python Projects\Broken Links and Anchor tag>

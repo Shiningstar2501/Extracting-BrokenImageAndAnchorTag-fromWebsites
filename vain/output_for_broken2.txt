@@ -1,0 +1,130 @@
+
+[Scanning Website] http://indonesia-e-visa.com/
+[Total Images Found] 124
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://japanevisa.net/
+[Total Images Found] 2787
+[Broken Images Found] 3
+ - https://japanevisa.net/images/japan-evisa-application-overview.jpg --> 404
+ - https://japanevisa.net/images/warm-and-cold-weather-clothings.png --> 404
+ - https://japanevisa.net/images/working-in-japan.png --> 404
+***************************************
+
+[Scanning Website] http://lao-evisa.com/
+[Total Images Found] 531
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://libya-e-visa.com/
+[Total Images Found] 5
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://malaysia-e-visa.com/
+[Total Images Found] 33
+[Broken Images Found] 4
+ - https://malaysia-e-visa.com/images/application-process-has-errors.jpg --> 404
+ - https://malaysia-e-visa.com/images/malaysia-e-visa-functioning.jpg --> 404
+ - https://malaysia-e-visa.com/images/application-of-a-malaysian-e-visa.jpg --> 404
+ - https://malaysia-e-visa.com/image/ajax-loader4.gif --> 404
+***************************************
+
+[Scanning Website] http://mexico-e-visa.com/
+[Total Images Found] 1040
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://morocco-e-visas.com/
+[Total Images Found] 569
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://nigeria-e-visa.com/
+[Total Images Found] 30
+[Broken Images Found] 2
+ - https://upload.wikimedia.org/wikipedia/commons/5/5d/Civic_Centre_at_night%2C_Lagos_Nigeria.jpg --> 403
+ - https://upload.wikimedia.org/wikipedia/commons/1/1b/Abuja_night_time.jpg --> 403
+***************************************
+
+[Scanning Website] http://nz-eta.info/
+[Total Images Found] 228
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://philippines-evisa.org/
+[Total Images Found] 19
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://romania-e-visa.com/
+[Total Images Found] 680
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://russian-e-visa.com/
+[Total Images Found] 1756
+[Broken Images Found] 0
+ ***************************************
+
+[Scanning Website] http://south-korea-evisa.com/
+[Total Images Found] 237
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://tanzania-e-visas.com/
+[Total Images Found] 7
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://thailand-e-visas.com/
+[Total Images Found] 788
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://tunisia-e-visa.com/
+[Total Images Found] 454
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://turkey-e-visas.com/
+[Total Images Found] 32
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://united-kingdom-visa.com/
+[Total Images Found] 120
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://vietnam-e-visas.com/
+[Total Images Found] 517
+[Broken Images Found] 1
+ - https://vietnam-e-visas.com/wp-content/uploads/2023/07/Phu-Quoc-ï¿½-The-Island-of-Beauty.jpg --> 404
+***************************************
+
+[Scanning Website] http://visa-armenia.com/
+[Total Images Found] 28
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://visa-kuwait.com/
+[Total Images Found] 53
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://visa-qatar.com/
+[Total Images Found] 198
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://zambia-visa.com/
+[Total Images Found] 448
+[Broken Images Found] 0
+***************************************
+
+[Scanning Website] http://zimbabwe-visa.com/
+[Total Images Found] 492
+[Broken Images Found] 0
+***************************************
