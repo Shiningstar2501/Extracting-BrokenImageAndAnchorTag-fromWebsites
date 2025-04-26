@@ -1,0 +1,1440 @@
+[Unique Anchor Issues for Website]: https://vietnam-e-visas.com/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/"><img alt="img" height="54px" src="/wp-content/uploads/2017/12/logo1.png" width="54px"/> </a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/
+
+[Line with Issue]:
+<a aria-current="page" href="https://vietnam-e-visas.com/evisa-vietnam/">Vietnam Electronic Visa (e-Visa)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/privacy-policy/"> Privacy Policy</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/vietnam-visa-extension-best-way/"> Vietnam Visa Extension Best Way</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/vietnam-visa-extension-renewal/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/"><strong>visa application for Vietnam</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/guidelines-passport-photos/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/mongolian-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Mongolian  Honorary Consulate  in Ho Chi Minh City  ">    Mongolian  Honorary Consulate  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/mongolia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/hungary-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Hungary in Hanoi  ">    Embassy of Hungary in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/hungarian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/panamanian-embassy-in-hanoi-vietnam/" id="Toproll" title="  Panamanian   Embassy  in Hanoi  ">    Panamanian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/panamanian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://philippines-e-visa.com/apply-for-philippines-visa/" target="_blank" title="How to apply for a visa to the Philippines?">How to apply for a visa to the Philippines?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/philippine-honorary-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/the-philippines-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/the-philippines-in-hanoi-vietnam/" id="Toproll" title="       Embassy of the Philippines in Hanoi       ">         Embassy of the Philippines in Hanoi        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/philippine-honorary-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://turkey-e-visas.com/urgent-turkey-visa/" rel="noreferrer" style="text-decoration:none;" target="_blank">Need Urgent Turkey Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/7-must-see-sights-in-the-mekong-delta/
+ - https://vietnam-e-visas.com/affordable-vietnam-tourist-visa-indians/
+ - https://vietnam-e-visas.com/applying-for-an-indian-visa-as-a-vietnamese-citizen/
+ - https://vietnam-e-visas.com/architecture-of-vietnam/
+ - https://vietnam-e-visas.com/backpacker-guide-to-vietnam/
+ - https://vietnam-e-visas.com/best-hiking-and-trekking-trails-in-vietnam/
+ - https://vietnam-e-visas.com/capturing-vietnam/
+ - https://vietnam-e-visas.com/cruising-vietnam-waters/
+ - https://vietnam-e-visas.com/experience-vietnam-on-a-budget/
+ - https://vietnam-e-visas.com/explore-ho-chi-minh-city-and-around-vietnam-visa-online/
+ - https://vietnam-e-visas.com/exploring-vietnam-national-parks/
+ - https://vietnam-e-visas.com/exploring-vietnam-urban-art-scene/
+ - https://vietnam-e-visas.com/festivals-and-celebrations-in-vietnam/
+ - https://vietnam-e-visas.com/hidden-gems-of-vietnam/
+ - https://vietnam-e-visas.com/insider-guide-to-vietnams-traditional-crafts-and-handicraft-villages/
+ - https://vietnam-e-visas.com/learning-vietnamese-tips-resources-and-language-schools-for-travelers/
+ - https://vietnam-e-visas.com/music-and-dance-of-vietnam/
+ - https://vietnam-e-visas.com/nightlife-of-vietnam/
+ - https://vietnam-e-visas.com/now-arriving-in-hanoi-what-you-need-to-know/
+ - https://vietnam-e-visas.com/romantic-getaways-in-vietnam/
+ - https://vietnam-e-visas.com/shopping-in-vietnam/
+ - https://vietnam-e-visas.com/solo-female-travel-in-vietnam/
+ - https://vietnam-e-visas.com/spiritual-side-of-vietnam/
+ - https://vietnam-e-visas.com/sustainable-travel-in-vietnam/
+ - https://vietnam-e-visas.com/the-ancient-towns-of-vietnam/
+ - https://vietnam-e-visas.com/the-art-and-culture-of-vietnam/
+ - https://vietnam-e-visas.com/top-attractions-and-activities-for-kids/
+ - https://vietnam-e-visas.com/traveling-to-vietnam-in-2022/
+ - https://vietnam-e-visas.com/turkey-visa-for-vietnam/
+ - https://vietnam-e-visas.com/ultimate-vietnamese-food-tour/
+ - https://vietnam-e-visas.com/validity-extension-for-vietnams-e-visa-to-90-days-begins-august-15-2023/
+ - https://vietnam-e-visas.com/vietnam-belarus-to-waive-visa-requirements-for-citizens-starting-jan-30/
+ - https://vietnam-e-visas.com/vietnam-by-motorcycle/
+ - https://vietnam-e-visas.com/vietnam-evisa-reopens-to-international-tourists-starting-july-1st/
+ - https://vietnam-e-visas.com/vietnam-intriguing-caves/
+ - https://vietnam-e-visas.com/vietnam-most-beautiful-beaches/
+ - https://vietnam-e-visas.com/vietnam-reopens-borders-welcomes-international-tourists-again-in-march-2022/
+ - https://vietnam-e-visas.com/vietnam-thriving-coffee-culture/
+ - https://vietnam-e-visas.com/vietnam-to-allow-visa-free-entry-for-indian-tourists/
+ - https://vietnam-e-visas.com/vietnam-to-open-tourism-promotion-office-in-laos/
+ - https://vietnam-e-visas.com/vietnam-tourist-visa-application-guide-and-entry-requirements/
+ - https://vietnam-e-visas.com/vietnam-unesco-world-heritage-sites/
+ - https://vietnam-e-visas.com/vietnam-visa-and-restrictions-for-travellers-covid-19/
+ - https://vietnam-e-visas.com/vietnam-visa-blog/
+ - https://vietnam-e-visas.com/vietnam-visa-overview/
+ - https://vietnam-e-visas.com/vietnam-visas-are-being-re-issued-and-no-quarantine-is-required-on-arrival/
+ - https://vietnam-e-visas.com/vietnam-welcomes-indian-tourists-visa-free-bliss/
+ - https://vietnam-e-visas.com/visa-free-travel-for-vietnamese-with-uk-visa-or-resident/
+ - https://vietnam-e-visas.com/volunteering-and-community-service-opportunities-in-vietnam/
+ - https://vietnam-e-visas.com/wellness-retreat-in-vietnam/
+
+[Line with Issue]:
+<a href="https://evisa-to-kenya.com/kenya-online-visa-application/" rel="noreferrer" style="text-decoration:none;" target="_blank"> Kenya evisa Application</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/7-must-see-sights-in-the-mekong-delta/
+ - https://vietnam-e-visas.com/affordable-vietnam-tourist-visa-indians/
+ - https://vietnam-e-visas.com/applying-for-an-indian-visa-as-a-vietnamese-citizen/
+ - https://vietnam-e-visas.com/architecture-of-vietnam/
+ - https://vietnam-e-visas.com/backpacker-guide-to-vietnam/
+ - https://vietnam-e-visas.com/best-hiking-and-trekking-trails-in-vietnam/
+ - https://vietnam-e-visas.com/capturing-vietnam/
+ - https://vietnam-e-visas.com/cruising-vietnam-waters/
+ - https://vietnam-e-visas.com/experience-vietnam-on-a-budget/
+ - https://vietnam-e-visas.com/explore-ho-chi-minh-city-and-around-vietnam-visa-online/
+ - https://vietnam-e-visas.com/exploring-vietnam-national-parks/
+ - https://vietnam-e-visas.com/exploring-vietnam-urban-art-scene/
+ - https://vietnam-e-visas.com/festivals-and-celebrations-in-vietnam/
+ - https://vietnam-e-visas.com/hidden-gems-of-vietnam/
+ - https://vietnam-e-visas.com/insider-guide-to-vietnams-traditional-crafts-and-handicraft-villages/
+ - https://vietnam-e-visas.com/learning-vietnamese-tips-resources-and-language-schools-for-travelers/
+ - https://vietnam-e-visas.com/music-and-dance-of-vietnam/
+ - https://vietnam-e-visas.com/nightlife-of-vietnam/
+ - https://vietnam-e-visas.com/now-arriving-in-hanoi-what-you-need-to-know/
+ - https://vietnam-e-visas.com/romantic-getaways-in-vietnam/
+ - https://vietnam-e-visas.com/shopping-in-vietnam/
+ - https://vietnam-e-visas.com/solo-female-travel-in-vietnam/
+ - https://vietnam-e-visas.com/spiritual-side-of-vietnam/
+ - https://vietnam-e-visas.com/sustainable-travel-in-vietnam/
+ - https://vietnam-e-visas.com/the-ancient-towns-of-vietnam/
+ - https://vietnam-e-visas.com/the-art-and-culture-of-vietnam/
+ - https://vietnam-e-visas.com/top-attractions-and-activities-for-kids/
+ - https://vietnam-e-visas.com/traveling-to-vietnam-in-2022/
+ - https://vietnam-e-visas.com/turkey-visa-for-vietnam/
+ - https://vietnam-e-visas.com/ultimate-vietnamese-food-tour/
+ - https://vietnam-e-visas.com/validity-extension-for-vietnams-e-visa-to-90-days-begins-august-15-2023/
+ - https://vietnam-e-visas.com/vietnam-belarus-to-waive-visa-requirements-for-citizens-starting-jan-30/
+ - https://vietnam-e-visas.com/vietnam-by-motorcycle/
+ - https://vietnam-e-visas.com/vietnam-evisa-reopens-to-international-tourists-starting-july-1st/
+ - https://vietnam-e-visas.com/vietnam-intriguing-caves/
+ - https://vietnam-e-visas.com/vietnam-most-beautiful-beaches/
+ - https://vietnam-e-visas.com/vietnam-reopens-borders-welcomes-international-tourists-again-in-march-2022/
+ - https://vietnam-e-visas.com/vietnam-thriving-coffee-culture/
+ - https://vietnam-e-visas.com/vietnam-to-allow-visa-free-entry-for-indian-tourists/
+ - https://vietnam-e-visas.com/vietnam-to-open-tourism-promotion-office-in-laos/
+ - https://vietnam-e-visas.com/vietnam-tourist-visa-application-guide-and-entry-requirements/
+ - https://vietnam-e-visas.com/vietnam-unesco-world-heritage-sites/
+ - https://vietnam-e-visas.com/vietnam-visa-and-restrictions-for-travellers-covid-19/
+ - https://vietnam-e-visas.com/vietnam-visa-blog/
+ - https://vietnam-e-visas.com/vietnam-visa-overview/
+ - https://vietnam-e-visas.com/vietnam-visas-are-being-re-issued-and-no-quarantine-is-required-on-arrival/
+ - https://vietnam-e-visas.com/vietnam-welcomes-indian-tourists-visa-free-bliss/
+ - https://vietnam-e-visas.com/visa-free-travel-for-vietnamese-with-uk-visa-or-resident/
+ - https://vietnam-e-visas.com/volunteering-and-community-service-opportunities-in-vietnam/
+ - https://vietnam-e-visas.com/wellness-retreat-in-vietnam/
+
+[Line with Issue]:
+<a href="https://sri-lanka-e-visa.com/how-to-apply-for-sri-lanka-eta/" target="_blank" title="Sri Lanka Electronic Travel Authorization (ETA)">Sri Lanka Electronic Travel Authorization (ETA)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/sri-lankan-honorary-consulate-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/sri-lankan-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/sri-lankan-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   Sri Lankan  Honorary Consulate  in Ho Chi Minh City   ">     Sri Lankan  Honorary Consulate  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/sri-lankan-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/czech-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="     Czech  Honorary Consulate  in Ho Chi Minh City     ">       Czech  Honorary Consulate  in Ho Chi Minh City      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/the-czech-republic-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/mongolia-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Mongolia in Hanoi  ">    Embassy of Mongolia in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/mongolian-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/hungarian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Hungarian   Consulate General  in Ho Chi Minh City  ">    Hungarian   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/hungary-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/taiwanese-trade-office-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Taiwanese   Trade Office  in Ho Chi Minh City    ">      Taiwanese   Trade Office  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/taiwanese-representative-office-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/vietnam-visa-exempt-countries/">Visa Exemption Countries.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/policies-and-procedures/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/sweden-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Sweden in Hanoi  ">    Embassy of Sweden in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/swedish-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-f/" target="_blank" title="Thailand Non-Immigrant F (Government or diplomatic mission)">Thailand Non-Immigrant F (Government or diplomatic mission)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-o-visa/" target="_blank" title="Thailand Non-Immigrant O Visa(Visiting friends and family)">Thailand Non-Immigrant O Visa(Visiting friends and family)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailands-smart-visa/" target="_blank" title="Thailand Smart Visa (Executives, entrepreneurs or investor)">Thailand Smart Visa (Executives, entrepreneurs or investor)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-long-term-resident-visa/" target="_blank" title="Thailand Long -Term Resident Visa (LTR)">Thailand Long -Term Resident Visa (LTR)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-diplomatic-official-visa/" target="_blank" title="Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)">Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-visa-non-immigrant-ed-visit-to-study/" target="_blank" title="Thailand Visa Non-Immigrant ED(Visit to study)">Thailand Visa Non-Immigrant ED(Visit to study)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Thai   Consulate General  in Ho Chi Minh City    ">      Thai   Consulate General  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/thai-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/french-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    French   Consulate General  in Ho Chi Minh City    ">      French   Consulate General  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/france-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/belgium-in-hanoi-vietnam/" id="Toproll" title="    Embassy of Belgium in Hanoi    ">      Embassy of Belgium in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/belgian-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/american-embassy-in-hanoi-vietnam/" id="Toproll" title="    American   Embassy in Hanoi    ">      American   Embassy in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/american-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/german-in-hanoi-vietnam/" id="Toproll" title="    German   Embassy  in Hanoi    ">      German   Embassy  in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/german-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://indiaevisas.info/indian-visa-extension-online-application/" target="_blank" title="Indian visa extension online"> Indian visa extension online</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/indian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/indian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/indian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="          Indian   Consulate General  in Ho Chi Minh City        ">            Indian   Consulate General  in Ho Chi Minh City         Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/indian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/vietnam-visa-requirements/"><strong>documents are required for Vietnam Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/affordable-vietnam-tourist-visa-indians/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/austrian-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Austrian Consulate in Ho Chi Minh City    ">      Austrian Consulate in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/austria-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://chile-evisa.com/who-needs-chile-visa/" target="_blank" title="Who Needs a Chile Visa?">Who Needs a Chile Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/chilean-honorary-consulate-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/chile-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/chilean-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="     Chilean  Honorary Consulate  in Ho Chi Minh City     ">       Chilean  Honorary Consulate  in Ho Chi Minh City      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/chile-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/new-zealand-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  New Zealand   Consulate General  in Ho Chi Minh City  ">    New Zealand   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/new-zealand-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/indonesia-in-hanoi-vietnam/" id="Toproll" title="    Embassy of Indonesia in Hanoi    ">      Embassy of Indonesia in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/indonesian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://malaysia-e-visa.com/do-i-need-malaysia-visa/" target="_blank" title="Who Needs a Malaysia Visa?">Who Needs a Malaysia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/malaysian-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/malaysian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/malaysian-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Malaysian   Consulate General  in Ho Chi Minh City  ">    Malaysian   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/malaysian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/new-zealand-in-hanoi-vietnam/" id="Toproll" title="  Embassy of New Zealand in Hanoi  ">    Embassy of New Zealand in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/new-zealand-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/russia-in-hanoi-vietnam/" id="Toproll" title="       Embassy of Russia in Hanoi       ">         Embassy of Russia in Hanoi        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/russian-consulate-general-in-danang-vietnam/
+ - https://vietnam-e-visas.com/consulate/russian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/russian-consulate-general-in-danang-vietnam/" id="Toproll" title="       Russian   Consulate General  in Danang       ">         Russian   Consulate General  in Danang        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/russian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/russia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/netherlands-embassy-in-hanoi-vietnam/" id="Toproll" title="  Netherlands   Embassy  in Hanoi  ">    Netherlands   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/netherlands-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/apply-online/" target="_blank"> Vietnam visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/how-to-apply-vietnam-visa-on-arrival/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/apply-online/" target="_blank"> Vietnam visa online application </a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/how-to-apply-vietnam-visa-on-arrival/
+
+[Line with Issue]:
+<a href="/embassy/vietnamese-embassy-in-washington-united-states-of-america/">United States of America- Washington, D.C.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/vietnam-embassy-information/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/france-in-hanoi-vietnam/" id="Toproll" title="    Embassy of France in Hanoi    ">      Embassy of France in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/french-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-honorary-consulate-in-kosice-slovakia/" id="Toproll" title="   Vietnamese  Honorary Consulate  in Kosice   ">     Vietnamese  Honorary Consulate  in Kosice    Slovakia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-bratislava-slovakia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/taiwanese-representative-office-in-hanoi-vietnam/" id="Toproll" title="    Taiwanese   Representative Office  in Hanoi    ">      Taiwanese   Representative Office  in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/taiwanese-trade-office-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/vietnam-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/evisa-vietnam/
+ - https://vietnam-e-visas.com/vietnam-multiple-entry-e-visa/
+ - https://vietnam-e-visas.com/vietnam-single-entry-e-visa/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/evisa/">Apply Electronic Visa
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/evisa-vietnam/
+
+[Line with Issue]:
+<a href="https://vietnam-e-visas.com/vietnam-visa-fees/"><strong>Vietnam eVisa fee </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/vietnam-visa-overview/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/russian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="       Russian   Consulate General  in Ho Chi Minh City       ">         Russian   Consulate General  in Ho Chi Minh City        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/russian-consulate-general-in-danang-vietnam/
+ - https://vietnam-e-visas.com/embassy/russia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/colombia-visitor-visa-v/" target="_blank" title="Colombia Visitor Visa (V)">Colombia Visitor Visa (V)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/colombia-migrant-visa-m/" target="_blank" title="Colombia Migrant Visa (M)">Colombia Migrant Visa (M)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/colombia-resident-visa-r/" target="_blank" title="Colombia Resident Visa ( R )">Colombia Resident Visa ( R )</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/colombia-special-resident-peace-visa-res/" target="_blank" title="Colombia Special Resident Peace Visa (Res)">Colombia Special Resident Peace Visa (Res)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/apply-for-colombia-visa/" target="_blank" title="How to Apply for a Colombia Visa?">How to Apply for a Colombia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://colombia-evisa.com/requirements-for-colombia-visa/" target="_blank" title="What Are the Requirements for a Colombia Visa?">What Are the Requirements for a Colombia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/colombian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/danish-trade-office-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Danish   Trade Office  in Ho Chi Minh City  ">    Danish   Trade Office  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/danish-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-osaka-japan/" id="Toproll" title="          Vietnamese   Consulate General  in Osaka          ">            Vietnamese   Consulate General  in Osaka           Japan</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-general-in-fukuoka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-kushiro-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-nagoya-japan/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-tokyo-japan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-honorary-consulate-general-in-fukuoka-japan/" id="Toproll" title="          Vietnamese  Honorary Consulate General  in Fukuoka          ">            Vietnamese  Honorary Consulate General  in Fukuoka           Japan</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-osaka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-kushiro-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-nagoya-japan/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-tokyo-japan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-honorary-consulate-in-kushiro-japan/" id="Toproll" title="          Vietnamese  Honorary Consulate  in Kushiro          ">            Vietnamese  Honorary Consulate  in Kushiro           Japan</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-osaka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-general-in-fukuoka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-nagoya-japan/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-tokyo-japan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-honorary-consulate-in-nagoya-japan/" id="Toproll" title="          Vietnamese  Honorary Consulate  in Nagoya          ">            Vietnamese  Honorary Consulate  in Nagoya           Japan</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-osaka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-general-in-fukuoka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-kushiro-japan/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-tokyo-japan/
+
+[Line with Issue]:
+<a href="https://singapore-evisa.com/singapore-tourist-visa/" target="_blank" title="Singapore Tourist Visa (T)">Singapore Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/singaporean-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/singapore-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://singapore-evisa.com/singapore-business-congress-trade-fair-visit-visa/" target="_blank" title="Singapore Business Visa * (B)">Singapore Business Visa * (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/singaporean-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/singapore-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://singapore-evisa.com/how-to-apply-for-singapore-visa/" target="_blank" title="How To Apply for Singapore Visa Online or Through The Embassy?">How To Apply for Singapore Visa Online or Through The Embassy?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/singaporean-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/singapore-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/singaporean-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Singaporean   Consulate General  in Ho Chi Minh City  ">    Singaporean   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/singapore-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/philippine-honorary-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="       Philippine  Honorary Consulate General  in Ho Chi Minh City       ">         Philippine  Honorary Consulate General  in Ho Chi Minh City        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/the-philippines-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/portuguese-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   Portuguese  Honorary Consulate  in Ho Chi Minh City   ">     Portuguese  Honorary Consulate  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/portuguese-honorary-consulate-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/german-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    German   Consulate General  in Ho Chi Minh City    ">      German   Consulate General  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/german-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/general-of-japan-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Consulate-General of Japan in Ho Chi Minh City    ">      Consulate-General of Japan in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/japanese-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/portuguese-honorary-consulate-in-hanoi-vietnam/" id="Toproll" title="   Portuguese  Honorary Consulate  in Hanoi   ">     Portuguese  Honorary Consulate  in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/portuguese-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-vancouver-canada/" id="Toproll" title="  Vietnamese   Consulate General  in Vancouver  ">    Vietnamese   Consulate General  in Vancouver   Canada</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-battambang-cambodia/" id="Toproll" title="      Vietnamese   Consulate General  in Battambang      ">        Vietnamese   Consulate General  in Battambang       Cambodia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-sihanoukville-cambodia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-phnom-penh-cambodia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-sihanoukville-cambodia/" id="Toproll" title="      Vietnamese   Consulate General  in Sihanoukville      ">        Vietnamese   Consulate General  in Sihanoukville       Cambodia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-battambang-cambodia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-phnom-penh-cambodia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/slovakian-honorary-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Slovakian  Honorary Consulate General  in Ho Chi Minh City  ">    Slovakian  Honorary Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/slovakian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-in-phnom-penh-cambodia/" id="Toproll" title="      Vietnamese   Embassy  in Phnom Penh      ">        Vietnamese   Embassy  in Phnom Penh       Cambodia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-battambang-cambodia/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-sihanoukville-cambodia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/sudanese-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   Sudanese  Honorary Consulate  in Ho Chi Minh City   ">     Sudanese  Honorary Consulate  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/sudanese-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://lao-evisa.com/how-to-apply-for-lao-evisa/" target="_blank" title="How To Apply for Lao eVisa?">How To Apply for Lao eVisa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-danang-vietnam/
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/laotian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/laotian-embassy-in-hanoi-vietnam/" id="Toproll" title="     Laotian   Embassy  in Hanoi     ">       Laotian   Embassy  in Hanoi      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-danang-vietnam/
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/laotian-consulate-general-in-danang-vietnam/" id="Toproll" title="     Laotian   Consulate General  in Danang     ">       Laotian   Consulate General  in Danang      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/laotian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/pakistani-honorary-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   Pakistani  Honorary Consulate General  in Ho Chi Minh City   ">     Pakistani  Honorary Consulate General  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/pakistan-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/sudanese-embassy-in-hanoi-vietnam/" id="Toproll" title="   Sudanese   Embassy  in Hanoi   ">     Sudanese   Embassy  in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/sudanese-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://bangladesh-evisa.com/do-you-need-visa-to-visit-bangladesh/" target="_blank" title="Do You Need Visa to Visit Bangladesh?">Do You Need Visa to Visit Bangladesh?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/bangladeshi-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/the-socialist-republic-of-vietnam-in-bangkok-thailand/" id="Toproll" title="    Embassy of the Socialist  Republic of Vietnam in Bangkok    ">      Embassy of the Socialist  Republic of Vietnam in Bangkok     Thailand</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-khon-kaen-thailand/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/italian-embassy-in-hanoi-vietnam/" id="Toproll" title="  Italian   Embassy  in Hanoi  ">    Italian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/italian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/british-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   British   Consulate General  in Ho Chi Minh City   ">     British   Consulate General  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/british-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/how-to-get-china-visa/" target="_blank" title="How to Get a China Visa?">How to Get a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/chinese-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/chinese-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/requirements-for-china-visa/" target="_blank" title="What Are the Requirements for a China Visa?">What Are the Requirements for a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/chinese-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/chinese-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/chinese-embassy-in-hanoi-vietnam/" id="Toproll" title="  Chinese   Embassy  in Hanoi  ">    Chinese   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/chinese-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-savannakhet-laos/" id="Toproll" title="  Vietnamese Consulate General in Savannakhet  ">    Vietnamese Consulate General in Savannakhet   Laos</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-luang-prabang-laos/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-pakse-laos/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-vientiane-laos/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-luang-prabang-laos/" id="Toproll" title="  Vietnamese Consulate General in Luang Prabang  ">    Vietnamese Consulate General in Luang Prabang   Laos</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-pakse-laos/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-savannakhet-laos/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-vientiane-laos/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnam-in-vientiane-laos/" id="Toproll" title="  Embassy of Vietnam in Vientiane  ">    Embassy of Vietnam in Vientiane   Laos</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-luang-prabang-laos/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-pakse-laos/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-savannakhet-laos/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/myanmar-honorary-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Myanmar  Honorary Consulate General  in Ho Chi Minh City  ">    Myanmar  Honorary Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/myanmar-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/thai-embassy-in-hanoi-vietnam/" id="Toproll" title="    Thai   Embassy  in Hanoi    ">      Thai   Embassy  in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/thai-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/italian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Italian   Consulate General  in Ho Chi Minh City  ">    Italian   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/italian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/greek-embassy-in-hanoi-vietnam/" id="Toproll" title="   Greek   Embassy  in Hanoi   ">     Greek   Embassy  in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/greek-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/switzerland-in-hanoi-vietnam/" id="Toproll" title="     Embassy of Switzerland in Hanoi      ">       Embassy of Switzerland in Hanoi       Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/swiss-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/finland-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Finland in Hanoi  ">    Embassy of Finland in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/finnish-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://e-visa-cambodia.com/how-to-apply-for-cambodia-visa/" target="_blank" title="How to Apply for a Cambodia Visa?">How to Apply for a Cambodia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/cambodian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/cambodia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/cambodia-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Cambodia in Hanoi  ">    Embassy of Cambodia in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/cambodian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/laotian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="     Laotian   Consulate General  in Ho Chi Minh City     ">       Laotian   Consulate General  in Ho Chi Minh City      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/laotian-consulate-general-in-danang-vietnam/
+ - https://vietnam-e-visas.com/embassy/laotian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-embassy-in-washington-united-states-of-america/" id="Toproll" title="    Vietnamese   Embassy  in Washington    ">      Vietnamese   Embassy  in Washington     United States of America</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-houston-united-states-of-america/
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-san-francisco-united-states-of-america/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-houston-united-states-of-america/" id="Toproll" title="    Vietnamese   Consulate General  in Houston    ">      Vietnamese   Consulate General  in Houston     United States of America</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-san-francisco-united-states-of-america/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-new-york-united-states-of-america/
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-san-francisco-united-states-of-america/" id="Toproll" title="    Vietnamese   Consulate General  in San Francisco    ">      Vietnamese   Consulate General  in San Francisco     United States of America</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-houston-united-states-of-america/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-new-york-united-states-of-america/
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-sydney-australia/" id="Toproll" title="   Vietnamese   Consulate General  in Sydney   ">     Vietnamese   Consulate General  in Sydney    Australia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-perth-australia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-perth-australia/" id="Toproll" title="   Vietnamese   Consulate General  in Perth   ">     Vietnamese   Consulate General  in Perth    Australia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-sydney-australia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/singapore-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Singapore in Hanoi  ">    Embassy of Singapore in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/singaporean-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="/vietnam-visas-on-arrival/" title="Vietnam visa on Arrival">Vietnam Visa on arrival</a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/vietnam-e-visa-official-site/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/visa-with-invitation-by-the-government-of-mexico-federal-level/" target="_blank" title="Visa with Invitation by the Government of Mexico (Federal Level)">Visa with Invitation by the Government of Mexico (Federal Level)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/mexican-honorary-consulate-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/mexican-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/mexico-electronic-authorization-system/" target="_blank" title="Mexico Electronic Authorization System (SAE)">Mexico Electronic Authorization System (SAE)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/mexican-honorary-consulate-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/mexican-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/mexican-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Mexican  Honorary Consulate  in Ho Chi Minh City    ">      Mexican  Honorary Consulate  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/mexican-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/indonesian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Indonesian   Consulate General  in Ho Chi Minh City    ">      Indonesian   Consulate General  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/indonesia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnam-in-rome-italy/" id="Toproll" title="  Embassy of Vietnam in Rome  ">    Embassy of Vietnam in Rome   Italy</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-turin-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnam-in-new-delhi-india/" id="Toproll" title="  Embassy of Vietnam in New Delhi  ">    Embassy of Vietnam in New Delhi   India</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-mumbai-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-in-canberra-australia/" id="Toproll" title="   Vietnamese   Embassy  in Canberra   ">     Vietnamese   Embassy  in Canberra    Australia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-perth-australia/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-sydney-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-new-york-united-states-of-america/" id="Toproll" title="    Vietnamese   Consulate  in New York    ">      Vietnamese   Consulate  in New York     United States of America</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-houston-united-states-of-america/
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-san-francisco-united-states-of-america/
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-guangzhou-china/" id="Toproll" title="     Vietnamese   Consulate General  in Guangzhou     ">       Vietnamese   Consulate General  in Guangzhou      China</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-kunming-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-nanning-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-shanghai-china/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-beijing-china/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-kunming-china/" id="Toproll" title="     Vietnamese   Consulate General  in Kunming     ">       Vietnamese   Consulate General  in Kunming      China</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-guangzhou-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-nanning-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-shanghai-china/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-beijing-china/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-nanning-china/" id="Toproll" title="     Vietnamese   Consulate General  in Nanning     ">       Vietnamese   Consulate General  in Nanning      China</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-guangzhou-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-kunming-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-shanghai-china/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-beijing-china/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-in-shanghai-china/" id="Toproll" title="     Vietnamese   Consulate General  in Shanghai     ">       Vietnamese   Consulate General  in Shanghai      China</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-guangzhou-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-kunming-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-nanning-china/
+ - https://vietnam-e-visas.com/embassy/vietnamese-in-beijing-china/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnam-in-berlin-germany/" id="Toproll" title="  Embassy of Vietnam in Berlin  ">    Embassy of Vietnam in Berlin   Germany</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-frankfurt-am-main-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-yekaterinburg-russia/" id="Toproll" title="     Vietnamese   Consulate General  in Yekaterinburg     ">       Vietnamese   Consulate General  in Yekaterinburg      Russia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-vladivostok-russia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-moscow-russia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-embassy-in-moscow-russia/" id="Toproll" title="     Vietnamese   Embassy  in Moscow     ">       Vietnamese   Embassy  in Moscow      Russia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-vladivostok-russia/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-yekaterinburg-russia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/uruguayan-embassy-in-hanoi-vietnam/" id="Toproll" title="  Uruguayan   Embassy  in Hanoi  ">    Uruguayan   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/uruguayan-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visit-visa/" target="_blank" title="Brazil Visitor Visa (Vivis)">Brazil Visitor Visa (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/brazil-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visitor-visa-transit-vivis/" target="_blank" title="Brazil Visitor Visa - Transit (Vivis)">Brazil Visitor Visa - Transit (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/brazil-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/apply-for-visa-for-brazil/" target="_blank" title="How to Apply for a Visa for Brazil?">How to Apply for a Visa for Brazil?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/brazil-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visa-requirements/" target="_blank" title="What Are the Brazil Visa Requirements?">What Are the Brazil Visa Requirements?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/brazil-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/extend-brazil-visa/" target="_blank" title="Can You Extend a Brazil Visa?">Can You Extend a Brazil Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/brazil-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/the-czech-republic-in-hanoi-vietnam/" id="Toproll" title="     Embassy of the Czech Republic in  Hanoi     ">       Embassy of the Czech Republic in  Hanoi      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/czech-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnam-in-tokyo-japan/" id="Toproll" title="          Embassy of Vietnam in Tokyo          ">            Embassy of Vietnam in Tokyo           Japan</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-general-in-osaka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-general-in-fukuoka-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-kushiro-japan/
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-nagoya-japan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/american-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    American   Consulate General in Ho Chi Minh City    ">      American   Consulate General in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/american-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/greek-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="   Greek  Honorary Consulate  in Ho Chi Minh City   ">     Greek  Honorary Consulate  in Ho Chi Minh City    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/greek-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/kuwaiti-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Kuwaiti   Consulate General  in Ho Chi Minh City  ">    Kuwaiti   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/kuwaiti-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/south-africa-in-hanoi-vietnam/" id="Toproll" title="    Embassy of South Africa in Hanoi    ">      Embassy of South Africa in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/south-african-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-canada.info/canada-super-visa-parents-and-grandparents-visa/" target="_blank" title="Canada Super Visa (Parents and Grandparents Visa)">Canada Super Visa (Parents and Grandparents Visa)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/canada-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/canada-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/canada-in-hanoi-vietnam/" id="Toproll" title="    Embassy of Canada in Hanoi    ">      Embassy of Canada in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/canada-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-pakse-laos/" id="Toproll" title="  Vietnamese   Consulate General  in Pakse  ">    Vietnamese   Consulate General  in Pakse   Laos</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-luang-prabang-laos/
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-savannakhet-laos/
+ - https://vietnam-e-visas.com/embassy/vietnam-in-vientiane-laos/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/japanese-embassy-in-hanoi-vietnam/" id="Toproll" title="    Japanese   Embassy  in Hanoi    ">      Japanese   Embassy  in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/general-of-japan-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/myanmar-in-hanoi-vietnam/" id="Toproll" title="  Embassy of Myanmar in Hanoi  ">    Embassy of Myanmar in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/myanmar-honorary-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/swiss-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="     Swiss   Consulate General  in Ho Chi Minh City     ">       Swiss   Consulate General  in Ho Chi Minh City      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/switzerland-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/uruguayan-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Uruguayan  Honorary Consulate  in Ho Chi Minh City  ">    Uruguayan  Honorary Consulate  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/uruguayan-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/pakistan-in-hanoi-vietnam/" id="Toproll" title="   Embassy of Pakistan in Hanoi   ">     Embassy of Pakistan in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/pakistani-honorary-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/swedish-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Swedish  Honorary Consulate General  in Ho Chi Minh City  ">    Swedish  Honorary Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/sweden-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/netherlands-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Netherlands   Consulate General  in Ho Chi Minh City  ">    Netherlands   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/netherlands-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/norwegian-in-hanoi-vietnam/" id="Toproll" title="  Norwegian   Embassy  in Hanoi  ">    Norwegian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/norwegian-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/belgian-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Belgian  Honorary Consulate  in Ho Chi Minh City    ">      Belgian  Honorary Consulate  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/belgium-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/chinese-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Chinese   Consulate General  in Ho Chi Minh City  ">    Chinese   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/chinese-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/finnish-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Finnish  Honorary Consulate  in Ho Chi Minh City  ">    Finnish  Honorary Consulate  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/finland-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/ukrainian-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Ukrainian  Honorary Consulate  in Ho Chi Minh City  ">    Ukrainian  Honorary Consulate  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/ukrainian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-in-ottawa-canada/" id="Toproll" title="  Vietnamese   Embassy  in Ottawa  ">    Vietnamese   Embassy  in Ottawa   Canada</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-vancouver-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/kuwaiti-embassy-in-hanoi-vietnam/" id="Toproll" title="  Kuwaiti   Embassy  in Hanoi  ">    Kuwaiti   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/kuwaiti-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-tourist-visa/" target="_blank" title="Bulgaria Tourist Visa (T)">Bulgaria Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/bulgaria-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-business-visit-visa/" target="_blank" title="Bulgaria Business Visa (B)">Bulgaria Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/bulgaria-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-medical-treatment-visa/" target="_blank" title="Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)">Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/bulgaria-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/panamanian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Panamanian   Consulate General  in Ho Chi Minh City  ">    Panamanian   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/panamanian-embassy-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/ukrainian-embassy-in-hanoi-vietnam/" id="Toproll" title="  Ukrainian   Embassy  in Hanoi  ">    Ukrainian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/ukrainian-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/british-embassy-in-hanoi-vietnam/" id="Toproll" title="   British   Embassy  in Hanoi   ">     British   Embassy  in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/british-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/slovakian-in-hanoi-vietnam/" id="Toproll" title="  Slovakian   Embassy  in Hanoi  ">    Slovakian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/slovakian-honorary-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-embassy-in-bern-switzerland/" id="Toproll" title="  Vietnamese   Embassy  in Bern  ">    Vietnamese   Embassy  in Bern   Switzerland</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-consulate-in-geneva-switzerland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/chile-in-hanoi-vietnam/" id="Toproll" title="     Embassy of Chile in Hanoi     ">       Embassy of Chile in Hanoi      Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/chilean-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-frankfurt-am-main-germany/" id="Toproll" title="  Vietnamese   Consulate General  in Frankfurt am Main  ">    Vietnamese   Consulate General  in Frankfurt am Main   Germany</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnam-in-berlin-germany/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-evisitor-visa/" target="_blank" title="Australia eVisitor Visa (subclass 651)">Australia eVisitor Visa (subclass 651)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-transit-visa/" target="_blank" title="Australia Transit Visa (subclass 771)">Australia Transit Visa (subclass 771)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-visitor-visa/" target="_blank" title="Australia Visitor Visa (subclass 600)">Australia Visitor Visa (subclass 600)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-work-and-holiday-visa/" target="_blank" title="Australia Work and Holiday Visa (subclass 462)">Australia Work and Holiday Visa (subclass 462)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-visa/" target="_blank" title="Australia Student Visa (subclass 500)">Australia Student Visa (subclass 500)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-training-visa/" target="_blank" title="Australia Training Visa (subclass 407)">Australia Training Visa (subclass 407)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-guardian-visa/" target="_blank" title="Australia Student Guardian Visa (subclass 590)">Australia Student Guardian Visa (subclass 590)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-working-holiday-visa/" target="_blank" title="Australia Working Holiday Visa (subclass 417)">Australia Working Holiday Visa (subclass 417)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/how-can-i-get-an-australian-visa/" target="_blank" title="How Can I Get an Australian Visa?">How Can I Get an Australian Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/australian-in-hanoi-vietnam/" id="Toproll" title=" Australian Embassy in Hanoi ">   Australian Embassy in Hanoi  Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-in-beijing-china/" id="Toproll" title="     Vietnamese   Embassy  in Beijing     ">       Vietnamese   Embassy  in Beijing      China</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-guangzhou-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-kunming-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-nanning-china/
+ - https://vietnam-e-visas.com/consulate/vietnamese-in-shanghai-china/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-mumbai-india/" id="Toproll" title="  Vietnamese   Consulate General  in Mumbai  ">    Vietnamese   Consulate General  in Mumbai   India</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnam-in-new-delhi-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/south-african-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    South African  Honorary Consulate  in Ho Chi Minh City    ">      South African  Honorary Consulate  in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/south-africa-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/malaysian-embassy-in-hanoi-vietnam/" id="Toproll" title="  Malaysian   Embassy  in Hanoi  ">    Malaysian   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/malaysian-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/danish-embassy-in-hanoi-vietnam/" id="Toproll" title="  Danish   Embassy  in Hanoi  ">    Danish   Embassy  in Hanoi   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/danish-trade-office-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/mexican-embassy-in-hanoi-vietnam/" id="Toproll" title="    Mexican   Embassy  in Hanoi    ">      Mexican   Embassy  in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/mexican-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/norwegian-honorary-consulate-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Norwegian  Honorary Consulate  in Ho Chi Minh City  ">    Norwegian  Honorary Consulate  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/norwegian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/australian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title=" Australian   Consulate General  in Ho Chi Minh City ">   Australian   Consulate General  in Ho Chi Minh City  Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/australian-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/cambodian-consulate-general-in-ho-chi-minh-city-vietnam/" id="Toproll" title="  Cambodian   Consulate General  in Ho Chi Minh City  ">    Cambodian   Consulate General  in Ho Chi Minh City   Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/cambodia-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-general-in-vladivostok-russia/" id="Toproll" title="     Vietnamese Consulate General in Vladivostok     ">       Vietnamese Consulate General in Vladivostok      Russia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-general-in-yekaterinburg-russia/
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-moscow-russia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/indian-embassy-in-hanoi-vietnam/" id="Toproll" title="          Indian   Embassy  in Hanoi       ">            Indian   Embassy  in Hanoi        Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/indian-consulate-general-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/austria-in-hanoi-vietnam/" id="Toproll" title="    Embassy of Austria in Hanoi    ">      Embassy of Austria in Hanoi     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/austrian-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-other-purposes/" target="_blank" title="Romania Long-Stay Visa for Other Purposes (Marked D/As)">Romania Long-Stay Visa for Other Purposes (Marked D/As)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-scientific-research/" target="_blank" title="Romania Long-Stay Visa for Scientific Research (Marked D/Cs)">Romania Long-Stay Visa for Scientific Research (Marked D/Cs)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-studies/" target="_blank" title="Romania Long-Stay Visa for Studies (Marked D/SD)">Romania Long-Stay Visa for Studies (Marked D/SD)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-secondment/" target="_blank" title="Romania Long-Stay Visa for Secondment (Marked D/Dt)">Romania Long-Stay Visa for Secondment (Marked D/Dt)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-employment/" target="_blank" title="Romania Long-Stay Visa for Employment (Marked D/Am)">Romania Long-Stay Visa for Employment (Marked D/Am)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-business-visa/" target="_blank" title="Romania Business Visa (B)">Romania Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-commercial-activities/" target="_blank" title="Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)">Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-religious-activities/" target="_blank" title="Romania Long-Stay Visa for Religious Activities (Marked D/Ar)">Romania Long-Stay Visa for Religious Activities (Marked D/Ar)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-diplomatic-and-service-visa/" target="_blank" title="Romania Diplomatic And Service Visa (Marked Ds)">Romania Diplomatic And Service Visa (Marked Ds)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-family-reunification/" target="_blank" title="Romania Long-Stay Visa for Family Reunification (Marked D/Vf)">Romania Long-Stay Visa for Family Reunification (Marked D/Vf)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-professional-activities/" target="_blank" title="Romania Long-Stay Visa for Professional Activities (Marked D/Ap)">Romania Long-Stay Visa for Professional Activities (Marked D/Ap)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-term-visa-for-cultural-scientific-humanitarian-activities-medical-treatment-etc/" target="_blank" title="Romania Medical Visa (MED)">Romania Medical Visa (MED)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-tourist-visa/" target="_blank" title="Romania Tourist Visa (T)">Romania Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/romania-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/vietnamese-in-bratislava-slovakia/" id="Toproll" title="   Vietnamese   Embassy  in Bratislava   ">     Vietnamese   Embassy  in Bratislava    Slovakia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/vietnamese-honorary-consulate-in-kosice-slovakia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/canada-in-ho-chi-minh-city-vietnam/" id="Toproll" title="    Consulate General of Canada in Ho Chi Minh City    ">      Consulate General of Canada in Ho Chi Minh City     Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/canada-in-hanoi-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/embassy/sri-lankan-in-hanoi-vietnam/" id="Toproll" title="   Sri Lankan Embassy in Hanoi   ">     Sri Lankan Embassy in Hanoi    Vietnam</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/consulate/sri-lankan-honorary-consulate-in-ho-chi-minh-city-vietnam/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-general-in-khon-kaen-thailand/" id="Toproll" title="    Vietnamese   Consulate General  in Khon Kaen    ">      Vietnamese   Consulate General  in Khon Kaen     Thailand</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/the-socialist-republic-of-vietnam-in-bangkok-thailand/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-honorary-consulate-in-turin-italy/" id="Toproll" title="  Vietnamese  Honorary Consulate  in Turin  ">    Vietnamese  Honorary Consulate  in Turin   Italy</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnam-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="/consulate/vietnamese-consulate-in-geneva-switzerland/" id="Toproll" title="  Vietnamese   Consulate  in Geneva  ">    Vietnamese   Consulate  in Geneva   Switzerland</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://vietnam-e-visas.com/embassy/vietnamese-embassy-in-bern-switzerland/
+

@@ -1,0 +1,12 @@
+[Scanning Images for] https://visa-kuwait.com/
+
+
+[Website]: https://visa-kuwait.com
+[Page]: https://visa-kuwait.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://visa-kuwait.com/images/souk%20ai-mubarakiya.jpg
+
+[Website]: https://visa-kuwait.com
+[Page]: https://visa-kuwait.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://visa-kuwait.com/images/souk%20ai-mubarakiya.webp

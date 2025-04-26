@@ -1,0 +1,8 @@
+[Scanning Images for] https://thailand-e-visas.com/
+
+[Failed to load]: https://thailand-e-visas.com/cdn-cgi/l/email-protection
+
+[Website]: https://thailand-e-visas.com
+[Page]: https://thailand-e-visas.com/consulate/dominican-(republic)-honorary-consulate-general-in-bangkok-thailand/
+[Line with Issue]:
+ - Encoded URL Detected: https://thailand-e-visas.com/consulate/dominican-%28republic%29-honorary-consulate-general-in-bangkok-thailand/

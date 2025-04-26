@@ -1,0 +1,24 @@
+[Scanning Images for] https://lao-evisa.com/
+
+
+[Website]: https://lao-evisa.com
+[Page]: https://lao-evisa.com/laos-study-visa/
+[Line with Issue]:
+ - Encoded URL Detected: https://lao-evisa.com/images/simplified-application-process-for-laos-student-visa%20application.png
+
+[Website]: https://lao-evisa.com
+[Page]: https://lao-evisa.com/laos-study-visa/
+[Line with Issue]:
+ - Encoded URL Detected: https://lao-evisa.com/images/simplified-application-process-for-laos-student-visa%20application.webp
+ - Broken Image: https://lao-evisa.com/images/laos-long-term_visas.webp (Exception: HTTPSConnectionPool(host='lao-evisa.com', port=443): Read timed out. (read timeout=5))
+
+[Website]: https://lao-evisa.com
+[Page]: https://lao-evisa.com/extending-your-stay-in-laos-with-an-e-visa/
+[Line with Issue]:
+ - Encoded URL Detected: https://lao-evisa.com/images/what-if-you-can%E2%80%99t-extend-your-stay.jpg
+
+[Website]: https://lao-evisa.com
+[Page]: https://lao-evisa.com/extending-your-stay-in-laos-with-an-e-visa/
+[Line with Issue]:
+ - Encoded URL Detected: https://lao-evisa.com/images/what-if-you-can%E2%80%99t-extend-your-stay.webp
+ - Broken Image: https://lao-evisa.com/apply-evisa-from-dominican-republic/ (Exception: HTTPSConnectionPool(host='lao-evisa.com', port=443): Read timed out. (read timeout=5))

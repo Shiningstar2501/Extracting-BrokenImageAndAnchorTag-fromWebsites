@@ -1,0 +1,50 @@
+[Scanning Images for] https://united-kingdom-visa.com/
+
+[Failed to load]: https://united-kingdom-visa.com/cdn-cgi/l/email-protection
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-gibraltar-gibraltar/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-gibraltar-gibraltar/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-cockburn-town-turks-and-caicos-islands/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-cockburn-town-turks-and-caicos-islands/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-brades-montserrat/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-brades-montserrat/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-stanley-falkland-islands-islas-malvinas/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-stanley-falkland-islands-islas-malvinas/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-jamestown-saint-helena-ascension-and-tristan-da-cunha/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-jamestown-saint-helena-ascension-and-tristan-da-cunha/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-the-valley-anguilla/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-the-valley-anguilla/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-embassy-in-pristina-kosovo/
+[Line with Issue]:
+ - Broken Image: https://united-kingdom-visa.com/images/flags/xk.svg --> 404
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/british-governor's-office-in-george-town-cayman-islands/
+[Line with Issue]:
+ - Encoded URL Detected: https://united-kingdom-visa.com/embassy/british-governor%27s-office-in-george-town-cayman-islands/
+
+[Website]: https://united-kingdom-visa.com
+[Page]: https://united-kingdom-visa.com/embassy/somaliland-representative-office-in-london-united-kingdom/
+[Line with Issue]:
+ - Broken Image: https://united-kingdom-visa.com/images/flags/xs.svg --> 404
+[Failed to load]: https://united-kingdom-visa.com/united-kingdom-eta/
+[Failed to load]: https://united-kingdom-visa.com/apply-evisa/

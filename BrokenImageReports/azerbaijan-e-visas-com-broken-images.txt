@@ -1,0 +1,61 @@
+[Scanning Images for] https://azerbaijan-e-visas.com - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Absheron_s.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Absheron_s.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Broken Image (img): https://azerbaijan-e-visas.com/cdn-cgi/image/format=auto,fit=contain,width=320/images/Absheron_s.jpg --> 404
+ - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/baku.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/baku.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+[Non-ASCII Image File]: Caspian city.jpg
+ - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Caspian%20city.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Caspian%20city.jpg
+ - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Gobustan.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Gobustan.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Broken Image (img): https://azerbaijan-e-visas.com/images/Icheri.png --> 404
+ - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Yanardag.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/Yanardag.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+[Non-ASCII Image File]: Nïabran.jpg
+ - CDN Image Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/N%C3%AFabran.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Encoded URL Detected: https://azerbaijan-e-visas.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/N%C3%AFabran.jpg
+
+[Website]: https://azerbaijan-e-visas.com
+[Page]: https://azerbaijan-e-visas.com
+[Line with Issue]:
+ - Broken Image (source): https://azerbaijan-e-visas.com/images/Garasu_s.webp --> 404

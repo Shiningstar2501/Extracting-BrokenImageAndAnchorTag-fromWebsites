@@ -1,0 +1,113 @@
+[Scanning Images for] https://online.tanzania-e-visas.com/
+
+ - Broken Image: https://online.tanzania-e-visas.com/images/logo.png (Exception: HTTPSConnectionPool(host='online.tanzania-e-visas.com', port=443): Read timed out. (read timeout=5))
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/serengeti-national-park/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/serengeti-national-park-in%20tanzania.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/serengeti-national-park/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/serengeti-national-park-in%20tanzania.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-tanzania-to-rwanda/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/nyungwe-forest-chimpanzee-trekking-%26-canopy-walk.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-tanzania-to-rwanda/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/akagera-national-park-rwanda%E2%80%99s-safari-destination.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-tanzania-to-rwanda/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/nyungwe-forest-chimpanzee-trekking-%26-canopy-walk.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-tanzania-to-rwanda/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/akagera-national-park-rwanda%E2%80%99s-safari-destination.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-kenya-to-tanzania/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/currency-%26-payments-at-the-kenya-tanzania-border.jpg
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/traveling-from-kenya-to-tanzania/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/currency-%26-payments-at-the-kenya-tanzania-border.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-business-culture-and-etiquette/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/business-meetings-%26-communication-in-tanzania.jpg
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-business-culture-and-etiquette/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/business-meetings-%26-communication-in-tanzania.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/packing-essentials-for-your-tanzania-trip/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/tech-and%2C-gadgets-list.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/packing-essentials-for-your-tanzania-trip/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/tech-and%2C-gadgets-list.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/serengeti-national-park-%26-ngorongoro-crater.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/arusha-%26-moshi.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/lake-victoria-%26-mwanza.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/ruaha-%26-selous-national-parks.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/budgeting-%26-accommodation-for-solo-travelers-in-tanzania.png
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/serengeti-national-park-%26-ngorongoro-crater.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/arusha-%26-moshi.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/lake-victoria-%26-mwanza.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/ruaha-%26-selous-national-parks.webp
+
+[Website]: https://online.tanzania-e-visas.com
+[Page]: https://online.tanzania-e-visas.com/tanzania-for-solo-travelers/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.tanzania-e-visas.com/images/budgeting-%26-accommodation-for-solo-travelers-in-tanzania.webp

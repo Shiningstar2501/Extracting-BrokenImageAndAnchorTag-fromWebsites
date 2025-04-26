@@ -1,0 +1,1969 @@
+[Unique Anchor Issues for Website]: https://botswana-visa.com/
+
+[Line with Issue]:
+<a class="navbar-brand mr-2 p-0 text-center" href="https://botswana-visa.com">
+<picture>
+<source srcset="https://botswana-visa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://botswana-visa.com/images/logo.png" style="width: auto; height:52px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com
+ - https://botswana-visa.com/
+ - https://botswana-visa.com/botswana-business-evisa/
+ - https://botswana-visa.com/who-needs-visa-for-botswana/
+
+[Line with Issue]:
+<a class="text-white font-weight-bold mb-2" href="https://botswana-visa.com/apply-for-botswana-visa/" title="How to Apply for a Botswana Visa?">How to Apply for a Botswana Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com
+ - https://botswana-visa.com/
+ - https://botswana-visa.com/application-status/
+ - https://botswana-visa.com/application/
+ - https://botswana-visa.com/apply-evisa-from-aland-islands/
+ - https://botswana-visa.com/apply-evisa-from-albania/
+ - https://botswana-visa.com/apply-evisa-from-algeria/
+ - https://botswana-visa.com/apply-evisa-from-american-samoa/
+ - https://botswana-visa.com/apply-evisa-from-andorra/
+ - https://botswana-visa.com/apply-evisa-from-anguilla/
+ - https://botswana-visa.com/apply-evisa-from-armenia/
+ - https://botswana-visa.com/apply-evisa-from-aruba/
+ - https://botswana-visa.com/apply-evisa-from-azerbaijan/
+ - https://botswana-visa.com/apply-evisa-from-bangladesh/
+ - https://botswana-visa.com/apply-evisa-from-belarus/
+ - https://botswana-visa.com/apply-evisa-from-benin/
+ - https://botswana-visa.com/apply-evisa-from-bermuda/
+ - https://botswana-visa.com/apply-evisa-from-bhutan/
+ - https://botswana-visa.com/apply-evisa-from-bolivia/
+ - https://botswana-visa.com/apply-evisa-from-bonaire/
+ - https://botswana-visa.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://botswana-visa.com/apply-evisa-from-bouvet-island/
+ - https://botswana-visa.com/apply-evisa-from-british-virgin-islands/
+ - https://botswana-visa.com/apply-evisa-from-burkina-faso/
+ - https://botswana-visa.com/apply-evisa-from-burundi/
+ - https://botswana-visa.com/apply-evisa-from-cambodia/
+ - https://botswana-visa.com/apply-evisa-from-cameroon/
+ - https://botswana-visa.com/apply-evisa-from-cape-verde/
+ - https://botswana-visa.com/apply-evisa-from-cayman-islands/
+ - https://botswana-visa.com/apply-evisa-from-china/
+ - https://botswana-visa.com/apply-evisa-from-christmas-island/
+ - https://botswana-visa.com/apply-evisa-from-colombia/
+ - https://botswana-visa.com/apply-evisa-from-comoros/
+ - https://botswana-visa.com/apply-evisa-from-congo-democratic-republic-of-the/
+ - https://botswana-visa.com/apply-evisa-from-cook-islands/
+ - https://botswana-visa.com/apply-evisa-from-cote-divoire/
+ - https://botswana-visa.com/apply-evisa-from-curacao/
+ - https://botswana-visa.com/apply-evisa-from-djibouti/
+ - https://botswana-visa.com/apply-evisa-from-ecuador/
+ - https://botswana-visa.com/apply-evisa-from-egypt/
+ - https://botswana-visa.com/apply-evisa-from-el-salvador/
+ - https://botswana-visa.com/apply-evisa-from-equatorial-guinea/
+ - https://botswana-visa.com/apply-evisa-from-ethiopia/
+ - https://botswana-visa.com/apply-evisa-from-falkland-islands-islas-malvinas/
+ - https://botswana-visa.com/apply-evisa-from-fiji/
+ - https://botswana-visa.com/apply-evisa-from-french-guiana/
+ - https://botswana-visa.com/apply-evisa-from-french-polynesia/
+ - https://botswana-visa.com/apply-evisa-from-french-southern-territories/
+ - https://botswana-visa.com/apply-evisa-from-gabon/
+ - https://botswana-visa.com/apply-evisa-from-georgia/
+ - https://botswana-visa.com/apply-evisa-from-ghana/
+ - https://botswana-visa.com/apply-evisa-from-gibraltar/
+ - https://botswana-visa.com/apply-evisa-from-greenland/
+ - https://botswana-visa.com/apply-evisa-from-guadeloupe/
+ - https://botswana-visa.com/apply-evisa-from-guam/
+ - https://botswana-visa.com/apply-evisa-from-guatemala/
+ - https://botswana-visa.com/apply-evisa-from-guinea-bissau/
+ - https://botswana-visa.com/apply-evisa-from-guinea/
+ - https://botswana-visa.com/apply-evisa-from-heard-island-and-mcdonald-islands/
+ - https://botswana-visa.com/apply-evisa-from-honduras/
+ - https://botswana-visa.com/apply-evisa-from-india/
+ - https://botswana-visa.com/apply-evisa-from-indonesia/
+ - https://botswana-visa.com/apply-evisa-from-jordan/
+ - https://botswana-visa.com/apply-evisa-from-kazakhstan/
+ - https://botswana-visa.com/apply-evisa-from-kyrgyzstan/
+ - https://botswana-visa.com/apply-evisa-from-laos/
+ - https://botswana-visa.com/apply-evisa-from-lebanon/
+ - https://botswana-visa.com/apply-evisa-from-liberia/
+ - https://botswana-visa.com/apply-evisa-from-macedonia-republic-of/
+ - https://botswana-visa.com/apply-evisa-from-madagascar/
+ - https://botswana-visa.com/apply-evisa-from-marshall-islands/
+ - https://botswana-visa.com/apply-evisa-from-martinique/
+ - https://botswana-visa.com/apply-evisa-from-mauritania/
+ - https://botswana-visa.com/apply-evisa-from-mayotte/
+ - https://botswana-visa.com/apply-evisa-from-micronesia-federated-states-of/
+ - https://botswana-visa.com/apply-evisa-from-moldova/
+ - https://botswana-visa.com/apply-evisa-from-mongolia/
+ - https://botswana-visa.com/apply-evisa-from-montenegro/
+ - https://botswana-visa.com/apply-evisa-from-montserrat/
+ - https://botswana-visa.com/apply-evisa-from-morocco/
+ - https://botswana-visa.com/apply-evisa-from-myanmar/
+ - https://botswana-visa.com/apply-evisa-from-nepal/
+ - https://botswana-visa.com/apply-evisa-from-netherlands/
+ - https://botswana-visa.com/apply-evisa-from-new-caledonia/
+ - https://botswana-visa.com/apply-evisa-from-nicaragua/
+ - https://botswana-visa.com/apply-evisa-from-niger/
+ - https://botswana-visa.com/apply-evisa-from-nigeria/
+ - https://botswana-visa.com/apply-evisa-from-niue/
+ - https://botswana-visa.com/apply-evisa-from-norfolk-island/
+ - https://botswana-visa.com/apply-evisa-from-northern-mariana-islands/
+ - https://botswana-visa.com/apply-evisa-from-pakistan/
+ - https://botswana-visa.com/apply-evisa-from-palau/
+ - https://botswana-visa.com/apply-evisa-from-panama/
+ - https://botswana-visa.com/apply-evisa-from-philippines/
+ - https://botswana-visa.com/apply-evisa-from-pitcairn/
+ - https://botswana-visa.com/apply-evisa-from-puerto-rico/
+ - https://botswana-visa.com/apply-evisa-from-reunion/
+ - https://botswana-visa.com/apply-evisa-from-rwanda/
+ - https://botswana-visa.com/apply-evisa-from-saint-barthelemy/
+ - https://botswana-visa.com/apply-evisa-from-saint-martin/
+ - https://botswana-visa.com/apply-evisa-from-sao-tome-and-principe/
+ - https://botswana-visa.com/apply-evisa-from-senegal/
+ - https://botswana-visa.com/apply-evisa-from-serbia/
+ - https://botswana-visa.com/apply-evisa-from-sint-maarten/
+ - https://botswana-visa.com/apply-evisa-from-south-georgia-and-the-south-sandwich-islands/
+ - https://botswana-visa.com/apply-evisa-from-sri-lanka/
+ - https://botswana-visa.com/apply-evisa-from-suriname/
+ - https://botswana-visa.com/apply-evisa-from-svalbard-and-jan-mayen/
+ - https://botswana-visa.com/apply-evisa-from-taiwan/
+ - https://botswana-visa.com/apply-evisa-from-tajikistan/
+ - https://botswana-visa.com/apply-evisa-from-thailand/
+ - https://botswana-visa.com/apply-evisa-from-togo/
+ - https://botswana-visa.com/apply-evisa-from-tokelau/
+ - https://botswana-visa.com/apply-evisa-from-tunisia/
+ - https://botswana-visa.com/apply-evisa-from-turkmenistan/
+ - https://botswana-visa.com/apply-evisa-from-turks-and-caicos-islands/
+ - https://botswana-visa.com/apply-evisa-from-vietnam/
+ - https://botswana-visa.com/apply-evisa-from-wallis-and-futuna/
+ - https://botswana-visa.com/apply-evisa-from-western-sahara/
+ - https://botswana-visa.com/apply-for-botswana-visa-through-embassy-and-consulate/
+ - https://botswana-visa.com/apply-for-botswana-visa/
+ - https://botswana-visa.com/botswana-business-evisa/
+ - https://botswana-visa.com/botswana-diplomatic-evisa/
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+ - https://botswana-visa.com/botswana-employment-evisa/
+ - https://botswana-visa.com/botswana-evisa-photo-requirement/
+ - https://botswana-visa.com/botswana-investment-evisa/
+ - https://botswana-visa.com/botswana-official-evisa/
+ - https://botswana-visa.com/botswana-study-evisa/
+ - https://botswana-visa.com/botswana-tourist-evisa/
+ - https://botswana-visa.com/botswana-transit-evisa/
+ - https://botswana-visa.com/botswana-visa-fees/
+ - https://botswana-visa.com/botswana-visas-types/
+ - https://botswana-visa.com/botswana-visitor-evisa/
+ - https://botswana-visa.com/complete-application/
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/austrian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/belgium-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/
+ - https://botswana-visa.com/consulate/botswana-in-accra-ghana/
+ - https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/
+ - https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/
+ - https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/
+ - https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+ - https://botswana-visa.com/consulate/botswana-in-kampala-uganda/
+ - https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/
+ - https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+ - https://botswana-visa.com/consulate/botswana-in-oslo-norway/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/
+ - https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/consulate/botswana-in-treviso-italy/
+ - https://botswana-visa.com/consulate/botswana-in-valletta-malta/
+ - https://botswana-visa.com/consulate/british-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/canadian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/cypriot-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/czech-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/danish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/french-in-maun-botswana/
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/german-in-maun-botswana/
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/greek-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/guyanese-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/high-commission-of-india-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/hungarian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/irish-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/israeli-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/italian-vice-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/jamaican-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/kenyan-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mauritian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mozambican-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/namibia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/netherlands-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/nigerian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/norwegian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/philippine-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/south-african-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/spanish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/sweden-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/swiss-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/zambian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/contact-us/
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+ - https://botswana-visa.com/embassy/american-embassy-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/angolan-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+ - https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/
+ - https://botswana-visa.com/embassy/botswana-in-beijing-china/
+ - https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/
+ - https://botswana-visa.com/embassy/botswana-in-brussels-belgium/
+ - https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/
+ - https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+ - https://botswana-visa.com/embassy/botswana-in-tokyo-japan/
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/france-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/german-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/
+ - https://botswana-visa.com/embassy/japanese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/russian-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/turkish-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/zimbabwean-in-gaborone-botswana/
+ - https://botswana-visa.com/general-botswana-visa-requirements/
+ - https://botswana-visa.com/india-visa-for-botswana-citizens/
+ - https://botswana-visa.com/privacy-policy/
+ - https://botswana-visa.com/residence-permit-for-botswana/
+ - https://botswana-visa.com/term-and-condition/
+ - https://botswana-visa.com/traveling-to-india-during-festival-seasons-a-memorable-experience/
+ - https://botswana-visa.com/who-needs-visa-for-botswana/
+
+[Line with Issue]:
+<a class="text-white font-weight-bold mb-2" href="https://botswana-visa.com/who-needs-visa-for-botswana/" title="Who Needs a Visa for Botswana?">Who Needs a Visa for Botswana?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com
+ - https://botswana-visa.com/
+ - https://botswana-visa.com/application-status/
+ - https://botswana-visa.com/application/
+ - https://botswana-visa.com/apply-evisa-from-aland-islands/
+ - https://botswana-visa.com/apply-evisa-from-albania/
+ - https://botswana-visa.com/apply-evisa-from-algeria/
+ - https://botswana-visa.com/apply-evisa-from-american-samoa/
+ - https://botswana-visa.com/apply-evisa-from-andorra/
+ - https://botswana-visa.com/apply-evisa-from-anguilla/
+ - https://botswana-visa.com/apply-evisa-from-armenia/
+ - https://botswana-visa.com/apply-evisa-from-aruba/
+ - https://botswana-visa.com/apply-evisa-from-azerbaijan/
+ - https://botswana-visa.com/apply-evisa-from-bangladesh/
+ - https://botswana-visa.com/apply-evisa-from-belarus/
+ - https://botswana-visa.com/apply-evisa-from-benin/
+ - https://botswana-visa.com/apply-evisa-from-bermuda/
+ - https://botswana-visa.com/apply-evisa-from-bhutan/
+ - https://botswana-visa.com/apply-evisa-from-bolivia/
+ - https://botswana-visa.com/apply-evisa-from-bonaire/
+ - https://botswana-visa.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://botswana-visa.com/apply-evisa-from-bouvet-island/
+ - https://botswana-visa.com/apply-evisa-from-british-virgin-islands/
+ - https://botswana-visa.com/apply-evisa-from-burkina-faso/
+ - https://botswana-visa.com/apply-evisa-from-burundi/
+ - https://botswana-visa.com/apply-evisa-from-cambodia/
+ - https://botswana-visa.com/apply-evisa-from-cameroon/
+ - https://botswana-visa.com/apply-evisa-from-cape-verde/
+ - https://botswana-visa.com/apply-evisa-from-cayman-islands/
+ - https://botswana-visa.com/apply-evisa-from-china/
+ - https://botswana-visa.com/apply-evisa-from-christmas-island/
+ - https://botswana-visa.com/apply-evisa-from-colombia/
+ - https://botswana-visa.com/apply-evisa-from-comoros/
+ - https://botswana-visa.com/apply-evisa-from-congo-democratic-republic-of-the/
+ - https://botswana-visa.com/apply-evisa-from-cook-islands/
+ - https://botswana-visa.com/apply-evisa-from-cote-divoire/
+ - https://botswana-visa.com/apply-evisa-from-curacao/
+ - https://botswana-visa.com/apply-evisa-from-djibouti/
+ - https://botswana-visa.com/apply-evisa-from-ecuador/
+ - https://botswana-visa.com/apply-evisa-from-egypt/
+ - https://botswana-visa.com/apply-evisa-from-el-salvador/
+ - https://botswana-visa.com/apply-evisa-from-equatorial-guinea/
+ - https://botswana-visa.com/apply-evisa-from-ethiopia/
+ - https://botswana-visa.com/apply-evisa-from-falkland-islands-islas-malvinas/
+ - https://botswana-visa.com/apply-evisa-from-fiji/
+ - https://botswana-visa.com/apply-evisa-from-french-guiana/
+ - https://botswana-visa.com/apply-evisa-from-french-polynesia/
+ - https://botswana-visa.com/apply-evisa-from-french-southern-territories/
+ - https://botswana-visa.com/apply-evisa-from-gabon/
+ - https://botswana-visa.com/apply-evisa-from-georgia/
+ - https://botswana-visa.com/apply-evisa-from-ghana/
+ - https://botswana-visa.com/apply-evisa-from-gibraltar/
+ - https://botswana-visa.com/apply-evisa-from-greenland/
+ - https://botswana-visa.com/apply-evisa-from-guadeloupe/
+ - https://botswana-visa.com/apply-evisa-from-guam/
+ - https://botswana-visa.com/apply-evisa-from-guatemala/
+ - https://botswana-visa.com/apply-evisa-from-guinea-bissau/
+ - https://botswana-visa.com/apply-evisa-from-guinea/
+ - https://botswana-visa.com/apply-evisa-from-heard-island-and-mcdonald-islands/
+ - https://botswana-visa.com/apply-evisa-from-honduras/
+ - https://botswana-visa.com/apply-evisa-from-india/
+ - https://botswana-visa.com/apply-evisa-from-indonesia/
+ - https://botswana-visa.com/apply-evisa-from-jordan/
+ - https://botswana-visa.com/apply-evisa-from-kazakhstan/
+ - https://botswana-visa.com/apply-evisa-from-kyrgyzstan/
+ - https://botswana-visa.com/apply-evisa-from-laos/
+ - https://botswana-visa.com/apply-evisa-from-lebanon/
+ - https://botswana-visa.com/apply-evisa-from-liberia/
+ - https://botswana-visa.com/apply-evisa-from-macedonia-republic-of/
+ - https://botswana-visa.com/apply-evisa-from-madagascar/
+ - https://botswana-visa.com/apply-evisa-from-marshall-islands/
+ - https://botswana-visa.com/apply-evisa-from-martinique/
+ - https://botswana-visa.com/apply-evisa-from-mauritania/
+ - https://botswana-visa.com/apply-evisa-from-mayotte/
+ - https://botswana-visa.com/apply-evisa-from-micronesia-federated-states-of/
+ - https://botswana-visa.com/apply-evisa-from-moldova/
+ - https://botswana-visa.com/apply-evisa-from-mongolia/
+ - https://botswana-visa.com/apply-evisa-from-montenegro/
+ - https://botswana-visa.com/apply-evisa-from-montserrat/
+ - https://botswana-visa.com/apply-evisa-from-morocco/
+ - https://botswana-visa.com/apply-evisa-from-myanmar/
+ - https://botswana-visa.com/apply-evisa-from-nepal/
+ - https://botswana-visa.com/apply-evisa-from-netherlands/
+ - https://botswana-visa.com/apply-evisa-from-new-caledonia/
+ - https://botswana-visa.com/apply-evisa-from-nicaragua/
+ - https://botswana-visa.com/apply-evisa-from-niger/
+ - https://botswana-visa.com/apply-evisa-from-nigeria/
+ - https://botswana-visa.com/apply-evisa-from-niue/
+ - https://botswana-visa.com/apply-evisa-from-norfolk-island/
+ - https://botswana-visa.com/apply-evisa-from-northern-mariana-islands/
+ - https://botswana-visa.com/apply-evisa-from-pakistan/
+ - https://botswana-visa.com/apply-evisa-from-palau/
+ - https://botswana-visa.com/apply-evisa-from-panama/
+ - https://botswana-visa.com/apply-evisa-from-philippines/
+ - https://botswana-visa.com/apply-evisa-from-pitcairn/
+ - https://botswana-visa.com/apply-evisa-from-puerto-rico/
+ - https://botswana-visa.com/apply-evisa-from-reunion/
+ - https://botswana-visa.com/apply-evisa-from-rwanda/
+ - https://botswana-visa.com/apply-evisa-from-saint-barthelemy/
+ - https://botswana-visa.com/apply-evisa-from-saint-martin/
+ - https://botswana-visa.com/apply-evisa-from-sao-tome-and-principe/
+ - https://botswana-visa.com/apply-evisa-from-senegal/
+ - https://botswana-visa.com/apply-evisa-from-serbia/
+ - https://botswana-visa.com/apply-evisa-from-sint-maarten/
+ - https://botswana-visa.com/apply-evisa-from-south-georgia-and-the-south-sandwich-islands/
+ - https://botswana-visa.com/apply-evisa-from-sri-lanka/
+ - https://botswana-visa.com/apply-evisa-from-suriname/
+ - https://botswana-visa.com/apply-evisa-from-svalbard-and-jan-mayen/
+ - https://botswana-visa.com/apply-evisa-from-taiwan/
+ - https://botswana-visa.com/apply-evisa-from-tajikistan/
+ - https://botswana-visa.com/apply-evisa-from-thailand/
+ - https://botswana-visa.com/apply-evisa-from-togo/
+ - https://botswana-visa.com/apply-evisa-from-tokelau/
+ - https://botswana-visa.com/apply-evisa-from-tunisia/
+ - https://botswana-visa.com/apply-evisa-from-turkmenistan/
+ - https://botswana-visa.com/apply-evisa-from-turks-and-caicos-islands/
+ - https://botswana-visa.com/apply-evisa-from-vietnam/
+ - https://botswana-visa.com/apply-evisa-from-wallis-and-futuna/
+ - https://botswana-visa.com/apply-evisa-from-western-sahara/
+ - https://botswana-visa.com/apply-for-botswana-visa-through-embassy-and-consulate/
+ - https://botswana-visa.com/apply-for-botswana-visa/
+ - https://botswana-visa.com/botswana-business-evisa/
+ - https://botswana-visa.com/botswana-diplomatic-evisa/
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+ - https://botswana-visa.com/botswana-employment-evisa/
+ - https://botswana-visa.com/botswana-evisa-photo-requirement/
+ - https://botswana-visa.com/botswana-investment-evisa/
+ - https://botswana-visa.com/botswana-official-evisa/
+ - https://botswana-visa.com/botswana-study-evisa/
+ - https://botswana-visa.com/botswana-tourist-evisa/
+ - https://botswana-visa.com/botswana-transit-evisa/
+ - https://botswana-visa.com/botswana-visa-fees/
+ - https://botswana-visa.com/botswana-visas-types/
+ - https://botswana-visa.com/botswana-visitor-evisa/
+ - https://botswana-visa.com/complete-application/
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/austrian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/belgium-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/
+ - https://botswana-visa.com/consulate/botswana-in-accra-ghana/
+ - https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/
+ - https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/
+ - https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/
+ - https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+ - https://botswana-visa.com/consulate/botswana-in-kampala-uganda/
+ - https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/
+ - https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+ - https://botswana-visa.com/consulate/botswana-in-oslo-norway/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/
+ - https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/consulate/botswana-in-treviso-italy/
+ - https://botswana-visa.com/consulate/botswana-in-valletta-malta/
+ - https://botswana-visa.com/consulate/british-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/canadian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/cypriot-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/czech-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/danish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/french-in-maun-botswana/
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/german-in-maun-botswana/
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/greek-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/guyanese-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/high-commission-of-india-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/hungarian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/irish-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/israeli-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/italian-vice-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/jamaican-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/kenyan-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mauritian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mozambican-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/namibia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/netherlands-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/nigerian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/norwegian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/philippine-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/south-african-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/spanish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/sweden-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/swiss-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/zambian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/contact-us/
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+ - https://botswana-visa.com/embassy/american-embassy-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/angolan-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+ - https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/
+ - https://botswana-visa.com/embassy/botswana-in-beijing-china/
+ - https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/
+ - https://botswana-visa.com/embassy/botswana-in-brussels-belgium/
+ - https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/
+ - https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+ - https://botswana-visa.com/embassy/botswana-in-tokyo-japan/
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/france-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/german-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/
+ - https://botswana-visa.com/embassy/japanese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/russian-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/turkish-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/zimbabwean-in-gaborone-botswana/
+ - https://botswana-visa.com/general-botswana-visa-requirements/
+ - https://botswana-visa.com/india-visa-for-botswana-citizens/
+ - https://botswana-visa.com/privacy-policy/
+ - https://botswana-visa.com/residence-permit-for-botswana/
+ - https://botswana-visa.com/term-and-condition/
+ - https://botswana-visa.com/traveling-to-india-during-festival-seasons-a-memorable-experience/
+ - https://botswana-visa.com/who-needs-visa-for-botswana/
+
+[Line with Issue]:
+<a class="text-dark" href="https://botswana-visa.com">botswana-visa.com</a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com
+ - https://botswana-visa.com/
+ - https://botswana-visa.com/application-status/
+ - https://botswana-visa.com/application/
+ - https://botswana-visa.com/apply-evisa-from-aland-islands/
+ - https://botswana-visa.com/apply-evisa-from-albania/
+ - https://botswana-visa.com/apply-evisa-from-algeria/
+ - https://botswana-visa.com/apply-evisa-from-american-samoa/
+ - https://botswana-visa.com/apply-evisa-from-andorra/
+ - https://botswana-visa.com/apply-evisa-from-anguilla/
+ - https://botswana-visa.com/apply-evisa-from-armenia/
+ - https://botswana-visa.com/apply-evisa-from-aruba/
+ - https://botswana-visa.com/apply-evisa-from-azerbaijan/
+ - https://botswana-visa.com/apply-evisa-from-bangladesh/
+ - https://botswana-visa.com/apply-evisa-from-belarus/
+ - https://botswana-visa.com/apply-evisa-from-benin/
+ - https://botswana-visa.com/apply-evisa-from-bermuda/
+ - https://botswana-visa.com/apply-evisa-from-bhutan/
+ - https://botswana-visa.com/apply-evisa-from-bolivia/
+ - https://botswana-visa.com/apply-evisa-from-bonaire/
+ - https://botswana-visa.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://botswana-visa.com/apply-evisa-from-bouvet-island/
+ - https://botswana-visa.com/apply-evisa-from-british-virgin-islands/
+ - https://botswana-visa.com/apply-evisa-from-burkina-faso/
+ - https://botswana-visa.com/apply-evisa-from-burundi/
+ - https://botswana-visa.com/apply-evisa-from-cambodia/
+ - https://botswana-visa.com/apply-evisa-from-cameroon/
+ - https://botswana-visa.com/apply-evisa-from-cape-verde/
+ - https://botswana-visa.com/apply-evisa-from-cayman-islands/
+ - https://botswana-visa.com/apply-evisa-from-china/
+ - https://botswana-visa.com/apply-evisa-from-christmas-island/
+ - https://botswana-visa.com/apply-evisa-from-colombia/
+ - https://botswana-visa.com/apply-evisa-from-comoros/
+ - https://botswana-visa.com/apply-evisa-from-congo-democratic-republic-of-the/
+ - https://botswana-visa.com/apply-evisa-from-cook-islands/
+ - https://botswana-visa.com/apply-evisa-from-cote-divoire/
+ - https://botswana-visa.com/apply-evisa-from-curacao/
+ - https://botswana-visa.com/apply-evisa-from-djibouti/
+ - https://botswana-visa.com/apply-evisa-from-ecuador/
+ - https://botswana-visa.com/apply-evisa-from-egypt/
+ - https://botswana-visa.com/apply-evisa-from-el-salvador/
+ - https://botswana-visa.com/apply-evisa-from-equatorial-guinea/
+ - https://botswana-visa.com/apply-evisa-from-ethiopia/
+ - https://botswana-visa.com/apply-evisa-from-falkland-islands-islas-malvinas/
+ - https://botswana-visa.com/apply-evisa-from-fiji/
+ - https://botswana-visa.com/apply-evisa-from-french-guiana/
+ - https://botswana-visa.com/apply-evisa-from-french-polynesia/
+ - https://botswana-visa.com/apply-evisa-from-french-southern-territories/
+ - https://botswana-visa.com/apply-evisa-from-gabon/
+ - https://botswana-visa.com/apply-evisa-from-georgia/
+ - https://botswana-visa.com/apply-evisa-from-ghana/
+ - https://botswana-visa.com/apply-evisa-from-gibraltar/
+ - https://botswana-visa.com/apply-evisa-from-greenland/
+ - https://botswana-visa.com/apply-evisa-from-guadeloupe/
+ - https://botswana-visa.com/apply-evisa-from-guam/
+ - https://botswana-visa.com/apply-evisa-from-guatemala/
+ - https://botswana-visa.com/apply-evisa-from-guinea-bissau/
+ - https://botswana-visa.com/apply-evisa-from-guinea/
+ - https://botswana-visa.com/apply-evisa-from-heard-island-and-mcdonald-islands/
+ - https://botswana-visa.com/apply-evisa-from-honduras/
+ - https://botswana-visa.com/apply-evisa-from-india/
+ - https://botswana-visa.com/apply-evisa-from-indonesia/
+ - https://botswana-visa.com/apply-evisa-from-jordan/
+ - https://botswana-visa.com/apply-evisa-from-kazakhstan/
+ - https://botswana-visa.com/apply-evisa-from-kyrgyzstan/
+ - https://botswana-visa.com/apply-evisa-from-laos/
+ - https://botswana-visa.com/apply-evisa-from-lebanon/
+ - https://botswana-visa.com/apply-evisa-from-liberia/
+ - https://botswana-visa.com/apply-evisa-from-macedonia-republic-of/
+ - https://botswana-visa.com/apply-evisa-from-madagascar/
+ - https://botswana-visa.com/apply-evisa-from-marshall-islands/
+ - https://botswana-visa.com/apply-evisa-from-martinique/
+ - https://botswana-visa.com/apply-evisa-from-mauritania/
+ - https://botswana-visa.com/apply-evisa-from-mayotte/
+ - https://botswana-visa.com/apply-evisa-from-micronesia-federated-states-of/
+ - https://botswana-visa.com/apply-evisa-from-moldova/
+ - https://botswana-visa.com/apply-evisa-from-mongolia/
+ - https://botswana-visa.com/apply-evisa-from-montenegro/
+ - https://botswana-visa.com/apply-evisa-from-montserrat/
+ - https://botswana-visa.com/apply-evisa-from-morocco/
+ - https://botswana-visa.com/apply-evisa-from-myanmar/
+ - https://botswana-visa.com/apply-evisa-from-nepal/
+ - https://botswana-visa.com/apply-evisa-from-netherlands/
+ - https://botswana-visa.com/apply-evisa-from-new-caledonia/
+ - https://botswana-visa.com/apply-evisa-from-nicaragua/
+ - https://botswana-visa.com/apply-evisa-from-niger/
+ - https://botswana-visa.com/apply-evisa-from-nigeria/
+ - https://botswana-visa.com/apply-evisa-from-niue/
+ - https://botswana-visa.com/apply-evisa-from-norfolk-island/
+ - https://botswana-visa.com/apply-evisa-from-northern-mariana-islands/
+ - https://botswana-visa.com/apply-evisa-from-pakistan/
+ - https://botswana-visa.com/apply-evisa-from-palau/
+ - https://botswana-visa.com/apply-evisa-from-panama/
+ - https://botswana-visa.com/apply-evisa-from-philippines/
+ - https://botswana-visa.com/apply-evisa-from-pitcairn/
+ - https://botswana-visa.com/apply-evisa-from-puerto-rico/
+ - https://botswana-visa.com/apply-evisa-from-reunion/
+ - https://botswana-visa.com/apply-evisa-from-rwanda/
+ - https://botswana-visa.com/apply-evisa-from-saint-barthelemy/
+ - https://botswana-visa.com/apply-evisa-from-saint-martin/
+ - https://botswana-visa.com/apply-evisa-from-sao-tome-and-principe/
+ - https://botswana-visa.com/apply-evisa-from-senegal/
+ - https://botswana-visa.com/apply-evisa-from-serbia/
+ - https://botswana-visa.com/apply-evisa-from-sint-maarten/
+ - https://botswana-visa.com/apply-evisa-from-south-georgia-and-the-south-sandwich-islands/
+ - https://botswana-visa.com/apply-evisa-from-sri-lanka/
+ - https://botswana-visa.com/apply-evisa-from-suriname/
+ - https://botswana-visa.com/apply-evisa-from-svalbard-and-jan-mayen/
+ - https://botswana-visa.com/apply-evisa-from-taiwan/
+ - https://botswana-visa.com/apply-evisa-from-tajikistan/
+ - https://botswana-visa.com/apply-evisa-from-thailand/
+ - https://botswana-visa.com/apply-evisa-from-togo/
+ - https://botswana-visa.com/apply-evisa-from-tokelau/
+ - https://botswana-visa.com/apply-evisa-from-tunisia/
+ - https://botswana-visa.com/apply-evisa-from-turkmenistan/
+ - https://botswana-visa.com/apply-evisa-from-turks-and-caicos-islands/
+ - https://botswana-visa.com/apply-evisa-from-vietnam/
+ - https://botswana-visa.com/apply-evisa-from-wallis-and-futuna/
+ - https://botswana-visa.com/apply-evisa-from-western-sahara/
+ - https://botswana-visa.com/apply-for-botswana-visa-through-embassy-and-consulate/
+ - https://botswana-visa.com/apply-for-botswana-visa/
+ - https://botswana-visa.com/botswana-business-evisa/
+ - https://botswana-visa.com/botswana-diplomatic-evisa/
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+ - https://botswana-visa.com/botswana-employment-evisa/
+ - https://botswana-visa.com/botswana-evisa-photo-requirement/
+ - https://botswana-visa.com/botswana-investment-evisa/
+ - https://botswana-visa.com/botswana-official-evisa/
+ - https://botswana-visa.com/botswana-study-evisa/
+ - https://botswana-visa.com/botswana-tourist-evisa/
+ - https://botswana-visa.com/botswana-transit-evisa/
+ - https://botswana-visa.com/botswana-visa-fees/
+ - https://botswana-visa.com/botswana-visas-types/
+ - https://botswana-visa.com/botswana-visitor-evisa/
+ - https://botswana-visa.com/complete-application/
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/austrian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/belgium-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/
+ - https://botswana-visa.com/consulate/botswana-in-accra-ghana/
+ - https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/
+ - https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/
+ - https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/
+ - https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+ - https://botswana-visa.com/consulate/botswana-in-kampala-uganda/
+ - https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/
+ - https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+ - https://botswana-visa.com/consulate/botswana-in-oslo-norway/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/
+ - https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/consulate/botswana-in-treviso-italy/
+ - https://botswana-visa.com/consulate/botswana-in-valletta-malta/
+ - https://botswana-visa.com/consulate/british-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/canadian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/cypriot-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/czech-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/danish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/french-in-maun-botswana/
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/german-in-maun-botswana/
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/greek-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/guyanese-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/high-commission-of-india-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/hungarian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/irish-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/israeli-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/italian-vice-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/jamaican-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/kenyan-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mauritian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/mozambican-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/namibia-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/netherlands-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/nigerian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/norwegian-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/philippine-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/south-african-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/spanish-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/sweden-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/swiss-honorary-in-gaborone-botswana/
+ - https://botswana-visa.com/consulate/zambian-high-commission-in-gaborone-botswana/
+ - https://botswana-visa.com/contact-us/
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+ - https://botswana-visa.com/embassy/american-embassy-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/angolan-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+ - https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/
+ - https://botswana-visa.com/embassy/botswana-in-beijing-china/
+ - https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/
+ - https://botswana-visa.com/embassy/botswana-in-brussels-belgium/
+ - https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/
+ - https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+ - https://botswana-visa.com/embassy/botswana-in-tokyo-japan/
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/france-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/german-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/
+ - https://botswana-visa.com/embassy/japanese-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/russian-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/turkish-in-gaborone-botswana/
+ - https://botswana-visa.com/embassy/zimbabwean-in-gaborone-botswana/
+ - https://botswana-visa.com/general-botswana-visa-requirements/
+ - https://botswana-visa.com/india-visa-for-botswana-citizens/
+ - https://botswana-visa.com/privacy-policy/
+ - https://botswana-visa.com/residence-permit-for-botswana/
+ - https://botswana-visa.com/term-and-condition/
+ - https://botswana-visa.com/traveling-to-india-during-festival-seasons-a-memorable-experience/
+ - https://botswana-visa.com/who-needs-visa-for-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/who-needs-visa-for-botswana/"><strong>Botswana visa policy</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-study-evisa/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/">Australia -     Botswana   High Commission  in Canberra    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-brussels-belgium/">Belgium -   Botswana   Embassy  in Brussels  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/">Brazil -    Embassy of Botswana in Brasilia   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-beijing-china/">China -   Botswana   Embassy  in Beijing  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/">Ethiopia -    Botswana   Embassy  in Addis Ababa   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/">India -     High Commission of Botswana in New Delhi    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-tokyo-japan/">Japan -   Embassy of Botswana in Tokyo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/">Kenya -    High Commission of Botswana in Nairobi   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/">Kuwait -   Embassy of Botswana in Kuwait City  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/">Mozambique -   High Commission of Botswana in Maputo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/">Namibia -  High Commission of Botswana in Windhoek </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/">Nigeria -  High Commission of Botswana in Abuja </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/">South Africa -      High Commission of Botswana in Pretoria     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/">Sweden -    Embassy of Botswana in Stockholm   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/">United Kingdom -   High Commission of Botswana in London  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/">United States of America -        Botswana   Embassy  in Washington       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/">Zambia -   High Commission of Botswana in Lusaka  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/">Zimbabwe -    Embassy of Botswana in Harare   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-brisbane-australia/">Australia -     Honorary Consulate of Botswana in Brisbane    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-melbourne-australia/">Australia -     Honorary Consulate of Botswana in Melbourne    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-perth-australia/">Australia -     Honorary Consulate of Botswana in Perth    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-sydney-australia/">Australia -     Honorary Consulate of Botswana in Sydney    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/">Austria -   Botswana  Honorary Consulate  in Vienna  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/">Canada -  Botswana  Honorary Consulate  in Edmonton </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/">Cyprus -  Botswana  Honorary Consulate  in Limassol </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/">Czech Republic -  Botswana  Honorary Consulate  in Ostrava </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/">Denmark -  Botswana  Honorary Consulate  in Copenhagen </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/">Finland -   Botswana  Honorary Consulate  in Turku  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-berlin-germany/">Germany -  Honorary Consulate of Botswana in Berlin </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-hamburg-germany/">Germany -  Honorary Consulate of Botswana in Hamburg </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-munich-germany/">Germany -  Honorary Consulate of Botswana in Munich </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-accra-ghana/">Ghana -   Botswana  Honorary Consulate  in Accra  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/">Hong Kong -   Botswana  Honorary Consulate  in Hong Kong  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/">Iceland -  Honorary Consulate of Botswana in Reykjavik </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-mumbai-india/">India -     Honorary Consulate of Botswana in Mumbai    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/">Ireland -   Botswana  Honorary Consulate  in Dublin  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-treviso-italy/">Italy -  Honorary Consulate of Botswana in Treviso </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/">Jamaica -  Botswana  Honorary Consulate  in Kingston </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/">Lebanon -   Honorary Consulate of Botswana in Beirut  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/">Luxembourg -  Botswana  Honorary Consulate  in Luxembourg Ville </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/">Malaysia -  Botswana  Honorary Consulate  in Kuala Lumpur </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-valletta-malta/">Malta -  Botswana  Honorary Consulate  in Valletta </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/">Mauritius -  Botswana  Honorary Consulate  in Port Louis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/">Mexico -   Honorary Consulate of Botswana in Mexico City  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/">Netherlands -  Honorary Consulate of Botswana in Amsterdam </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/">New Zealand -  Honorary Consulate of Botswana in Auckland </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-oslo-norway/">Norway -  Honorary Consulate of Botswana in Oslo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/">Philippines -   Botswana  Honorary Consulate  in Manila  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/">Singapore -  Botswana  Honorary Consulate  in Singapore </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/">South Africa -      Botswana   Consulate General  in Johannesburg     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/">Spain -  Botswana  Honorary Consulate  in Madrid </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/">Sri Lanka -   Botswana  Honorary Consulate  in Colombo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/">Sweden -    Honorary Consulate of Botswana in Gothenburg   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/">Thailand -   Honorary Consulate of Botswana in Bangkok  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/">Trinidad and Tobago -    Botswana  Honorary Consulate  in Port-of-Spain   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-in-kampala-uganda/">Uganda -   Honorary Consulate of Botswana in Kampala  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/">United States of America -        Botswana  Honorary Consulate  in Los Angeles       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/">United States of America -        Botswana  Honorary Consulate  in San Francisco       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/">United States of America -        Botswana  Honorary Consulate General  in Detroit       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/botswana-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/who-needs-visa-for-botswana/" target="_blank" title="Who Needs a Visa for Botswana?">Who Needs a Visa for Botswana?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/
+ - https://botswana-visa.com/consulate/botswana-in-accra-ghana/
+ - https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/
+ - https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/
+ - https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/
+ - https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+ - https://botswana-visa.com/consulate/botswana-in-kampala-uganda/
+ - https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/
+ - https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+ - https://botswana-visa.com/consulate/botswana-in-oslo-norway/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/
+ - https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/consulate/botswana-in-treviso-italy/
+ - https://botswana-visa.com/consulate/botswana-in-valletta-malta/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+ - https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/
+ - https://botswana-visa.com/embassy/botswana-in-beijing-china/
+ - https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/
+ - https://botswana-visa.com/embassy/botswana-in-brussels-belgium/
+ - https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/
+ - https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+ - https://botswana-visa.com/embassy/botswana-in-tokyo-japan/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/apply-for-botswana-visa/" target="_blank" title="How to Apply for a Botswana Visa?">How to Apply for a Botswana Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-colombo-sri-lanka/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-dublin-ireland/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-kuala-lumpur-malaysia/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-port-of-spain-trinidad-and-tobago/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-copenhagen-denmark/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-edmonton-canada/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-hong-kong-hong-kong/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-limassol-cyprus/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-madrid-spain/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-manila-philippines/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-ostrava-czech-republic/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-singapore-singapore/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-turku-finland/
+ - https://botswana-visa.com/consulate/botswana-honorary-in-vienna-austria/
+ - https://botswana-visa.com/consulate/botswana-in-accra-ghana/
+ - https://botswana-visa.com/consulate/botswana-in-amsterdam-netherlands/
+ - https://botswana-visa.com/consulate/botswana-in-auckland-new-zealand/
+ - https://botswana-visa.com/consulate/botswana-in-bangkok-thailand/
+ - https://botswana-visa.com/consulate/botswana-in-beirut-lebanon/
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+ - https://botswana-visa.com/consulate/botswana-in-kampala-uganda/
+ - https://botswana-visa.com/consulate/botswana-in-kingston-jamaica/
+ - https://botswana-visa.com/consulate/botswana-in-luxembourg-ville-luxembourg/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-mexico-city-mexico/
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+ - https://botswana-visa.com/consulate/botswana-in-oslo-norway/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-port-louis-mauritius/
+ - https://botswana-visa.com/consulate/botswana-in-reykjavik-iceland/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/consulate/botswana-in-treviso-italy/
+ - https://botswana-visa.com/consulate/botswana-in-valletta-malta/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+ - https://botswana-visa.com/embassy/botswana-in-addis-ababa-ethiopia/
+ - https://botswana-visa.com/embassy/botswana-in-beijing-china/
+ - https://botswana-visa.com/embassy/botswana-in-brasilia-brazil/
+ - https://botswana-visa.com/embassy/botswana-in-brussels-belgium/
+ - https://botswana-visa.com/embassy/botswana-in-harare-zimbabwe/
+ - https://botswana-visa.com/embassy/botswana-in-kuwait-city-kuwait/
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+ - https://botswana-visa.com/embassy/botswana-in-tokyo-japan/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-abuja-nigeria/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-london-united-kingdom/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-lusaka-zambia/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-maputo-mozambique/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-nairobi-kenya/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-windhoek-namibia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-hamburg-germany/" id="Toproll" title=" Honorary Consulate of Botswana in Hamburg ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Hamburg, Germany</b><br/>Steinheft 5-7<br/>Hamburg 20459<br/>Germany </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-munich-germany/" id="Toproll" title=" Honorary Consulate of Botswana in Munich ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Munich, Germany</b><br/>Theresienhehe 12<br/>80339 Munchen<br/>Germany </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-berlin-germany/
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/" id="Toproll" title="    Botswana   High Commission  in Canberra    ">
+<p style="margin-bottom:6px;"> <b>Botswana   High Commission  in Canberra, Australia</b><br/>130 Denison Street<br/>Deakin ACT 2600<br/>P.O.Box 3812<br/>Manuka, ACT 2603<br/>Australia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-brisbane-australia/" id="Toproll" title="    Honorary Consulate of Botswana in Brisbane    ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Brisbane, Australia</b><br/> Apt 602, The Grosvenor 12 Edward Street <br/>Brisbane, Queensland 4000<br/>Australia    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-sydney-australia/" id="Toproll" title="    Honorary Consulate of Botswana in Sydney    ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Sydney, Australia</b><br/>3 Spring Street<br/>GPO Box 4216<br/>Sydney, New South Wales 2001 <br/>Australia    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-melbourne-australia/" id="Toproll" title="    Honorary Consulate of Botswana in Melbourne    ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Melbourne, Australia</b><br/>48 Lumeah Road<br/>Caulfield, Victoria 3161<br/>Australia    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-perth-australia/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/angolan-in-gaborone-botswana/">Angola -  Angolan   Embassy  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/">Brazil -   Embassy of Brazil in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/">China -  Chinese   Embassy  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/france-in-gaborone-botswana/">France -    Embassy of France in Gaborone   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/german-in-gaborone-botswana/">Germany -   German   Embassy  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/japanese-in-gaborone-botswana/">Japan -   Japanese   Embassy  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/russian-in-gaborone-botswana/">Russia -   Russian   Embassy  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/turkish-in-gaborone-botswana/">Turkey -     Turkish   Embassy  in Gaborone    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/american-embassy-in-gaborone-botswana/">United States of America -    American   Embassy in Gaborone   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/embassy/zimbabwean-in-gaborone-botswana/">Zimbabwe -   Zimbabwean   Embassy  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/australia-in-gaborone-botswana/">Australia -  Consulate of Australia in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/austrian-honorary-in-gaborone-botswana/">Austria -  Austrian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/belgium-in-gaborone-botswana/">Belgium -  Honorary Consulate of Belgium in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/canadian-honorary-in-gaborone-botswana/">Canada -  Canadian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/cypriot-in-gaborone-botswana/">Cyprus -  Cypriot  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/czech-in-gaborone-botswana/">Czech Republic -  Czech  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/danish-honorary-in-gaborone-botswana/">Denmark -  Danish  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/french-in-maun-botswana/">France -    French  Honorary Consulate  in Maun   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/">Georgia -   Georgian  Honorary Consulate  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/german-in-maun-botswana/">Germany -   German  Honorary Consulate  in Maun  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/">Ghana -  Ghanaian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/greek-in-gaborone-botswana/">Greece -  Greek  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/guyanese-in-gaborone-botswana/">Guyana -  Guyanese  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/hungarian-honorary-in-gaborone-botswana/">Hungary -  Hungarian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/high-commission-of-india-in-gaborone-botswana/">India -  High Commission of India in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/irish-in-gaborone-botswana/">Ireland -   Irish  Honorary Consulate  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/israeli-honorary-in-gaborone-botswana/">Israel -  Israeli  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/italian-vice-in-gaborone-botswana/">Italy -  Italian  Honorary Vice Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/jamaican-honorary-in-gaborone-botswana/">Jamaica -  Jamaican  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/kenyan-high-commission-in-gaborone-botswana/">Kenya -   Kenyan   High Commission  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/mauritian-honorary-in-gaborone-botswana/">Mauritius -  Mauritian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/">Mexico -    Mexican  Honorary Consulate  in Gaborone   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/mozambican-high-commission-in-gaborone-botswana/">Mozambique -  Mozambican   High Commission  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/namibia-in-gaborone-botswana/">Namibia -  High Commission of the Republic of Namibia in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/netherlands-in-gaborone-botswana/">Netherlands -  Netherlands  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/nigerian-high-commission-in-gaborone-botswana/">Nigeria -   Nigerian   High Commission  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/norwegian-honorary-in-gaborone-botswana/">Norway -  Norwegian  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/philippine-in-gaborone-botswana/">Philippines -   Philippine  Honorary Consulate  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/south-african-high-commission-in-gaborone-botswana/">South Africa -    South African   High Commission  in Gaborone   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/spanish-honorary-in-gaborone-botswana/">Spain -  Spanish  Honorary Consulate  in Gaborone </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/sweden-in-gaborone-botswana/">Sweden -   Honorary Consulate of Sweden in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/swiss-honorary-in-gaborone-botswana/">Switzerland -   Swiss  Honorary Consulate  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/british-high-commission-in-gaborone-botswana/">United Kingdom -   British   High Commission  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://botswana-visa.com/consulate/zambian-high-commission-in-gaborone-botswana/">Zambia -   Zambian   High Commission  in Gaborone  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/emabssies-consulates-in-botswana/
+
+[Line with Issue]:
+<a href="https://eta-canada.info/canada-super-visa-parents-and-grandparents-visa/" target="_blank" title="Canada Super Visa (Parents and Grandparents Visa)">Canada Super Visa (Parents and Grandparents Visa)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/canadian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/india-visa-for-botswana-citizens/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-tourist-visa/" target="_blank" title="Ghana Tourist (T)">Ghana Tourist (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-employment-visa/" target="_blank" title="Ghana Employment (E)">Ghana Employment (E)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-business-visa/" target="_blank" title="Ghana Business (B)">Ghana Business (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-study-visa-for-international-students/" target="_blank" title="Ghana Student (S)">Ghana Student (S)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/journalist-visa-for-ghana/" target="_blank" title="Ghana Journalists (J)">Ghana Journalists (J)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-diplomatic-visa/" target="_blank" title="Ghana Diplomatic (D)">Ghana Diplomatic (D)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/apply-for-ghana-evisa/" target="_blank" title="How To Apply For A Ghana eVisa?">How To Apply for A Ghana eVisa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/who-needs-visa-for-ghana/" target="_blank" title="Who Needs A Visa For Ghana?">Who Needs A Visa for Ghana?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/ghanaian-honorary-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/visa-with-invitation-by-the-government-of-mexico-federal-level/" target="_blank" title="Visa with Invitation by the Government of Mexico (Federal Level)">Visa with Invitation by the Government of Mexico (Federal Level)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/mexico-electronic-authorization-system/" target="_blank" title="Mexico Electronic Authorization System (SAE)">Mexico Electronic Authorization System (SAE)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/mexican-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-perth-australia/" id="Toproll" title="    Honorary Consulate of Botswana in Perth    ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Perth, Australia</b><br/>Curtin University<br/>GPO Box U1987<br/>Perth, Western Australia 6000<br/> Australia    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-brisbane-australia/
+ - https://botswana-visa.com/consulate/botswana-in-melbourne-australia/
+ - https://botswana-visa.com/consulate/botswana-in-sydney-australia/
+ - https://botswana-visa.com/embassy/botswana-high-commission-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-berlin-germany/" id="Toproll" title=" Honorary Consulate of Botswana in Berlin ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Berlin, Germany</b><br/>Bregenzer Strasse 1<br/>10707 Berlin <br/>Germany </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-hamburg-germany/
+ - https://botswana-visa.com/consulate/botswana-in-munich-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/german-in-maun-botswana/" id="Toproll" title="  German  Honorary Consulate  in Maun  ">
+<p style="margin-bottom:6px;"> <b>German  Honorary Consulate  in Maun, Botswana</b><br/>Okavango Air Rescue<br/>Moeti Road Plot No. 448<br/>Main Building, first floor<br/>P. O. Box 1966<br/>Maun<br/>Botswana<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/german-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://georgia-e-visa.com/georgia-diplomatic-visa/" target="_blank" title="Georgia Diplomatic (A)">Georgia Diplomatic (A)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://georgia-e-visa.com/georgia-special-visa/" target="_blank" title="Georgia Special (B)">Georgia Special (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://georgia-e-visa.com/ordinary-georgia-visa/" target="_blank" title="Georgia Ordinary (C)">Georgia Ordinary (C)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://georgia-e-visa.com/georgia-immigration-visa/" target="_blank" title="Georgia Immigration (D)">Georgia Immigration (D)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://georgia-e-visa.com/georgia-transit-visa/" target="_blank" title="Georgia Transit (T)">Georgia Transit (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/georgian-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/" id="Toproll" title="     Botswana   Consulate General  in Johannesburg     ">
+<p style="margin-bottom:6px;"> <b>Botswana   Consulate General  in Johannesburg, South Africa</b><br/>66 Jorrisen Street, Braamfontein
+Ground Floor<br/>Jorrisen Place<br/>P.O. Box 32051<br/>Braamfontein, 2017<br/>Johannesburg<br/>South Africa<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/french-in-maun-botswana/" id="Toproll" title="   French  Honorary Consulate  in Maun   ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Maun, Botswana</b><br/>Maun<br/>Botswana<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/france-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-pretoria-south-africa/" id="Toproll" title="     High Commission of Botswana in Pretoria     ">
+<p style="margin-bottom:6px;"> <b>High Commission of Botswana in Pretoria, South Africa</b><br/>24 AMOS STREET, COLBYN, PRETORIA 0083<br/>P.O.BOX 57035<br/>ARCADIA, 0007  <br/>PRETORIA<br/>SOUTH AFRICA     </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-johannesburg-south-africa/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/france-in-gaborone-botswana/" id="Toproll" title="   Embassy of France in Gaborone   ">
+<p style="margin-bottom:6px;"> <b>Embassy of France in Gaborone, Botswana</b><br/>761 Robinson Road<br/>PO Box 1424   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/french-in-maun-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/" id="Toproll" title="    High Commission of Botswana in New Delhi    ">
+<p style="margin-bottom:6px;"> <b>High Commission of Botswana in New Delhi, India</b><br/>PLOT F8/3, VASANT, VIHAR<br/>NEW DEHLI â€“ 110057<br/>INDIA    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-mumbai-india/
+
+[Line with Issue]:
+<a href="https://philippines-e-visa.com/apply-for-philippines-visa/" target="_blank" title="How to apply for a visa to the Philippines?">How to apply for a visa to the Philippines?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/philippine-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/" id="Toproll" title="       Botswana  Honorary Consulate General  in Detroit       ">
+<p style="margin-bottom:6px;"> <b>Botswana  Honorary Consulate General  in Detroit, United States</b><br/>18530 Mack Avenue,
+Suite 339<br/>Grosse Pointe Farms, MI 48236<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/" id="Toproll" title="       Botswana  Honorary Consulate  in Los Angeles       ">
+<p style="margin-bottom:6px;"> <b>Botswana  Honorary Consulate  in Los Angeles, United States</b><br/>214 14th Street<br/>Santa Monica, CA 90402<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/" id="Toproll" title="       Botswana  Honorary Consulate  in San Francisco       ">
+<p style="margin-bottom:6px;"> <b>Botswana  Honorary Consulate  in San Francisco, United States</b><br/>165 Francisco Street, Suite 11<br/>San Francisco, CA 94109<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visit-visa/" target="_blank" title="Brazil Visitor Visa (Vivis)">Brazil Visitor Visa (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visitor-visa-transit-vivis/" target="_blank" title="Brazil Visitor Visa - Transit (Vivis)">Brazil Visitor Visa - Transit (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/apply-for-visa-for-brazil/" target="_blank" title="How to Apply for a Visa for Brazil?">How to Apply for a Visa for Brazil?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visa-requirements/" target="_blank" title="What Are the Brazil Visa Requirements?">What Are the Brazil Visa Requirements?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/extend-brazil-visa/" target="_blank" title="Can You Extend a Brazil Visa?">Can You Extend a Brazil Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/brazil-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="btn btn-outline-success" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp"></i><span class="whtsp_no"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/application-status/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/botswana-embassy-in-washington-united-states-of-america/" id="Toproll" title="       Botswana   Embassy  in Washington       ">
+<p style="margin-bottom:6px;"> <b>Botswana   Embassy  in Washington, D.C., United States</b><br/>1531-1533 New Hampshire Avenue, NW<br/>Washington, D.C. 20036<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-general-in-detroit-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-los-angeles-united-states-of-america/
+ - https://botswana-visa.com/consulate/botswana-honorary-consulate-in-san-francisco-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-mumbai-india/" id="Toproll" title="    Honorary Consulate of Botswana in Mumbai    ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Mumbai, India</b><br/>405, Dharam Palace 100-103, N.S. Patkar Marg<br/>Mumbai 400 007<br/>india    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/high-commission-of-botswana-in-new-delhi-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/" id="Toproll" title="   Embassy of Botswana in Stockholm   ">
+<p style="margin-bottom:6px;"> <b>Embassy of Botswana in Stockholm, Sweden</b><br/>Tyrgatan 11<br/> Box 26024<br/>100 41 Stockholm <br/>Sweden   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/how-to-get-china-visa/" target="_blank" title="How to Get a China Visa?">How to Get a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/requirements-for-china-visa/" target="_blank" title="What Are the Requirements for a China Visa?">What Are the Requirements for a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/chinese-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-evisitor-visa/" target="_blank" title="Australia eVisitor Visa (subclass 651)">Australia eVisitor Visa (subclass 651)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-transit-visa/" target="_blank" title="Australia Transit Visa (subclass 771)">Australia Transit Visa (subclass 771)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-visitor-visa/" target="_blank" title="Australia Visitor Visa (subclass 600)">Australia Visitor Visa (subclass 600)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-work-and-holiday-visa/" target="_blank" title="Australia Work and Holiday Visa (subclass 462)">Australia Work and Holiday Visa (subclass 462)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-visa/" target="_blank" title="Australia Student Visa (subclass 500)">Australia Student Visa (subclass 500)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-training-visa/" target="_blank" title="Australia Training Visa (subclass 407)">Australia Training Visa (subclass 407)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-guardian-visa/" target="_blank" title="Australia Student Guardian Visa (subclass 590)">Australia Student Guardian Visa (subclass 590)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-working-holiday-visa/" target="_blank" title="Australia Working Holiday Visa (subclass 417)">Australia Working Holiday Visa (subclass 417)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/how-can-i-get-an-australian-visa/" target="_blank" title="How Can I Get an Australian Visa?">How Can I Get an Australian Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/australia-in-gaborone-botswana/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/consulate/botswana-in-gothenburg-sweden/" id="Toproll" title="   Honorary Consulate of Botswana in Gothenburg   ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Botswana in Gothenburg, Sweden</b><br/>Mester Johansgatan 8 <br/>416 62 Gothenburg <br/>Sweden   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/embassy/botswana-in-stockholm-sweden/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://botswana-visa.com/embassy/german-in-gaborone-botswana/" id="Toproll" title="  German   Embassy  in Gaborone  ">
+<p style="margin-bottom:6px;"> <b>German   Embassy  in Gaborone, Botswana</b><br/>Queens Road, Plot 1079-1084<br/>Main Mall<br/>P.O. Box 315<br/>Gaborone<br/>Botswana<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://botswana-visa.com/consulate/german-in-maun-botswana/
+

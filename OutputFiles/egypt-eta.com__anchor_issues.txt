@@ -1,0 +1,933 @@
+[Unique Anchor Issues for Website]: https://egypt-eta.com/
+
+[Line with Issue]:
+<a class="navbar-brand font-weight-bold text-secondary" href="https://egypt-eta.com">
+<picture>
+<source srcset="https://egypt-eta.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" class="img_logo" height="70" id="logo-img" loading="lazy" src="https://egypt-eta.com/images/logo.png" style=" margin-left: 15px;max-width: 70%; height: auto;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/
+
+[Line with Issue]:
+<a class="text-white mb-2 footer_links" href="https://egypt-eta.com/egypt-transit-visa-application-process-eligibility/" title="Egypt Transit Visa "><i class="flaticon-right-arrow mr-2"></i>Egypt Transit Visa </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com
+ - https://egypt-eta.com/
+ - https://egypt-eta.com/application/
+ - https://egypt-eta.com/apply-evisa-from-albania/
+ - https://egypt-eta.com/apply-evisa-from-argentina/
+ - https://egypt-eta.com/apply-evisa-from-armenia/
+ - https://egypt-eta.com/apply-evisa-from-australia/
+ - https://egypt-eta.com/apply-evisa-from-austria/
+ - https://egypt-eta.com/apply-evisa-from-azerbaijan/
+ - https://egypt-eta.com/apply-evisa-from-bahrain/
+ - https://egypt-eta.com/apply-evisa-from-belarus/
+ - https://egypt-eta.com/apply-evisa-from-belgium/
+ - https://egypt-eta.com/apply-evisa-from-bolivia/
+ - https://egypt-eta.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://egypt-eta.com/apply-evisa-from-brazil/
+ - https://egypt-eta.com/apply-evisa-from-bulgaria/
+ - https://egypt-eta.com/apply-evisa-from-canada/
+ - https://egypt-eta.com/apply-evisa-from-chile/
+ - https://egypt-eta.com/apply-evisa-from-china/
+ - https://egypt-eta.com/apply-evisa-from-colombia/
+ - https://egypt-eta.com/apply-evisa-from-croatia/
+ - https://egypt-eta.com/apply-evisa-from-cyprus/
+ - https://egypt-eta.com/apply-evisa-from-czech-republic/
+ - https://egypt-eta.com/apply-evisa-from-denmark/
+ - https://egypt-eta.com/apply-evisa-from-ecuador/
+ - https://egypt-eta.com/apply-evisa-from-estonia/
+ - https://egypt-eta.com/apply-evisa-from-finland/
+ - https://egypt-eta.com/apply-evisa-from-france/
+ - https://egypt-eta.com/apply-evisa-from-georgia/
+ - https://egypt-eta.com/apply-evisa-from-germany/
+ - https://egypt-eta.com/apply-evisa-from-greece/
+ - https://egypt-eta.com/apply-evisa-from-hong-kong/
+ - https://egypt-eta.com/apply-evisa-from-hungary/
+ - https://egypt-eta.com/apply-evisa-from-iceland/
+ - https://egypt-eta.com/apply-evisa-from-india/
+ - https://egypt-eta.com/apply-evisa-from-ireland/
+ - https://egypt-eta.com/apply-evisa-from-italy/
+ - https://egypt-eta.com/apply-evisa-from-japan/
+ - https://egypt-eta.com/apply-evisa-from-kazakhstan/
+ - https://egypt-eta.com/apply-evisa-from-korea-republic-of-south/
+ - https://egypt-eta.com/apply-evisa-from-kosovo/
+ - https://egypt-eta.com/apply-evisa-from-kuwait/
+ - https://egypt-eta.com/apply-evisa-from-latvia/
+ - https://egypt-eta.com/apply-evisa-from-lithuania/
+ - https://egypt-eta.com/apply-evisa-from-luxembourg/
+ - https://egypt-eta.com/apply-evisa-from-macedonia-republic-of/
+ - https://egypt-eta.com/apply-evisa-from-malaysia/
+ - https://egypt-eta.com/apply-evisa-from-malta/
+ - https://egypt-eta.com/apply-evisa-from-mexico/
+ - https://egypt-eta.com/apply-evisa-from-moldova/
+ - https://egypt-eta.com/apply-evisa-from-monaco/
+ - https://egypt-eta.com/apply-evisa-from-montenegro/
+ - https://egypt-eta.com/apply-evisa-from-netherlands/
+ - https://egypt-eta.com/apply-evisa-from-new-zealand/
+ - https://egypt-eta.com/apply-evisa-from-norway/
+ - https://egypt-eta.com/apply-evisa-from-oman/
+ - https://egypt-eta.com/apply-evisa-from-paraguay/
+ - https://egypt-eta.com/apply-evisa-from-peru/
+ - https://egypt-eta.com/apply-evisa-from-poland/
+ - https://egypt-eta.com/apply-evisa-from-portugal/
+ - https://egypt-eta.com/apply-evisa-from-qatar/
+ - https://egypt-eta.com/apply-evisa-from-romania/
+ - https://egypt-eta.com/apply-evisa-from-russia/
+ - https://egypt-eta.com/apply-evisa-from-san-marino/
+ - https://egypt-eta.com/apply-evisa-from-saudi-arabia/
+ - https://egypt-eta.com/apply-evisa-from-serbia/
+ - https://egypt-eta.com/apply-evisa-from-singapore/
+ - https://egypt-eta.com/apply-evisa-from-slovakia/
+ - https://egypt-eta.com/apply-evisa-from-slovenia/
+ - https://egypt-eta.com/apply-evisa-from-south-africa/
+ - https://egypt-eta.com/apply-evisa-from-spain/
+ - https://egypt-eta.com/apply-evisa-from-sweden/
+ - https://egypt-eta.com/apply-evisa-from-switzerland/
+ - https://egypt-eta.com/apply-evisa-from-taiwan/
+ - https://egypt-eta.com/apply-evisa-from-united-arab-emirates/
+ - https://egypt-eta.com/apply-evisa-from-united-kingdom/
+ - https://egypt-eta.com/apply-evisa-from-united-states-of-america/
+ - https://egypt-eta.com/apply-evisa-from-uruguay/
+ - https://egypt-eta.com/apply-evisa-from-vatican-city-holy-see/
+ - https://egypt-eta.com/check-your-egypt-visa-status/
+ - https://egypt-eta.com/complete-partially/
+ - https://egypt-eta.com/contact-us/
+ - https://egypt-eta.com/egypt-evisa-application-form/
+ - https://egypt-eta.com/egypt-evisa-costs/
+ - https://egypt-eta.com/egypt-evisa-eligibility/
+ - https://egypt-eta.com/egypt-evisa-requirements/
+ - https://egypt-eta.com/egypt-tourist-visa-for-indians/
+ - https://egypt-eta.com/egypt-tourist-visa/
+ - https://egypt-eta.com/egypt-transit-visa-application-process-eligibility/
+ - https://egypt-eta.com/egypt-visa-for-albania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-armenia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-austria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-azerbaijan-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belarus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belgium-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bosnia-herzegovina-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bulgaria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-china-citizens/
+ - https://egypt-eta.com/egypt-visa-for-croatia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-cyprus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-czech-republic-citizens/
+ - https://egypt-eta.com/egypt-visa-for-denmark-citizens/
+ - https://egypt-eta.com/egypt-visa-for-estonia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-finland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-france-citizens/
+ - https://egypt-eta.com/egypt-visa-for-georgia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-germany-citizens/
+ - https://egypt-eta.com/egypt-visa-for-greece-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hong-kong-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hungary-citizens/
+ - https://egypt-eta.com/egypt-visa-for-iceland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-ireland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-italy-citizens/
+ - https://egypt-eta.com/egypt-visa-for-kosovo-citizens/
+ - https://egypt-eta.com/egypt-visa-for-latvia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-lithuania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-luxembourg-citizens/
+ - https://egypt-eta.com/egypt-visa-for-maltese-citizens/
+ - https://egypt-eta.com/egypt-visa-for-netherlands-citizens/
+ - https://egypt-eta.com/egypt-visa-for-portugal-citizens/
+ - https://egypt-eta.com/egypt-visa-for-russia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-saudi-arabia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-arab-emirates-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-kingdom-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-states-of-america-citizens/
+ - https://egypt-eta.com/egypt-visa-on-arrival/
+ - https://egypt-eta.com/how-to-avoid-egypt-evisa-rejection/
+ - https://egypt-eta.com/how-to-extend-an-evisa-for-egypt/
+ - https://egypt-eta.com/news/
+ - https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-business-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-visa-processing-for-indians/
+ - https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/
+ - https://egypt-eta.com/photo-requirements-for-egypt-visa/
+ - https://egypt-eta.com/privacy-policy/
+ - https://egypt-eta.com/solve-egypt-evisa-payment-problems-easily/
+ - https://egypt-eta.com/term-and-condition/
+ - https://egypt-eta.com/visa-status/
+
+[Line with Issue]:
+<a class="text-white mb-2" href="https://egypt-eta.com/privacy-policy/" title="Privacy Policy"><span> Privacy Policy</span></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com
+ - https://egypt-eta.com/
+ - https://egypt-eta.com/application/
+ - https://egypt-eta.com/apply-evisa-from-albania/
+ - https://egypt-eta.com/apply-evisa-from-argentina/
+ - https://egypt-eta.com/apply-evisa-from-armenia/
+ - https://egypt-eta.com/apply-evisa-from-australia/
+ - https://egypt-eta.com/apply-evisa-from-austria/
+ - https://egypt-eta.com/apply-evisa-from-azerbaijan/
+ - https://egypt-eta.com/apply-evisa-from-bahrain/
+ - https://egypt-eta.com/apply-evisa-from-belarus/
+ - https://egypt-eta.com/apply-evisa-from-belgium/
+ - https://egypt-eta.com/apply-evisa-from-bolivia/
+ - https://egypt-eta.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://egypt-eta.com/apply-evisa-from-brazil/
+ - https://egypt-eta.com/apply-evisa-from-bulgaria/
+ - https://egypt-eta.com/apply-evisa-from-canada/
+ - https://egypt-eta.com/apply-evisa-from-chile/
+ - https://egypt-eta.com/apply-evisa-from-china/
+ - https://egypt-eta.com/apply-evisa-from-colombia/
+ - https://egypt-eta.com/apply-evisa-from-croatia/
+ - https://egypt-eta.com/apply-evisa-from-cyprus/
+ - https://egypt-eta.com/apply-evisa-from-czech-republic/
+ - https://egypt-eta.com/apply-evisa-from-denmark/
+ - https://egypt-eta.com/apply-evisa-from-ecuador/
+ - https://egypt-eta.com/apply-evisa-from-estonia/
+ - https://egypt-eta.com/apply-evisa-from-finland/
+ - https://egypt-eta.com/apply-evisa-from-france/
+ - https://egypt-eta.com/apply-evisa-from-georgia/
+ - https://egypt-eta.com/apply-evisa-from-germany/
+ - https://egypt-eta.com/apply-evisa-from-greece/
+ - https://egypt-eta.com/apply-evisa-from-hong-kong/
+ - https://egypt-eta.com/apply-evisa-from-hungary/
+ - https://egypt-eta.com/apply-evisa-from-iceland/
+ - https://egypt-eta.com/apply-evisa-from-india/
+ - https://egypt-eta.com/apply-evisa-from-ireland/
+ - https://egypt-eta.com/apply-evisa-from-italy/
+ - https://egypt-eta.com/apply-evisa-from-japan/
+ - https://egypt-eta.com/apply-evisa-from-kazakhstan/
+ - https://egypt-eta.com/apply-evisa-from-korea-republic-of-south/
+ - https://egypt-eta.com/apply-evisa-from-kosovo/
+ - https://egypt-eta.com/apply-evisa-from-kuwait/
+ - https://egypt-eta.com/apply-evisa-from-latvia/
+ - https://egypt-eta.com/apply-evisa-from-lithuania/
+ - https://egypt-eta.com/apply-evisa-from-luxembourg/
+ - https://egypt-eta.com/apply-evisa-from-macedonia-republic-of/
+ - https://egypt-eta.com/apply-evisa-from-malaysia/
+ - https://egypt-eta.com/apply-evisa-from-malta/
+ - https://egypt-eta.com/apply-evisa-from-mexico/
+ - https://egypt-eta.com/apply-evisa-from-moldova/
+ - https://egypt-eta.com/apply-evisa-from-monaco/
+ - https://egypt-eta.com/apply-evisa-from-montenegro/
+ - https://egypt-eta.com/apply-evisa-from-netherlands/
+ - https://egypt-eta.com/apply-evisa-from-new-zealand/
+ - https://egypt-eta.com/apply-evisa-from-norway/
+ - https://egypt-eta.com/apply-evisa-from-oman/
+ - https://egypt-eta.com/apply-evisa-from-paraguay/
+ - https://egypt-eta.com/apply-evisa-from-peru/
+ - https://egypt-eta.com/apply-evisa-from-poland/
+ - https://egypt-eta.com/apply-evisa-from-portugal/
+ - https://egypt-eta.com/apply-evisa-from-qatar/
+ - https://egypt-eta.com/apply-evisa-from-romania/
+ - https://egypt-eta.com/apply-evisa-from-russia/
+ - https://egypt-eta.com/apply-evisa-from-san-marino/
+ - https://egypt-eta.com/apply-evisa-from-saudi-arabia/
+ - https://egypt-eta.com/apply-evisa-from-serbia/
+ - https://egypt-eta.com/apply-evisa-from-singapore/
+ - https://egypt-eta.com/apply-evisa-from-slovakia/
+ - https://egypt-eta.com/apply-evisa-from-slovenia/
+ - https://egypt-eta.com/apply-evisa-from-south-africa/
+ - https://egypt-eta.com/apply-evisa-from-spain/
+ - https://egypt-eta.com/apply-evisa-from-sweden/
+ - https://egypt-eta.com/apply-evisa-from-switzerland/
+ - https://egypt-eta.com/apply-evisa-from-taiwan/
+ - https://egypt-eta.com/apply-evisa-from-united-arab-emirates/
+ - https://egypt-eta.com/apply-evisa-from-united-kingdom/
+ - https://egypt-eta.com/apply-evisa-from-united-states-of-america/
+ - https://egypt-eta.com/apply-evisa-from-uruguay/
+ - https://egypt-eta.com/apply-evisa-from-vatican-city-holy-see/
+ - https://egypt-eta.com/check-your-egypt-visa-status/
+ - https://egypt-eta.com/complete-partially/
+ - https://egypt-eta.com/contact-us/
+ - https://egypt-eta.com/egypt-evisa-application-form/
+ - https://egypt-eta.com/egypt-evisa-costs/
+ - https://egypt-eta.com/egypt-evisa-eligibility/
+ - https://egypt-eta.com/egypt-evisa-requirements/
+ - https://egypt-eta.com/egypt-tourist-visa-for-indians/
+ - https://egypt-eta.com/egypt-tourist-visa/
+ - https://egypt-eta.com/egypt-transit-visa-application-process-eligibility/
+ - https://egypt-eta.com/egypt-visa-for-albania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-armenia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-austria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-azerbaijan-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belarus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belgium-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bosnia-herzegovina-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bulgaria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-china-citizens/
+ - https://egypt-eta.com/egypt-visa-for-croatia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-cyprus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-czech-republic-citizens/
+ - https://egypt-eta.com/egypt-visa-for-denmark-citizens/
+ - https://egypt-eta.com/egypt-visa-for-estonia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-finland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-france-citizens/
+ - https://egypt-eta.com/egypt-visa-for-georgia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-germany-citizens/
+ - https://egypt-eta.com/egypt-visa-for-greece-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hong-kong-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hungary-citizens/
+ - https://egypt-eta.com/egypt-visa-for-iceland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-ireland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-italy-citizens/
+ - https://egypt-eta.com/egypt-visa-for-kosovo-citizens/
+ - https://egypt-eta.com/egypt-visa-for-latvia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-lithuania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-luxembourg-citizens/
+ - https://egypt-eta.com/egypt-visa-for-maltese-citizens/
+ - https://egypt-eta.com/egypt-visa-for-netherlands-citizens/
+ - https://egypt-eta.com/egypt-visa-for-portugal-citizens/
+ - https://egypt-eta.com/egypt-visa-for-russia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-saudi-arabia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-arab-emirates-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-kingdom-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-states-of-america-citizens/
+ - https://egypt-eta.com/egypt-visa-on-arrival/
+ - https://egypt-eta.com/how-to-avoid-egypt-evisa-rejection/
+ - https://egypt-eta.com/how-to-extend-an-evisa-for-egypt/
+ - https://egypt-eta.com/news/
+ - https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-business-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-visa-processing-for-indians/
+ - https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/
+ - https://egypt-eta.com/photo-requirements-for-egypt-visa/
+ - https://egypt-eta.com/privacy-policy/
+ - https://egypt-eta.com/solve-egypt-evisa-payment-problems-easily/
+ - https://egypt-eta.com/term-and-condition/
+ - https://egypt-eta.com/visa-status/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com"><i class="flaticon-home-1"></i> Home</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/check-your-egypt-visa-status/
+ - https://egypt-eta.com/contact-us/
+ - https://egypt-eta.com/egypt-evisa-application-form/
+ - https://egypt-eta.com/egypt-evisa-costs/
+ - https://egypt-eta.com/egypt-evisa-eligibility/
+ - https://egypt-eta.com/egypt-evisa-requirements/
+ - https://egypt-eta.com/egypt-tourist-visa-for-indians/
+ - https://egypt-eta.com/egypt-tourist-visa/
+ - https://egypt-eta.com/egypt-transit-visa-application-process-eligibility/
+ - https://egypt-eta.com/egypt-visa-for-albania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-armenia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-austria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-azerbaijan-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belarus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-belgium-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bosnia-herzegovina-citizens/
+ - https://egypt-eta.com/egypt-visa-for-bulgaria-citizens/
+ - https://egypt-eta.com/egypt-visa-for-china-citizens/
+ - https://egypt-eta.com/egypt-visa-for-croatia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-cyprus-citizens/
+ - https://egypt-eta.com/egypt-visa-for-czech-republic-citizens/
+ - https://egypt-eta.com/egypt-visa-for-denmark-citizens/
+ - https://egypt-eta.com/egypt-visa-for-estonia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-finland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-france-citizens/
+ - https://egypt-eta.com/egypt-visa-for-georgia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-germany-citizens/
+ - https://egypt-eta.com/egypt-visa-for-greece-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hong-kong-citizens/
+ - https://egypt-eta.com/egypt-visa-for-hungary-citizens/
+ - https://egypt-eta.com/egypt-visa-for-iceland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-ireland-citizens/
+ - https://egypt-eta.com/egypt-visa-for-italy-citizens/
+ - https://egypt-eta.com/egypt-visa-for-kosovo-citizens/
+ - https://egypt-eta.com/egypt-visa-for-latvia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-lithuania-citizens/
+ - https://egypt-eta.com/egypt-visa-for-luxembourg-citizens/
+ - https://egypt-eta.com/egypt-visa-for-maltese-citizens/
+ - https://egypt-eta.com/egypt-visa-for-netherlands-citizens/
+ - https://egypt-eta.com/egypt-visa-for-portugal-citizens/
+ - https://egypt-eta.com/egypt-visa-for-russia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-saudi-arabia-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-arab-emirates-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-kingdom-citizens/
+ - https://egypt-eta.com/egypt-visa-for-united-states-of-america-citizens/
+ - https://egypt-eta.com/egypt-visa-on-arrival/
+ - https://egypt-eta.com/how-to-avoid-egypt-evisa-rejection/
+ - https://egypt-eta.com/how-to-extend-an-evisa-for-egypt/
+ - https://egypt-eta.com/news/
+ - https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-business-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-visa-processing-for-indians/
+ - https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/
+ - https://egypt-eta.com/photo-requirements-for-egypt-visa/
+ - https://egypt-eta.com/privacy-policy/
+ - https://egypt-eta.com/solve-egypt-evisa-payment-problems-easily/
+ - https://egypt-eta.com/term-and-condition/
+ - https://egypt-eta.com/visa-status/
+
+[Line with Issue]:
+<a class="text-decoration" href="https://egypt-eta.com"><i class="flaticon-home" style="font-size: 18px;vertical-align: middle;"></i> Home</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/complete-partially/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-belgium-citizens/"><p class="news_cnt_p">For Belgian citizens anticipating a journey to Egypt, either for leisure or business purposes, it is imperative to acquire an Egypt eVisa before departure. This eVisa is an official travel document sanctioned by the Egyptian government, simplifying the visa procurement process and granting Belgians legal entry into Egy...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-azerbaijan-citizens/"><p class="news_cnt_p">Travelling from Azerbaijan to Egypt requires careful visa planning, as Azerbaijani citizens must secure a valid visa before entering the country. Understanding the nuances of the visa application process is crucial, as specific requirements and options are available....</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-albania-citizens/"><p class="news_cnt_p">Albanian nationals can now apply for an Egyptian visa online, a significant advancement in visa acquisition. This electronic visa (eVisa) system is a pivotal development for Albanians who wish to travel to Egypt, enabling them to enjoy stays of up to 30 days in the country. The eVisa eliminates the need for personal vi...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-netherlands-citizens/"><p class="news_cnt_p">The Egyptian government has been actively exploring multiple strategies to enhance the experience for the tourists who flock to Egypt annually. A key measure introduced is simplifying the e-Visa application process, especially for citizens of the Netherlands and from countries that contribute a large number of visitors...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-portugal-citizens/"><p class="news_cnt_p">Egypt attracts over 9 million global visitors annually, Portuguese travellers included, marking its status as a globally sought-after travel spot.
+Consequently, the authorities in Egypt have rolled out an innovative approach to streamline the travel authorisation application process. The Egypt e-Visa system stands out...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-russia-citizens/"><p class="news_cnt_p">Citizens of Russia have the convenience of obtaining an Egyptian tourist visa through an entirely digital process.
+This online system for electronic visas for Egyptians simplifies the journey for Russian travellers to Egypt. The process involves completing a digital application form, following which the visa, once app...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-hong-kong-citizens/"><p class="news_cnt_p">Individuals from Hong Kong's Special Administrative Region planning a trip to Egypt should be aware that obtaining an Egyptian visa for holders of a Hong Kong passport might be a prerequisite.
+This guide aims to provide residents of Hong Kong with comprehensive information about the necessary paperwork required for ap...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-china-citizens/"><p class="news_cnt_p">People from China rank among the world's most frequent travellers, with Egypt emerging as a favoured destination lately. For Chinese nationals aspiring to explore the ancient wonders of Egypt, acquiring an Egypt visa is a necessary step. Given that China isn't included in Egypt's visa-exempt countries, securing a visa ...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-saudi-arabia-citizens/"><p class="news_cnt_p">For Saudi Arabian travellers planning a journey to Egypt, it's essential to be well-informed about the visa protocols to ensure a hassle-free and enjoyable visit. This guide aims to clarify the visa application process for citizens of Saudi Arabia seeking entry into Egypt.
+We'll cover the specifics of what Saudi natio...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-united-arab-emirates-citizens/"><p class="news_cnt_p">As an Emirati national contemplating a journey to Egypt, you must familiarise yourself with the visa prerequisites well before your trip. This article is designed to offer detailed insights into securing an Egypt visa when travelling from the United Arab Emirates.
+This guide will explore the procedures for Emirati cit...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-united-kingdom-citizens/"><p class="news_cnt_p">UK nationals now have the opportunity to obtain an eVisa for Egypt, streamlining their visa application experience with an efficient online system.
+This section provides comprehensive insights into the eVisa prerequisites, the procedure to apply, expected processing durations, and all essential details to facilitate a...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-united-states-of-america-citizens/"><p class="news_cnt_p">Travellers from the United States looking to explore Egypt can now effortlessly secure an Egyptian electronic Visa (e-Visa) through a straightforward online application process.
+This Electronic Visa for Egypt is often seen as the most efficient and user-friendly method for American passport holders to acquire the nece...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-cyprus-citizens/"><p class="news_cnt_p">In 2017, the Egyptian Government unveiled an innovative digital solution to streamline the visa acquisition process for Cypriot citizens: the Egypt e-Visa. This electronic visa system was developed to simplify and expedite the process for Cypriots applying for visas for short-term visits to Egypt. One needs only a stab...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-armenia-citizens/"><p class="news_cnt_p">Obtaining a visa is necessary for Armenian nationals looking to explore Egypt's rich history and culture. Egypt, known for its ancient civilisation and stunning landmarks like the Pyramids of Giza, mandates that Armenian citizens secure visas before arriving. Fortunately, obtaining an Egyptian visa is streamlined and a...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-austria-citizens/"><p class="news_cnt_p">Are you an Austrian citizen planning a trip to Egypt? If so, it's essential to understand the visa requirements for your journey. This article offers an in-depth look at the Egypt eVisa, an online visa application system designed for Austrian travellers. We'll cover the application process, requirements, processing tim...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-belarus-citizens/"><p class="news_cnt_p">Belarusian nationals planning to visit Egypt must comply with the country's entry prerequisites, necessitating the possession of essential travel documents and adherence to Egypt's specific entry regulations.
+One of the most practical and user-friendly methods for Belarusians to obtain entry authorisation to Egypt is ...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-bosnia-herzegovina-citizens/"><p class="news_cnt_p">Bosnia and Herzegovina (also called Bosnian) nationals planning a journey to Egypt must adhere to the Egyptian government's entry regulations, which mandate possessing an Egypt eVisa before their departure. This Egypt eVisa acts as an authorised travel document, facilitating legal entry and stay in Egypt for purposes s...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-bulgaria-citizens/"><p class="news_cnt_p">When planning a trip to the Arab Republic of Egypt, Bulgarian travellers must ensure their passports are valid for at least six months beyond their entry date. It is a fundamental requirement for entry into Egypt and crucial for a smooth travel experience. Keeping your travel documents up-to-date and checking their val...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-croatia-citizens/"><p class="news_cnt_p">In 2017, the Egyptian government introduced a significant advancement in travel convenience with the launch of the Egypt e-Visa. This innovative electronic visa system revolutionised the process for foreign visitors, including those from Croatia, making obtaining a visa for Egypt easier. The e-Visa system is accessible...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="/egypt-visa-for-czech-republic-citizens/"><p class="news_cnt_p">Travelling to Egypt as a Czech citizen involves specific visa requirements that must be met for smooth and lawful entry into the country. While Czech nationals must have a valid visa before arriving in Egypt, the conventional method of obtaining a visa at the airport is typically not an option. However, the process has...</p></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a class="btn btn-info" href="https://egypt-eta.com/application/">
+                            Get Your Egypt eTA</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+ - https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-business-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-visa-processing-for-indians/
+ - https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-belgium-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Belgium/Belgian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-azerbaijan-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Azerbaijan Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-albania-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Albanian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-netherlands-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Dutch Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-portugal-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egyptian E-Visa Application Process for Portuguese Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-russia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egyptian E-Visa Application Process for Russian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-hong-kong-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Hong Kong Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-china-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Chinese Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-saudi-arabia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Saudi Arabian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-united-arab-emirates-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt Visa for United Arab Emirates Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-united-kingdom-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for United Kingdom Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-united-states-of-america-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for US Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-cyprus-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Cyprus</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-armenia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Armenian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-austria-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Austrian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-belarus-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Belarus Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-bosnia-herzegovina-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Bosnia and Herzegovina Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-bulgaria-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Bulgarian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-croatia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Croatian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-czech-republic-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Czech Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-denmark-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Danes</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-estonia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Estonian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-finland-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Finnish Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-france-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for French Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-georgia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Georgian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-germany-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for German Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-greece-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Greek Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-hungary-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Hungarian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-iceland-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Icelandic Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-ireland-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Irish Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-italy-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Italian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-kosovo-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Kosovar Nationals</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-latvia-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Latvian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-lithuania-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Lithuanian Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-luxembourg-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Luxembourgers</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-visa-for-maltese-citizens/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt E-Visa Application Process for Maltese Citizens</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/" style="color:#000; display:flex; align-items:baseline;">
+<span>Taba Border Guide: Navigating Israel-Egypt Border Safely</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/news/egypt-visa-processing-for-indians/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt Visa Processing for Indians: Quick Guide to Timelines and Tips</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/news/egypt-business-visa-for-indians/" style="color:#000; display:flex; align-items:baseline;">
+<span>Egypt Business Visa For Indians</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/" style="color:#000; display:flex; align-items:baseline;">
+<span>Apply For Your Egypt Work Visa For Indians</span>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/
+
+[Line with Issue]:
+<a href="">
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/news/apply-for-your-egypt-work-visa-for-indians/
+ - https://egypt-eta.com/news/egypt-visa-processing-for-indians/
+ - https://egypt-eta.com/news/taba-border-guide-navigating-israel-egypt-border-safely/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-tourist-visa/" title="Egypt e-tourist visas"><strong>Egypt e-tourist visas</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-hong-kong-citizens/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-evisa-eligibility/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-vatican-city-holy-see/"><span class="flag flag-va"></span> Vatican City (Holy See)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-evisa-eligibility/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/" title="Egypt e-Visa">Egypt e-Visa</a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-bulgaria-citizens/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/application/" title="Egypt E-Visa application"><strong>Egypt E-Visa application</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-czech-republic-citizens/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/" title="Egyptian e-visa"><strong>Egyptian e-visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-azerbaijan-citizens/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-evisa-costs/" title="Egypt e-Visa fee"><strong>Egypt e-Visa fee </strong>f</a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-hungary-citizens/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/" title="Egypt eVisa"><strong>Egypt eVisa </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-bosnia-herzegovina-citizens/
+
+[Line with Issue]:
+<a href="https://egypt-eta.com/egypt-evisa-costs/" title="Egypt e-visa fee"><strong> Egypt e-visa fee</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://egypt-eta.com/egypt-visa-for-kosovo-citizens/
+

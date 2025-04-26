@@ -1,0 +1,42 @@
+[Scanning Images for] https://georgia-e-visa.com/
+
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/Borjomi-Kharagauli%20National%20Park.png
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/David%20Gareja%20Monastery.png
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/Old%20Town%20of%20Tbilisi.webp
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Broken Image: https://georgia-e-visa.com/images/Old%20Town%20of%20Tbilisi.webp --> 404
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/Borjomi-Kharagauli%20National%20Park.webp
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgia-evisa-for-tourism/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/David%20Gareja%20Monastery.webp
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgian-citizens-gain-visa-free-access-to-china/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/Georgian%20Citizens%20Gain.png
+
+[Website]: https://georgia-e-visa.com
+[Page]: https://georgia-e-visa.com/georgian-citizens-gain-visa-free-access-to-china/
+[Line with Issue]:
+ - Encoded URL Detected: https://georgia-e-visa.com/images/Georgian%20Citizens%20Gain.webp

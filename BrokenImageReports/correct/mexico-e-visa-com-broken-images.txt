@@ -1,0 +1,22 @@
+[Scanning Images for] https://mexico-e-visa.com/
+
+
+[Website]: https://mexico-e-visa.com
+[Page]: https://mexico-e-visa.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://mexico-e-visa.com/images/Canc%C3%BAn-new-img.png
+
+[Website]: https://mexico-e-visa.com
+[Page]: https://mexico-e-visa.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://mexico-e-visa.com/images/Chich%C3%A9n-Itz%C3%A1-new-img.png
+
+[Website]: https://mexico-e-visa.com
+[Page]: https://mexico-e-visa.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://mexico-e-visa.com/images/Canc%C3%BAn-new-img.webp
+
+[Website]: https://mexico-e-visa.com
+[Page]: https://mexico-e-visa.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://mexico-e-visa.com/images/Chich%C3%A9n-Itz%C3%A1-new-img.webp

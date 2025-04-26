@@ -1,0 +1,92 @@
+[Unique Anchor Issues for Website]: https://benin-e-visa.com/
+
+[Line with Issue]:
+<a class="navbar-brand font-weight-bold text-secondary" href="https://benin-e-visa.com">
+<picture>
+<source srcset="https://benin-e-visa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://benin-e-visa.com/images/logo.png" style="max-width: 90%; height: auto; border-radius: 86px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://benin-e-visa.com
+ - https://benin-e-visa.com/
+ - https://benin-e-visa.com/apply-evisa-from-korea-republic-of-south/
+ - https://benin-e-visa.com/benin-e-visa-policy/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://benin-e-visa.com
+ - https://benin-e-visa.com/
+ - https://benin-e-visa.com/apply-evisa-from-korea-republic-of-south/
+ - https://benin-e-visa.com/benin-e-visa-policy/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-vatican-city-holy-see/"><span class="flag flag-va"></span> Vatican City (Holy See)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://benin-e-visa.com
+ - https://benin-e-visa.com/
+ - https://benin-e-visa.com/apply-evisa-from-korea-republic-of-south/
+ - https://benin-e-visa.com/benin-e-visa-policy/
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin E-Visa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-30-day-single-entry-e-visa/
+
+[Line with Issue]:
+<a class="btn btn-whatsapp btn-lg btn-block support-btn" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+															WhatsApp Support <br/><span class="phn_spn"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/application-status/
+
+[Line with Issue]:
+<a class="btn btn-whatsapp btn-lg btn-block support-btn" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+                                       WhatsApp Support <br/><span class="phn_spn"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/application-status/
+
+[Line with Issue]:
+<a class="btn btn-primary" href="https://benin-e-visa.com/application/">
+                      Get Your Benin eVisa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/9-must-try-dishes-of-benin/
+ - https://benin-e-visa.com/9-unmissable-benin-places-to-visit-experience/
+ - https://benin-e-visa.com/benin-bahamas-abolish-visa-requirements-for-each-other-citizens/
+ - https://benin-e-visa.com/benin-e-visa-for-us-citizens/
+ - https://benin-e-visa.com/benin-new-nationality-law-for-african-descendants/
+ - https://benin-e-visa.com/benin-proposes-citizenship-law-for-afro-descendants/
+ - https://benin-e-visa.com/benin-top-8-unforgettable-experiences-you-can-not-miss/
+ - https://benin-e-visa.com/benin-travel-advice/
+ - https://benin-e-visa.com/benin-voodoo-festival-transforms-into-vodun-days-to-woo-tourists/
+ - https://benin-e-visa.com/best-placesto-visit-in-benin/
+ - https://benin-e-visa.com/india-visa-for-benin-citizens/
+ - https://benin-e-visa.com/language-and-currency-of-benin/
+ - https://benin-e-visa.com/top-popular-cities-in-benin/
+ - https://benin-e-visa.com/traditional-music-and-festivals-in-benin/
+ - https://benin-e-visa.com/traditions-and-culture-in-benin/
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin eVisa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-tourist-e-visa/
+

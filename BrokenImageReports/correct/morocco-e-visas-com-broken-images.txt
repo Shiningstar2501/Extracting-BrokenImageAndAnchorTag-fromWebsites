@@ -1,0 +1,13 @@
+[Scanning Images for] https://morocco-e-visas.com/
+
+[Failed to load]: https://morocco-e-visas.com/cdn-cgi/l/email-protection
+
+[Website]: https://morocco-e-visas.com
+[Page]: https://morocco-e-visas.com/morocco-a-safe-destination/
+[Line with Issue]:
+ - Encoded URL Detected: https://morocco-e-visas.com/images/lgbtq%2B-travelers-and-inclusivity.png
+
+[Website]: https://morocco-e-visas.com
+[Page]: https://morocco-e-visas.com/morocco-a-safe-destination/
+[Line with Issue]:
+ - Encoded URL Detected: https://morocco-e-visas.com/images/lgbtq%2B-travelers-and-inclusivity.webp

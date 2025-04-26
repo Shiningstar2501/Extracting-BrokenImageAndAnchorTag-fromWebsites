@@ -1,0 +1,25 @@
+[Scanning Images for] https://vietnam-e-visas.com/
+
+[Failed to load]: https://vietnam-e-visas.com/cdn-cgi/l/email-protection
+[Failed to load]: https://vietnam-e-visas.com/form-on-arrival.pdf
+
+[Website]: https://vietnam-e-visas.com
+[Page]: https://vietnam-e-visas.com/vietnam-visa-overview/
+[Line with Issue]:
+ - Encoded URL Detected: https://sp-ao.shortpixel.ai/client/to_webp%2Cq_lossy%2Cret_img/https%3A//vietnam-e-visas.com/wp-content/uploads/2018/05/visa-to-vietnam.png
+ - Broken Image: https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://vietnam-e-visas.com/wp-content/uploads/2018/05/visa-to-vietnam.png (Exception: HTTPSConnectionPool(host='sp-ao.shortpixel.ai', port=443): Read timed out. (read timeout=5))
+
+[Website]: https://vietnam-e-visas.com
+[Page]: https://vietnam-e-visas.com/romantic-getaways-in-vietnam/
+[Line with Issue]:
+ - Encoded URL Detected: https://vietnam-e-visas.com/wp-content/uploads/2023/07/Phu-Quoc-%C3%AF%C2%BF%C2%BD-The-Island-of-Beauty.jpg
+
+[Website]: https://vietnam-e-visas.com
+[Page]: https://vietnam-e-visas.com/romantic-getaways-in-vietnam/
+[Line with Issue]:
+ - Broken Image: https://vietnam-e-visas.com/wp-content/uploads/2023/07/Phu-Quoc-%C3%AF%C2%BF%C2%BD-The-Island-of-Beauty.jpg --> 404
+
+[Website]: https://vietnam-e-visas.com
+[Page]: https://vietnam-e-visas.com/best-hiking-and-trekking-trails-in-vietnam/
+[Line with Issue]:
+ - Encoded URL Detected: https://vietnam-e-visas.com/wp-content/uploads/2023/07/Trekking-in-Northern-Vietnam-%E2%80%93-Cao-Bang.jpg

@@ -1,0 +1,12 @@
+[Scanning Images for] https://congo-evisa.com/
+
+
+[Website]: https://congo-evisa.com
+[Page]: https://congo-evisa.com/15-best-places-to-visit-in-congo/
+[Line with Issue]:
+ - Encoded URL Detected: https://congo-evisa.com/images/kahuzi-bi%C3%A9ga-national--park.png
+
+[Website]: https://congo-evisa.com
+[Page]: https://congo-evisa.com/15-best-places-to-visit-in-congo/
+[Line with Issue]:
+ - Encoded URL Detected: https://congo-evisa.com/images/kahuzi-bi%C3%A9ga-national--park.webp

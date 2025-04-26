@@ -1,0 +1,42 @@
+[Scanning Images for] https://russian-e-visa.com/
+
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/blog/top-adventurous-things-to-do-in-russia/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/top-adventurous-things-to-do-in-russia/ice-climbing%20in-kola-peninsula.jpg
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/blog/top-adventurous-things-to-do-in-russia/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/top-adventurous-things-to-do-in-russia/ice-climbing%20in-kola-peninsula.webp
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/russia-evisa-for-belgium/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/Russia%20Passport%20Sample2.jpg
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/russia-evisa-for-belgium/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/Russia%20Passport%20Sample.jpg
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/russia-evisa-for-belgium/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/Russia%20Passport%20Sample2.webp
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/russia-evisa-for-belgium/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/images/Russia%20Passport%20Sample.webp
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/consulate/dominican-(republic)-honorary-consulate-in-st.-petersburg-russia/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/consulate/dominican-%28republic%29-honorary-consulate-in-st.-petersburg-russia/
+
+[Website]: https://russian-e-visa.com
+[Page]: https://russian-e-visa.com/embassy/dominican-(republic)-embassy-in-moscow-russia/
+[Line with Issue]:
+ - Encoded URL Detected: https://russian-e-visa.com/embassy/dominican-%28republic%29-embassy-in-moscow-russia/

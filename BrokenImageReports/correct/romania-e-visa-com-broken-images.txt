@@ -1,0 +1,13 @@
+[Scanning Images for] https://romania-e-visa.com/
+
+
+[Website]: https://romania-e-visa.com
+[Page]: https://romania-e-visa.com/most-sim-cards-used-by-visitors-for-calling-and-data-in-romania/
+[Line with Issue]:
+ - Encoded URL Detected: https://romania-e-visa.com/images/vodafone-romania-network%20-coverage.png
+ - Broken Image: https://romania-e-visa.com/consulate/romanian-honorary-consulate-general-in-san-francisco-united-states-of-america/ (Exception: HTTPSConnectionPool(host='romania-e-visa.com', port=443): Read timed out. (read timeout=5))
+
+[Website]: https://romania-e-visa.com
+[Page]: https://romania-e-visa.com/consulate/romanian-honorary-consulate-in-star-l'ubovna-slovakia/
+[Line with Issue]:
+ - Encoded URL Detected: https://romania-e-visa.com/consulate/romanian-honorary-consulate-in-star-l%27ubovna-slovakia/

@@ -1,0 +1,53 @@
+[Scanning Images for] https://e-visa-turkish.com/
+
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/turkey-e-visa.jpg
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/turkey-e-visa.jpg
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_turkey-evisa.png
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_turkey-evisa.png
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_public-health-and-passenger-locator-form.jpg
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_public-health-and-passenger-locator-form.jpg
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/turkey-e-visa.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/turkey-e-visa.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/turkey-e-visa.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/turkey-e-visa.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/turkey-e-visa.jpg%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/turkey-e-visa.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/turkey-e-visa.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/turkey-e-visa.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/turkey-e-visa.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/turkey-e-visa.jpg%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Broken Image: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/turkey-e-visa.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/turkey-e-visa.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/turkey-e-visa.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/turkey-e-visa.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/turkey-e-visa.jpg%202560w --> 415
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_turkey-evisa.png%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_turkey-evisa.png%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_turkey-evisa.png%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_turkey-evisa.png%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_turkey-evisa.png%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_turkey-evisa.png%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_turkey-evisa.png%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_turkey-evisa.png%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_turkey-evisa.png%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_turkey-evisa.png%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Broken Image: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_turkey-evisa.png%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_turkey-evisa.png%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_turkey-evisa.png%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_turkey-evisa.png%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_turkey-evisa.png%202560w --> 415
+ - CDN Image Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_public-health-and-passenger-locator-form.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_public-health-and-passenger-locator-form.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_public-health-and-passenger-locator-form.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_public-health-and-passenger-locator-form.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_public-health-and-passenger-locator-form.jpg%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Encoded URL Detected: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_public-health-and-passenger-locator-form.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_public-health-and-passenger-locator-form.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_public-health-and-passenger-locator-form.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_public-health-and-passenger-locator-form.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_public-health-and-passenger-locator-form.jpg%202560w
+
+[Website]: https://e-visa-turkish.com
+[Page]: https://e-visa-turkish.com/
+[Line with Issue]:
+ - Broken Image: https://e-visa-turkish.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/_public-health-and-passenger-locator-form.jpg%20320w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D640/images/_public-health-and-passenger-locator-form.jpg%20640w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D960/images/_public-health-and-passenger-locator-form.jpg%20960w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D1280/images/_public-health-and-passenger-locator-form.jpg%201280w%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D2560/images/_public-health-and-passenger-locator-form.jpg%202560w --> 415

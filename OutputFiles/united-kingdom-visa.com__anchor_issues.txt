@@ -1,0 +1,26 @@
+[Unique Anchor Issues for Website]: https://united-kingdom-visa.com/
+
+[Line with Issue]:
+<a href="https://united-kingdom-visa.com">
+<img alt="logo" class="img-responsive" height="90" src="https://united-kingdom-visa.com/images/logo-uk-e-Visa.png" width="230"/>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://united-kingdom-visa.com/
+
+[Line with Issue]:
+<a class="nav-link" href="https://united-kingdom-visa.com/evw-uk-replaced-by-eta-for-some-nationalities/">EVW UK (Replaced by ETA for Some Nationalities)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://united-kingdom-visa.com/
+
+[Line with Issue]:
+<a href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" style="color:#fff;text-align: left;" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+														WhatsApp Support<br/><span class="whatsapp_no"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://united-kingdom-visa.com/application-status/
+

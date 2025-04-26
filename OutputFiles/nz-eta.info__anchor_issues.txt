@@ -1,0 +1,212 @@
+[Unique Anchor Issues for Website]: https://nz-eta.info/
+
+[Line with Issue]:
+<a class="img-logo" href="/">
+<img alt="New Zealand eVisa" height="68" src="https://nz-eta.info/images/logo.png" style="max-height:68px;max-width: 100%;height: auto; width: 100px" width="150"/>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://nz-eta.info/
+
+[Line with Issue]:
+<a href="https://nz-eta.info/embassy-and-consulate-of-new-zealand/" target="_blank">https://nz-eta.info/embassy-and-consulate-of-new-zealand/</a>
+[⚠️] Anchor text ends with punctuation: '/'
+[Pages this occurred on]:
+ - https://nz-eta.info/apply-evisa-from-abkhazia/
+ - https://nz-eta.info/apply-evisa-from-aland-islands/
+ - https://nz-eta.info/apply-evisa-from-albania/
+ - https://nz-eta.info/apply-evisa-from-algeria/
+ - https://nz-eta.info/apply-evisa-from-american-samoa/
+ - https://nz-eta.info/apply-evisa-from-andorra/
+ - https://nz-eta.info/apply-evisa-from-angola/
+ - https://nz-eta.info/apply-evisa-from-anguilla/
+ - https://nz-eta.info/apply-evisa-from-antarctica/
+ - https://nz-eta.info/apply-evisa-from-antigua-and-barbuda/
+ - https://nz-eta.info/apply-evisa-from-argentina/
+ - https://nz-eta.info/apply-evisa-from-armenia/
+ - https://nz-eta.info/apply-evisa-from-aruba/
+ - https://nz-eta.info/apply-evisa-from-australia/
+ - https://nz-eta.info/apply-evisa-from-austria/
+ - https://nz-eta.info/apply-evisa-from-azerbaijan/
+ - https://nz-eta.info/apply-evisa-from-bahamas/
+ - https://nz-eta.info/apply-evisa-from-bangladesh/
+ - https://nz-eta.info/apply-evisa-from-barbados/
+ - https://nz-eta.info/apply-evisa-from-belarus/
+ - https://nz-eta.info/apply-evisa-from-belgium/
+ - https://nz-eta.info/apply-evisa-from-belize/
+ - https://nz-eta.info/apply-evisa-from-benin/
+ - https://nz-eta.info/apply-evisa-from-bermuda/
+ - https://nz-eta.info/apply-evisa-from-bhutan/
+ - https://nz-eta.info/apply-evisa-from-bolivia/
+ - https://nz-eta.info/apply-evisa-from-bonaire/
+ - https://nz-eta.info/apply-evisa-from-bosnia-and-herzegovina/
+ - https://nz-eta.info/apply-evisa-from-botswana/
+ - https://nz-eta.info/apply-evisa-from-bouvet-island/
+ - https://nz-eta.info/apply-evisa-from-brazil/
+ - https://nz-eta.info/apply-evisa-from-british-indian-ocean-territory/
+ - https://nz-eta.info/apply-evisa-from-british-virgin-islands/
+ - https://nz-eta.info/apply-evisa-from-brunei/
+ - https://nz-eta.info/apply-evisa-from-bulgaria/
+ - https://nz-eta.info/apply-evisa-from-burkina-faso/
+ - https://nz-eta.info/apply-evisa-from-burundi/
+ - https://nz-eta.info/apply-evisa-from-cambodia/
+ - https://nz-eta.info/apply-evisa-from-cameroon/
+ - https://nz-eta.info/apply-evisa-from-canada/
+ - https://nz-eta.info/apply-evisa-from-cape-verde/
+ - https://nz-eta.info/apply-evisa-from-cayman-islands/
+ - https://nz-eta.info/apply-evisa-from-chile/
+ - https://nz-eta.info/apply-evisa-from-china/
+ - https://nz-eta.info/apply-evisa-from-christmas-island/
+ - https://nz-eta.info/apply-evisa-from-cocos-keeling-islands/
+ - https://nz-eta.info/apply-evisa-from-colombia/
+ - https://nz-eta.info/apply-evisa-from-comoros/
+ - https://nz-eta.info/apply-evisa-from-congo-democratic-republic-of-the/
+ - https://nz-eta.info/apply-evisa-from-cook-islands/
+ - https://nz-eta.info/apply-evisa-from-costa-rica/
+ - https://nz-eta.info/apply-evisa-from-cote-divoire/
+ - https://nz-eta.info/apply-evisa-from-croatia/
+ - https://nz-eta.info/apply-evisa-from-curacao/
+ - https://nz-eta.info/apply-evisa-from-cyprus/
+ - https://nz-eta.info/apply-evisa-from-czech-republic/
+ - https://nz-eta.info/apply-evisa-from-denmark/
+ - https://nz-eta.info/apply-evisa-from-djibouti/
+ - https://nz-eta.info/apply-evisa-from-dominica/
+ - https://nz-eta.info/apply-evisa-from-dominican-republic/
+ - https://nz-eta.info/apply-evisa-from-ecuador/
+ - https://nz-eta.info/apply-evisa-from-egypt/
+ - https://nz-eta.info/apply-evisa-from-el-salvador/
+ - https://nz-eta.info/apply-evisa-from-equatorial-guinea/
+ - https://nz-eta.info/apply-evisa-from-estonia/
+ - https://nz-eta.info/apply-evisa-from-ethiopia/
+ - https://nz-eta.info/apply-evisa-from-falkland-islands-islas-malvinas/
+ - https://nz-eta.info/apply-evisa-from-faroe-islands/
+ - https://nz-eta.info/apply-evisa-from-fiji/
+ - https://nz-eta.info/apply-evisa-from-finland/
+ - https://nz-eta.info/apply-evisa-from-france/
+ - https://nz-eta.info/apply-evisa-from-french-guiana/
+ - https://nz-eta.info/apply-evisa-from-french-polynesia/
+ - https://nz-eta.info/apply-evisa-from-french-southern-territories/
+ - https://nz-eta.info/apply-evisa-from-gabon/
+ - https://nz-eta.info/apply-evisa-from-gambia/
+ - https://nz-eta.info/apply-evisa-from-georgia/
+ - https://nz-eta.info/apply-evisa-from-germany/
+ - https://nz-eta.info/apply-evisa-from-ghana/
+ - https://nz-eta.info/apply-evisa-from-gibraltar/
+ - https://nz-eta.info/apply-evisa-from-greece/
+ - https://nz-eta.info/apply-evisa-from-greenland/
+ - https://nz-eta.info/apply-evisa-from-grenada/
+ - https://nz-eta.info/apply-evisa-from-guadeloupe/
+ - https://nz-eta.info/apply-evisa-from-guam/
+ - https://nz-eta.info/apply-evisa-from-guatemala/
+ - https://nz-eta.info/apply-evisa-from-guernsey/
+ - https://nz-eta.info/apply-evisa-from-guinea-bissau/
+ - https://nz-eta.info/apply-evisa-from-guinea/
+ - https://nz-eta.info/apply-evisa-from-guyana/
+ - https://nz-eta.info/apply-evisa-from-heard-island-and-mcdonald-islands/
+ - https://nz-eta.info/apply-evisa-from-honduras/
+ - https://nz-eta.info/apply-evisa-from-hong-kong/
+ - https://nz-eta.info/apply-evisa-from-hungary/
+ - https://nz-eta.info/apply-evisa-from-iceland/
+ - https://nz-eta.info/apply-evisa-from-india/
+ - https://nz-eta.info/apply-evisa-from-indonesia/
+ - https://nz-eta.info/apply-evisa-from-ireland/
+ - https://nz-eta.info/apply-evisa-from-isle-of-man/
+ - https://nz-eta.info/apply-evisa-from-israel/
+ - https://nz-eta.info/apply-evisa-from-italy/
+ - https://nz-eta.info/apply-evisa-from-jamaica/
+ - https://nz-eta.info/apply-evisa-from-japan/
+ - https://nz-eta.info/apply-evisa-from-jersey/
+ - https://nz-eta.info/apply-evisa-from-jordan/
+ - https://nz-eta.info/apply-evisa-from-kazakhstan/
+ - https://nz-eta.info/apply-evisa-from-kenya/
+ - https://nz-eta.info/apply-evisa-from-kiribati/
+ - https://nz-eta.info/apply-evisa-from-kosovo/
+ - https://nz-eta.info/apply-evisa-from-kuwait/
+ - https://nz-eta.info/apply-evisa-from-kyrgyzstan/
+ - https://nz-eta.info/apply-evisa-from-laos/
+ - https://nz-eta.info/apply-evisa-from-latvia/
+ - https://nz-eta.info/apply-evisa-from-lebanon/
+ - https://nz-eta.info/apply-evisa-from-lesotho/
+ - https://nz-eta.info/apply-evisa-from-liberia/
+ - https://nz-eta.info/apply-evisa-from-liechtenstein/
+ - https://nz-eta.info/apply-evisa-from-lithuania/
+ - https://nz-eta.info/apply-evisa-from-luxembourg/
+ - https://nz-eta.info/apply-evisa-from-macau/
+ - https://nz-eta.info/apply-evisa-from-macedonia-republic-of/
+ - https://nz-eta.info/apply-evisa-from-madagascar/
+ - https://nz-eta.info/apply-evisa-from-malawi/
+ - https://nz-eta.info/apply-evisa-from-malaysia/
+ - https://nz-eta.info/apply-evisa-from-maldives/
+ - https://nz-eta.info/apply-evisa-from-malta/
+ - https://nz-eta.info/apply-evisa-from-marshall-islands/
+ - https://nz-eta.info/apply-evisa-from-martinique/
+ - https://nz-eta.info/apply-evisa-from-mauritania/
+ - https://nz-eta.info/apply-evisa-from-mauritius/
+ - https://nz-eta.info/apply-evisa-from-mayotte/
+ - https://nz-eta.info/apply-evisa-from-mexico/
+ - https://nz-eta.info/apply-evisa-from-micronesia-federated-states-of/
+ - https://nz-eta.info/apply-evisa-from-moldova/
+ - https://nz-eta.info/apply-evisa-from-monaco/
+ - https://nz-eta.info/apply-evisa-from-mongolia/
+ - https://nz-eta.info/apply-evisa-from-montenegro/
+ - https://nz-eta.info/apply-evisa-from-montserrat/
+ - https://nz-eta.info/apply-evisa-from-morocco/
+ - https://nz-eta.info/apply-evisa-from-mozambique/
+ - https://nz-eta.info/apply-evisa-from-myanmar/
+ - https://nz-eta.info/apply-evisa-from-nagorno-karabakh/
+ - https://nz-eta.info/apply-evisa-from-namibia/
+ - https://nz-eta.info/apply-evisa-from-nauru/
+ - https://nz-eta.info/apply-evisa-from-nepal/
+ - https://nz-eta.info/apply-evisa-from-netherlands/
+ - https://nz-eta.info/apply-evisa-from-new-caledonia/
+ - https://nz-eta.info/apply-evisa-from-nicaragua/
+ - https://nz-eta.info/apply-evisa-from-niger/
+ - https://nz-eta.info/apply-evisa-from-nigeria/
+ - https://nz-eta.info/apply-evisa-from-niue/
+ - https://nz-eta.info/apply-evisa-from-norfolk-island/
+ - https://nz-eta.info/apply-evisa-from-northern-cyprus/
+ - https://nz-eta.info/apply-evisa-from-northern-mariana-islands/
+ - https://nz-eta.info/apply-evisa-from-norway/
+ - https://nz-eta.info/apply-evisa-from-oman/
+ - https://nz-eta.info/apply-evisa-from-palau/
+ - https://nz-eta.info/apply-evisa-from-panama/
+ - https://nz-eta.info/apply-evisa-from-papua-new-guinea/
+ - https://nz-eta.info/apply-evisa-from-paraguay/
+ - https://nz-eta.info/apply-evisa-from-peru/
+ - https://nz-eta.info/apply-evisa-from-philippines/
+ - https://nz-eta.info/apply-evisa-from-pitcairn/
+ - https://nz-eta.info/apply-evisa-from-poland/
+ - https://nz-eta.info/apply-evisa-from-portugal/
+ - https://nz-eta.info/apply-evisa-from-puerto-rico/
+ - https://nz-eta.info/apply-evisa-from-qatar/
+ - https://nz-eta.info/apply-evisa-from-reunion/
+ - https://nz-eta.info/apply-evisa-from-romania/
+ - https://nz-eta.info/apply-evisa-from-russia/
+ - https://nz-eta.info/apply-evisa-from-rwanda/
+ - https://nz-eta.info/apply-evisa-from-sahrawi-arab-democratic-republic/
+ - https://nz-eta.info/apply-evisa-from-saint-barthelemy/
+ - https://nz-eta.info/apply-evisa-from-saint-helena-ascension-and-tristan-da-cunha/
+ - https://nz-eta.info/apply-evisa-from-saint-kitts-and-nevis/
+ - https://nz-eta.info/apply-evisa-from-saint-lucia/
+ - https://nz-eta.info/apply-evisa-from-saint-martin/
+ - https://nz-eta.info/apply-evisa-from-saint-pierre-and-miquelon/
+ - https://nz-eta.info/apply-evisa-from-saint-vincent-and-the-grenadines/
+ - https://nz-eta.info/registration
+ - https://nz-eta.info/registration/
+
+[Line with Issue]:
+<a class="btn custom-btn-contact mb-2 mb-md-0 mr-md-3" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello!" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+<span class="php_spn"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://nz-eta.info/visa-status/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://nz-eta.info/all-eligible-country-for-new-zealand-visa/
+

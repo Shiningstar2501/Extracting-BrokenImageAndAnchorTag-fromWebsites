@@ -1,0 +1,7 @@
+[Scanning Images for] https://ethiopia-e-visa.com/
+
+
+[Website]: https://ethiopia-e-visa.com
+[Page]: https://ethiopia-e-visa.com/ethiopian-festival/
+[Line with Issue]:
+ - Encoded URL Detected: https://ethiopia-e-visa.com/images/Timket-%28Epiphany%29.jpg

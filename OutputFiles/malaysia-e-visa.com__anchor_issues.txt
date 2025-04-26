@@ -1,0 +1,69 @@
+[Unique Anchor Issues for Website]: https://malaysia-e-visa.com/
+
+[Line with Issue]:
+<a class="navbar-brand mx-2 text-center" href="https://malaysia-e-visa.com" style="    width: 150px;">
+<picture>
+<source srcset="https://malaysia-e-visa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://malaysia-e-visa.com/images/logo.png" style="width: auto; height:52px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://malaysia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-dark mb-2" href="https://malaysia-e-visa.com/do-i-need-malaysia-visa/" title="Who Needs a Malaysia Visa?">Who Needs a Malaysia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://malaysia-e-visa.com
+ - https://malaysia-e-visa.com/
+ - https://malaysia-e-visa.com/application-status/
+ - https://malaysia-e-visa.com/application/
+ - https://malaysia-e-visa.com/bangladeshi-citizens-applying-for-malaysia-visa/
+ - https://malaysia-e-visa.com/checking-your-malaysia-visa-status/
+ - https://malaysia-e-visa.com/complete-partially/
+ - https://malaysia-e-visa.com/contact-us/
+ - https://malaysia-e-visa.com/do-i-need-malaysia-visa/
+ - https://malaysia-e-visa.com/exploring-the-cultural-diversity-of-india-tips-for-every-traveller/
+ - https://malaysia-e-visa.com/guide-about-malaysia-visa-extension/
+ - https://malaysia-e-visa.com/india-visa-for-malaysia/
+ - https://malaysia-e-visa.com/malaysia-evisa-for-expatriate/
+ - https://malaysia-e-visa.com/malaysia-evisa-for-foreign-workers/
+ - https://malaysia-e-visa.com/malaysia-evisa-for-indians/
+ - https://malaysia-e-visa.com/malaysia-evisa-for-medical/
+ - https://malaysia-e-visa.com/malaysia-evisa-for-student/
+ - https://malaysia-e-visa.com/malaysia-eyes-halal-travel-as-significant-opportunity/
+ - https://malaysia-e-visa.com/malaysia-multiple-entry-evisa/
+ - https://malaysia-e-visa.com/malaysia-opens-doors-visa-free-for-chinese-and-indian-nationals/
+ - https://malaysia-e-visa.com/malaysia-single-entry-evisa/
+ - https://malaysia-e-visa.com/malaysia-to-allow-visa-free-entry-to-indian-citizens/
+ - https://malaysia-e-visa.com/malaysia-tourist-evisa-for-international-diplomatic-official-passport-holders/
+ - https://malaysia-e-visa.com/malaysia-tourist-evisa-with-val/
+ - https://malaysia-e-visa.com/malaysia-visa-fees/
+ - https://malaysia-e-visa.com/malaysia-visa-from-sri-lanka/
+ - https://malaysia-e-visa.com/malaysia-visa-on-arrival-for-indian-citizens/
+ - https://malaysia-e-visa.com/malaysia-visa-online/
+ - https://malaysia-e-visa.com/malaysia-visa-photo-requirements/
+ - https://malaysia-e-visa.com/malaysia-visa-required-documents/
+ - https://malaysia-e-visa.com/privacy-policy/
+ - https://malaysia-e-visa.com/ringgit-recovers-following-oversold-correction/
+ - https://malaysia-e-visa.com/terms-and-conditions/
+ - https://malaysia-e-visa.com/tourist-tax-entry-fees-in-these-destinations/
+ - https://malaysia-e-visa.com/unveil-southeast-asia-hidden-gem/
+
+[Line with Issue]:
+<a href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" style="color:#fff;text-align: left;" target="_blank">
+<i class="fa fa-whatsapp mr-2"></i>
+														WhatsApp Support<br/><span class="whatsapp_no"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://malaysia-e-visa.com/application-status/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://malaysia-e-visa.com/india-visa-for-malaysia/
+

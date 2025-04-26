@@ -1,0 +1,28 @@
+[Unique Anchor Issues for Website]: https://nigeria-e-visa.com/
+
+[Line with Issue]:
+<a class="navbar-brand font-weight-bold text-secondary" href="https://nigeria-e-visa.com">
+<picture>
+<source srcset="https://nigeria-e-visa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://nigeria-e-visa.com/images/logo.png" style="max-width: 70%; height: auto;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://nigeria-e-visa.com/
+
+[Line with Issue]:
+<a href="https://visa-to-travel.com/embassy-and-consulate-of/nigeria/" target="_blank">https://visa-to-travel.com/embassy-and-consulate-of/nigeria/</a>
+[⚠️] Anchor text ends with punctuation: '/'
+[Pages this occurred on]:
+ - https://nigeria-e-visa.com/application/
+
+[Line with Issue]:
+<a class="btn mb-2 btn-outline-success" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello Sir!" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp"></i> <span class="whtsp_no"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://nigeria-e-visa.com/application-status/
+

@@ -1,0 +1,1406 @@
+[Unique Anchor Issues for Website]: https://bosnia-evisa.com/
+
+[Line with Issue]:
+<a class="navbar-brand mx-2 p-0 text-center" href="https://bosnia-evisa.com">
+<picture>
+<source srcset="https://bosnia-evisa.com/images/logo1.webp" type="image/webp"/>
+<img alt="logo" height="55" id="logo-img" src="https://bosnia-evisa.com/images/logo.png" style="max-width: 100%; height:auto;" title="Home" width="114"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/
+
+[Line with Issue]:
+<a class="text-dark font-weight-bold mb-2" href="https://bosnia-evisa.com/apply-for-bosnia-and-herzegovina-visa/" title="How to Apply for a Bosnia and Herzegovina Visa?">How to Apply for a Bosnia and Herzegovina Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com
+ - https://bosnia-evisa.com/
+ - https://bosnia-evisa.com/application/
+ - https://bosnia-evisa.com/apply-for-bosnia-and-herzegovina-visa/
+ - https://bosnia-evisa.com/apply-for-bosnian-citizenship/
+ - https://bosnia-evisa.com/ask-community/
+ - https://bosnia-evisa.com/bosnia-and-herzegovina-visa-policy/
+ - https://bosnia-evisa.com/bosnia-long-stay-visas/
+ - https://bosnia-evisa.com/bosnia-short-stay-visas/
+ - https://bosnia-evisa.com/bosnia-transit-visa/
+ - https://bosnia-evisa.com/bosnia-visa-fees/
+ - https://bosnia-evisa.com/bosnia-visa-requirements/
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+ - https://bosnia-evisa.com/consulate/albanian-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/bangladeshi-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-auckland-new-zealand/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-kiev-ukraine/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-monaco-city-monaco/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-colombo-sri-lanka/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kathmandu-nepal/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-beirut-lebanon/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-dhaka-bangladesh/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-durres-albania/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+ - https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/cypriot-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/danish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/finnish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/serbian-general-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/slovakian-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/spanish-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/turkish-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/contact-us/
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+ - https://bosnia-evisa.com/embassy/american-embassy-branch-office-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/american-embassy-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/austrian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/azerbaijani-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/belgian-representative-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-abu-dhabi-united-arab-emirates/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-amman-jordan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-athens-greece/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-belgrade-serbia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-brussels-belgium/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bucharest-romania/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-budapest-hungary/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-cairo-egypt/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-doha-qatar/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-islamabad-pakistan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-jakarta-indonesia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuala-lumpur-malaysia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuwait-city-kuwait/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ljubljana-slovenia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-london-united-kingdom/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-moscow-russia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-oslo-norway/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ottawa-canada/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-podgorica-montenegro/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-riyadh-saudi-arabia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-sofia-bulgaria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-stockholm-sweden/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tel-aviv-israel/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-the-hague-netherlands/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tokyo-japan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-warsaw-poland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-zagreb-croatia/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-vatican-vatican-city-holy-see/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-beijing-china/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-paris-france/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-prague-czech-republic/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/british-branch-office-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/british-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/bulgaria-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/chinese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/czech-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/egyptian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/french-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/german-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/greek-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/indonesian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/italian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/japanese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/kuwaiti-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/malaysian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/montenegrin-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/netherlands-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/norwegian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/pakistani-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/palestinian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/polish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/qatari-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/russian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/san-marinese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/saudi-arabian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/serbian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/slovakian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/slovenian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/spanish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/swedish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/switzerland-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/turkish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/ukrainian-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/vatican-apostolic-nunciature-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/india-visa-for-bosnia-and-herzegovina-citizens/
+ - https://bosnia-evisa.com/passport-visa-photo-requirements-for-bosnia/
+ - https://bosnia-evisa.com/privacy-policy/
+ - https://bosnia-evisa.com/residence-permit-for-bosnia/
+ - https://bosnia-evisa.com/step-by-step-guide-to-applying-for-an-indian-visa-everything-you-need-to-know/
+ - https://bosnia-evisa.com/term-and-condition/
+
+[Line with Issue]:
+<a class="text-dark font-weight-bold mb-2" href="https://bosnia-evisa.com/apply-for-bosnian-citizenship/" title="How Can I Apply for Bosnian Citizenship?">How Can I Apply for Bosnian Citizenship?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com
+ - https://bosnia-evisa.com/
+ - https://bosnia-evisa.com/application/
+ - https://bosnia-evisa.com/apply-for-bosnia-and-herzegovina-visa/
+ - https://bosnia-evisa.com/apply-for-bosnian-citizenship/
+ - https://bosnia-evisa.com/ask-community/
+ - https://bosnia-evisa.com/bosnia-and-herzegovina-visa-policy/
+ - https://bosnia-evisa.com/bosnia-long-stay-visas/
+ - https://bosnia-evisa.com/bosnia-short-stay-visas/
+ - https://bosnia-evisa.com/bosnia-transit-visa/
+ - https://bosnia-evisa.com/bosnia-visa-fees/
+ - https://bosnia-evisa.com/bosnia-visa-requirements/
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+ - https://bosnia-evisa.com/consulate/albanian-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/bangladeshi-honorary-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-auckland-new-zealand/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-kiev-ukraine/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-monaco-city-monaco/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-colombo-sri-lanka/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kathmandu-nepal/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-beirut-lebanon/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-dhaka-bangladesh/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-durres-albania/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+ - https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/cypriot-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/danish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/finnish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/serbian-general-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/slovakian-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/spanish-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/turkish-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/contact-us/
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+ - https://bosnia-evisa.com/embassy/american-embassy-branch-office-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/american-embassy-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/austrian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/azerbaijani-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/belgian-representative-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-abu-dhabi-united-arab-emirates/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-amman-jordan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-athens-greece/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-belgrade-serbia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-brussels-belgium/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bucharest-romania/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-budapest-hungary/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-cairo-egypt/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-doha-qatar/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-islamabad-pakistan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-jakarta-indonesia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuala-lumpur-malaysia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuwait-city-kuwait/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ljubljana-slovenia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-london-united-kingdom/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-moscow-russia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-oslo-norway/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ottawa-canada/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-podgorica-montenegro/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-riyadh-saudi-arabia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-sofia-bulgaria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-stockholm-sweden/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tel-aviv-israel/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-the-hague-netherlands/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tokyo-japan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-warsaw-poland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-zagreb-croatia/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-vatican-vatican-city-holy-see/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-beijing-china/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-paris-france/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-prague-czech-republic/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/british-branch-office-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/british-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/bulgaria-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/chinese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/czech-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/egyptian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/french-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/german-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/greek-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/indonesian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/italian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/japanese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/kuwaiti-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/malaysian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/montenegrin-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/netherlands-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/norwegian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/pakistani-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/palestinian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/polish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/qatari-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/russian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/san-marinese-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/saudi-arabian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/serbian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/slovakian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/slovenian-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/spanish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/swedish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/switzerland-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/turkish-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/ukrainian-office-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/vatican-apostolic-nunciature-in-sarajevo-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/india-visa-for-bosnia-and-herzegovina-citizens/
+ - https://bosnia-evisa.com/passport-visa-photo-requirements-for-bosnia/
+ - https://bosnia-evisa.com/privacy-policy/
+ - https://bosnia-evisa.com/residence-permit-for-bosnia/
+ - https://bosnia-evisa.com/step-by-step-guide-to-applying-for-an-indian-visa-everything-you-need-to-know/
+ - https://bosnia-evisa.com/term-and-condition/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/azerbaijani-office-in-sarajevo-bosnia-and-herzegovina/">Azerbaijan -   Azerbaijani   Embassy Office  in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/">Brazil -   Brazilian   Embassy  in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/egyptian-in-sarajevo-bosnia-and-herzegovina/">Egypt -   Egyptian   Embassy  in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/japanese-in-sarajevo-bosnia-and-herzegovina/">Japan -  Japanese   Embassy  in Sarajevo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/montenegrin-in-sarajevo-bosnia-and-herzegovina/">Montenegro -  Montenegrin   Embassy  in Sarajevo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/">Romania -  Embassy of Romania in Sarajevo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/russian-in-sarajevo-bosnia-and-herzegovina/">Russia -   Russian   Embassy  in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/saudi-arabian-in-sarajevo-bosnia-and-herzegovina/">Saudi Arabia -   Saudi Arabian   Embassy  in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/turkish-in-sarajevo-bosnia-and-herzegovina/">Turkey -       Turkish   Embassy  in Sarajevo      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/american-embassy-branch-office-in-banja-luka-bosnia-and-herzegovina/">United States of America -   American   Embassy Branch Office in Banja Luka  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/american-embassy-in-sarajevo-bosnia-and-herzegovina/">United States of America -   American   Embassy in Sarajevo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/albanian-honorary-in-sarajevo-bosnia-and-herzegovina/">Albania -  Albanian  Honorary Consulate General  in Sarajevo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/turkish-in-mostar-bosnia-and-herzegovina/">Turkey -       Turkish   Consulate General  in Mostar      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/emabssies-consulates-in-bosnia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="Embassy of the Republic of Croatia in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of the Republic of Croatia in Sarajevo, Bosnia and Herzegovina  </b><br><br>Mehmeda Spahe 16 <br/>71 000 Sarajevo<br/>Bosnia and Herzegovina</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="Consulate General of the Republic of Croatia in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of the Republic of Croatia in Banja Luka, Bosnia and Herzegovina</b><br><br>Milana Kranovica 1<br/>Banja Luka<br/>Bosnia and Herzegovina</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="Consulate General of the Republic of Croatia in Mostar">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of the Republic of Croatia in Mostar, Bosnia and Herzegovina</b><br><br>Zagrebacka 8<br/>88000 Mostar<br/>Bosnia and Herzegovina</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="Hungarian   Embassy  in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>Hungarian   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br><br/>Splitska 2<br/>7100 Sarajevo<br/>Bosnia and Herzegovina<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="Hungarian  Honorary Consulate  in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>Hungarian  Honorary Consulate  in Banja Luka, Bosnia and Herzegovina</b><br/><br/>Ada 19a<br/>78000 Banja Luka<br/>Bosnia and Herzegovina<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="Hungarian  Honorary Consulate  in Mostar">
+<p style="margin-bottom:6px;color:#000;"> <b>Hungarian  Honorary Consulate  in Mostar, Bosnia and Herzegovina</b><br/><br/>Vokica Lorkovica 91<br/>88000 Mostar<br/>Bosnia and Herzegovina<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/spanish-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="Spanish  Honorary Consulate  in Mostar">
+<p style="margin-bottom:6px;color:#000;"> <b>Spanish  Honorary Consulate  in Mostar, Bosnia and Herzegovina</b><br><br>Stjepana Radica 31/II<br>88000 Mostar<br>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/spanish-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/croatia-in-tuzla-bosnia-and-herzegovina/" id="Toproll" title="Consulate of the Republic of Croatia in Tuzla">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate of the Republic of Croatia in Tuzla, Bosnia and Herzegovina</b><br><br>Kazan mahala 1<br/>75 000 Tuzla<br/>Bosnia and Herzegovina</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/croatia-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/croatia-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/croatia-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://evisa-montenegro.com/apply-for-montenegro-e-visa/" target="_blank" title="How to Apply for a Montenegro eVisa?">How to Apply for a Montenegro eVisa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/montenegrin-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://evisa-montenegro.com/do-i-need-a-visa-to-visit-montenegro/" target="_blank" title="Do I Need a Visa to Visit Montenegro?">Do I Need a Visa to Visit Montenegro?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/montenegrin-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://malaysia-e-visa.com/do-i-need-malaysia-visa/" target="_blank" title="Who Needs a Malaysia Visa?">Who Needs a Malaysia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/malaysian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-other-purposes/" target="_blank" title="Romania Long-Stay Visa for Other Purposes (Marked D/As)">Romania Long-Stay Visa for Other Purposes (Marked D/As)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-scientific-research/" target="_blank" title="Romania Long-Stay Visa for Scientific Research (Marked D/Cs)">Romania Long-Stay Visa for Scientific Research (Marked D/Cs)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-studies/" target="_blank" title="Romania Long-Stay Visa for Studies (Marked D/SD)">Romania Long-Stay Visa for Studies (Marked D/SD)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-secondment/" target="_blank" title="Romania Long-Stay Visa for Secondment (Marked D/Dt)">Romania Long-Stay Visa for Secondment (Marked D/Dt)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-employment/" target="_blank" title="Romania Long-Stay Visa for Employment (Marked D/Am)">Romania Long-Stay Visa for Employment (Marked D/Am)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-business-visa/" target="_blank" title="Romania Business Visa (B)">Romania Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-commercial-activities/" target="_blank" title="Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)">Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-religious-activities/" target="_blank" title="Romania Long-Stay Visa for Religious Activities (Marked D/Ar)">Romania Long-Stay Visa for Religious Activities (Marked D/Ar)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-diplomatic-and-service-visa/" target="_blank" title="Romania Diplomatic And Service Visa (Marked Ds)">Romania Diplomatic And Service Visa (Marked Ds)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-family-reunification/" target="_blank" title="Romania Long-Stay Visa for Family Reunification (Marked D/Vf)">Romania Long-Stay Visa for Family Reunification (Marked D/Vf)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-professional-activities/" target="_blank" title="Romania Long-Stay Visa for Professional Activities (Marked D/Ap)">Romania Long-Stay Visa for Professional Activities (Marked D/Ap)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-term-visa-for-cultural-scientific-humanitarian-activities-medical-treatment-etc/" target="_blank" title="Romania Medical Visa (MED)">Romania Medical Visa (MED)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-tourist-visa/" target="_blank" title="Romania Tourist Visa (T)">Romania Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/romania-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/american-embassy-branch-office-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="  American   Embassy Branch Office in Banja Luka  ">
+<p style="margin-bottom:6px;color:#000;"> <b>American   Embassy Branch Office in Banja Luka, Bosnia and Herzegovina</b><br/>Jovana Ducica, 5<br/>78000 Banja Luka<br/>Bosnia and Herzegovina<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/american-embassy-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/british-branch-office-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="British   Embassy Branch Office  in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>British   Embassy Branch Office  in Banja Luka, Bosnia and Herzegovina</b><br><br>Simeuna Dzaka 8<br>Banja Luka<br>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/british-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/hungarian-honorary-in-tuzla-bosnia-and-herzegovina/" id="Toproll" title="Hungarian  Honorary Consulate  in Tuzla">
+<p style="margin-bottom:6px;color:#000;"> <b>Hungarian  Honorary Consulate  in Tuzla, Bosnia and Herzegovina</b><br/><br/>Branilaca BiH 11, 1st floor<br/>75000 Tuzla<br/>Bosnia and Herzegovina<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/hungarian-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/american-embassy-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="  American   Embassy in Sarajevo  ">
+<p style="margin-bottom:6px;color:#000;"> <b>American   Embassy in Sarajevo, Bosnia and Herzegovina</b><br/>Roberta C. Frasurea 1<br/>71000 Sarajevo<br/>Bosnia and Herzegovina<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/american-embassy-branch-office-in-banja-luka-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-cairo-egypt/">Egypt -   Embassy of Bosnia and Herzegovina in Cairo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tokyo-japan/">Japan -   Embassy of Bosnia and Herzegovina in Tokyo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-podgorica-montenegro/">Montenegro -  Embassy of Bosnia and Herzegovina in Podgorica </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bucharest-romania/">Romania -  Embassy of Bosnia and Herzegovina in Bucharest </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-moscow-russia/">Russia -   Embassy of Bosnia and Herzegovina in Moscow  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-riyadh-saudi-arabia/">Saudi Arabia -   Embassy of Bosnia and Herzegovina in Riyadh  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/">Turkey -                Embassy of Bosnia and Herzegovina in Ankara               </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/">United States of America -   Bosnian Herzegovinian   Embassy  in Washington  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/">United States of America -   Bosnian Herzegovinian   Representative Office  in New York  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-durres-albania/">Albania -  Bosnian Herzegovinian  Honorary Consulate  in Durres </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/">Turkey -                Bosnian Herzegovinian  Honorary Consulate  in Bursa               </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/">Turkey -                Consulate General of Bosnia and Herzegovina in Istanbul               </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/">Turkey -                Honorary Consulate of Bosnia and Herzegovina in Izmir               </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/">United States of America -   Bosnian Herzegovinian   Consulate General  in Chicago  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/bosnian-emabssies-consulates/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/apply-for-bosnia-and-herzegovina-visa/" target="_blank" title="How to Apply for a Bosnia and Herzegovina Visa?">How to Apply for a Bosnia and Herzegovina Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-auckland-new-zealand/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-monaco-city-monaco/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-colombo-sri-lanka/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kathmandu-nepal/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-beirut-lebanon/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-dhaka-bangladesh/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-durres-albania/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-abu-dhabi-united-arab-emirates/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-amman-jordan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-athens-greece/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-belgrade-serbia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-brussels-belgium/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bucharest-romania/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-budapest-hungary/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-cairo-egypt/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-doha-qatar/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-islamabad-pakistan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-jakarta-indonesia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuala-lumpur-malaysia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuwait-city-kuwait/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ljubljana-slovenia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-london-united-kingdom/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-moscow-russia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-oslo-norway/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ottawa-canada/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-podgorica-montenegro/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-riyadh-saudi-arabia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-sofia-bulgaria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-stockholm-sweden/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tel-aviv-israel/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-the-hague-netherlands/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tokyo-japan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-warsaw-poland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-zagreb-croatia/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-vatican-vatican-city-holy-see/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-beijing-china/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-paris-france/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-prague-czech-republic/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a href="https://bosnia-evisa.com/apply-for-bosnian-citizenship/" target="_blank" title="How Can I Apply for Bosnian Citizenship?">How Can I Apply for Bosnian Citizenship?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-auckland-new-zealand/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-monaco-city-monaco/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-colombo-sri-lanka/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kathmandu-nepal/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-beirut-lebanon/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-dhaka-bangladesh/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-durres-albania/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-abu-dhabi-united-arab-emirates/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-amman-jordan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-athens-greece/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-belgrade-serbia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-brussels-belgium/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bucharest-romania/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-budapest-hungary/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-cairo-egypt/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-doha-qatar/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-islamabad-pakistan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-jakarta-indonesia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuala-lumpur-malaysia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-kuwait-city-kuwait/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ljubljana-slovenia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-london-united-kingdom/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-moscow-russia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-oslo-norway/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ottawa-canada/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-podgorica-montenegro/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-riyadh-saudi-arabia/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-sofia-bulgaria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-stockholm-sweden/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tel-aviv-israel/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-the-hague-netherlands/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-tokyo-japan/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-warsaw-poland/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-zagreb-croatia/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-vatican-vatican-city-holy-see/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-beijing-china/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-paris-france/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-prague-czech-republic/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="Serbian   Consulate General  in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>Serbian   Consulate General  in Banja Luka, Bosnia and Herzegovina</b><br><br>Vojvode Radomira Putnika 2<br>78000 Banja Luka<br>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/serbian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/serbian-general-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="Serbian   Consulate General  in Mostar">
+<p style="margin-bottom:6px;color:#000;"> <b>Serbian   Consulate General  in Mostar, Bosnia and Herzegovina</b><br/><br/>Ulica Konak br.5<br/>88000 Mostar<br/>Bosnia and Herzegovina<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/embassy/serbian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-evisitor-visa/" target="_blank" title="Australia eVisitor Visa (subclass 651)">Australia eVisitor Visa (subclass 651)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-transit-visa/" target="_blank" title="Australia Transit Visa (subclass 771)">Australia Transit Visa (subclass 771)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-visitor-visa/" target="_blank" title="Australia Visitor Visa (subclass 600)">Australia Visitor Visa (subclass 600)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-work-and-holiday-visa/" target="_blank" title="Australia Work and Holiday Visa (subclass 462)">Australia Work and Holiday Visa (subclass 462)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-visa/" target="_blank" title="Australia Student Visa (subclass 500)">Australia Student Visa (subclass 500)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-training-visa/" target="_blank" title="Australia Training Visa (subclass 407)">Australia Training Visa (subclass 407)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-student-guardian-visa/" target="_blank" title="Australia Student Guardian Visa (subclass 590)">Australia Student Guardian Visa (subclass 590)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/australia-working-holiday-visa/" target="_blank" title="Australia Working Holiday Visa (subclass 417)">Australia Working Holiday Visa (subclass 417)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://eta-australia.net/how-can-i-get-an-australian-visa/" target="_blank" title="How Can I Get an Australian Visa?">How Can I Get an Australian Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/australian-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/slovakian-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="Slovakian  Honorary Consulate  in Mostar">
+<p style="margin-bottom:6px;color:#000;"> <b>Slovakian  Honorary Consulate  in Mostar, Bosnia and Herzegovina</b><br><br>Globtour<br>Industrijska zona bb<br>88266 MedÃ…Â¾ugorie<br/>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/slovakian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Berlin">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Berlin, Germany</b><br><br/>Ibsenstrasse 14<br/>D-10439 Berlin<br/>Germany</br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/" id="Toproll" title="Consulate General of Bosnia and Herzegovina in Munich">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of Bosnia and Herzegovina in Munich, Germany </b><br><br>Karl str. 60<br/>80333 Munchen<br/>Germany</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/" id="Toproll" title="Consulate General of Bosnia and Herzegovina in Stuttgart">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of Bosnia and Herzegovina in Stuttgart, Germany</b><br><br>Olgastrase 97b<br/>D-70180 Stuttgart<br/>Germany</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/" id="Toproll" title="Honorary Consulate of Bosnia and Herzegovina in Leipzig">
+<p style="margin-bottom:6px;color:#000;"> <b>Honorary Consulate of Bosnia and Herzegovina in Leipzig, Germany</b><br><br>Thomaskirchhof 20<br/>04109 Lajpcig<br/>Germany</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/" id="Toproll" title="  Bosnian Herzegovinian   Consulate General  in Chicago  ">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Consulate General  in Chicago, United States</b><br/>500 North Michigan Avenue, Suite 750<br/>Chicago, IL 60611<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/" id="Toproll" title="  Bosnian Herzegovinian   Representative Office  in New York  ">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Representative Office  in New York, United States</b><br/>866 UN Plaza, Suite 580<br/>New York, NY 10017<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Vienna">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Vienna, Austria</b><br><br/>Tivoligasse 54<br/> A - 1120 Wien<br/>Austria</br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/turkish-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="      Turkish   Embassy  in Sarajevo      ">
+<p style="margin-bottom:6px;color:#000;"> <b>Turkish   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br/>Vilsonovo setaliste b.b.<br/>71000 Sarajevo<br/>Bosnia and Herzegovina<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/turkish-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/serbian-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="Serbian   Embassy  in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>Serbian   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br><br/>Obala Marka Dizdara 3a<br/>71000 Sarajevo<br/>Bosnia and Herzegovina<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/serbian-general-in-mostar-bosnia-and-herzegovina/
+ - https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/serbian-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="Serbian   Consulate General  in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>Serbian   Consulate General  in Banja Luka, Bosnia and Herzegovina</b><br/><br/>Vojvode Radomira Putnika 2<br/>78000 Banja Luka<br/>Bosnia and Herzegovina<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/serbian-general-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/" id="Toproll" title="Bosnian Herzegovinian   Embassy  in Copenhagen">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Embassy  in Copenhagen, Denmark</b><br><br/>H.C. Andersens Boulevard 48, 2nd floor<br/>1553 Copenhagen V<br/>Denmark<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/british-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="British   Embassy  in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>British   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br><br>Hamdije Cemerlica 39a<br>71000 Sarajevo<br>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/british-branch-office-in-banja-luka-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/" id="Toproll" title="Embassy of Bosnia and Herzegovina in New Delhi">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in New Delhi, India</b><br><br/>E-9/11, Vasant Vihar<br/>110057 New Delhi<br/>India</br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Kolkata">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Kolkata, India</b><br><br>c/o Century Plyboards (India) Ltd.<br/>6 Lyons Range<br/>Kolkata - 700001<br/>India<br/></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Mumbai">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Mumbai, India</b><br><br>24th Road, Khar (W)<br/>Mumbai 400052<br/>India<br/></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visit-visa/" target="_blank" title="Brazil Visitor Visa (Vivis)">Brazil Visitor Visa (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visitor-visa-transit-vivis/" target="_blank" title="Brazil Visitor Visa - Transit (Vivis)">Brazil Visitor Visa - Transit (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/apply-for-visa-for-brazil/" target="_blank" title="How to Apply for a Visa for Brazil?">How to Apply for a Visa for Brazil?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visa-requirements/" target="_blank" title="What Are the Brazil Visa Requirements?">What Are the Brazil Visa Requirements?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/extend-brazil-visa/" target="_blank" title="Can You Extend a Brazil Visa?">Can You Extend a Brazil Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/brazilian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Bern">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Bern, Switzerland</b><br><br/>Thorackerstr 3<br/>3074 Muri b. Bern<br/>Switzerland</br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-graz-austria/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Graz">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Graz, Austria</b><br><br>Eisslgasse 4<br>8047 Graz<br>Austria<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-vienna-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-washington-united-states-of-america/" id="Toproll" title="  Bosnian Herzegovinian   Embassy  in Washington  ">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Embassy  in Washington, D.C., United States</b><br/>2109 E Street, NW<br/>Washington, D.C. 20037<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-general-in-chicago-united-states-of-america/
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Berlin">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Berlin, Germany</b><br><br>Ibsenstrasse 14<br/>D-10439 Berlin<br/>Germany</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/" id="Toproll" title="Bosnian Herzegovinian   Consulate General  in Frankfurt am Main">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Consulate General  in Frankfurt am Main, Germany</b><br><br>Mendelssohnstrasse 69<br>60325 Frankfurt am Main<br/>Germany<br/></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-leipzig-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-munich-germany/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-stuttgart-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/slovakian-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="Slovakian   Embassy  in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>Slovakian   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br><br/>Trnovska br. 6<br/>71000 Sarajevo<br/>Bosnia and Herzegovina<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/slovakian-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="/community/i-am-planning-to-own-a-house-in-bosnia/">I am planning to own a house in Bosnia.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/ask-community/
+
+[Line with Issue]:
+<a href="/community/collaborate-to-nurture-a-secure-and-informed-community/">Collaborate to nurture a secure and informed community!</a>
+[⚠️] Anchor text ends with punctuation: '!'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/ask-community/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/hungarian-honorary-in-banja-luka-bosnia-and-herzegovina/" id="Toproll" title="Hungarian  Honorary Consulate  in Banja Luka">
+<p style="margin-bottom:6px;color:#000;"> <b>Hungarian  Honorary Consulate  in Banja Luka, Bosnia and Herzegovina</b><br><br>Ada 19a<br>78000 Banja Luka<br>Bosnia and Herzegovina<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/hungarian-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://bangladesh-evisa.com/do-you-need-visa-to-visit-bangladesh/" target="_blank" title="Do You Need Visa to Visit Bangladesh?">Do You Need Visa to Visit Bangladesh?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bangladeshi-honorary-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/spanish-in-sarajevo-bosnia-and-herzegovina/" id="Toproll" title="Spanish   Embassy  in Sarajevo">
+<p style="margin-bottom:6px;color:#000;"> <b>Spanish   Embassy  in Sarajevo, Bosnia and Herzegovina</b><br><br/>Mehmeda Mujezinovica 13A<br/>71000 Sarajevo<br/>Bosnia and Herzegovina<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/spanish-in-mostar-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-mumbai-india/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Mumbai">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Mumbai, India</b><br><br>24th Road, Khar (W)<br>Mumbai 400052<br>India<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-kolkata-india/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Kolkata">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Kolkata, India</b><br/><br/>c/o Century Plyboards (India) Ltd.<br/>6 Lyons Range<br/>Kolkata - 700001<br/>India<br/></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-new-delhi-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/turkish-in-mostar-bosnia-and-herzegovina/" id="Toproll" title="      Turkish   Consulate General  in Mostar      ">
+<p style="margin-bottom:6px;color:#000;"> <b>Turkish   Consulate General  in Mostar, Bosnia and Herzegovina</b><br/>Ulice Mala Tepa 24<br/>88000 Mostar<br/>Bosnia and Herzegovina<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/turkish-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-tourist-visa/" target="_blank" title="Bulgaria Tourist Visa (T)">Bulgaria Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bulgaria-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-business-visit-visa/" target="_blank" title="Bulgaria Business Visa (B)">Bulgaria Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bulgaria-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-medical-treatment-visa/" target="_blank" title="Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)">Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bulgaria-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/how-to-get-china-visa/" target="_blank" title="How to Get a China Visa?">How to Get a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/chinese-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/requirements-for-china-visa/" target="_blank" title="What Are the Requirements for a China Visa?">What Are the Requirements for a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/chinese-in-sarajevo-bosnia-and-herzegovina/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/" id="Toproll" title="Bosnian Herzegovinian   Embassy  in Skopje">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Embassy  in Skopje, Macedonia</b><br><br/>20-ti Oktomvri br.15<br/>Skopje<br/>Macedonia<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Canberra">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Canberra, Australia</b><br><br>5 Beale Crescent5 Beale Crescent<br/>Deakin ACT 2600<br/>Australia</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/india-visa-for-bosnia-and-herzegovina-citizens/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-consulate-general-in-frankfurt-am-main-germany/" id="Toproll" title="Bosnian Herzegovinian   Consulate General  in Frankfurt am Main">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Consulate General  in Frankfurt am Main, Germany</b><br><br>Mendelssohnstrasse 69<br>60325 Frankfurt am Main<br>Germany<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/" id="Toproll" title="Embassy of Bosnia and Herzegovina in Rome">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Rome, Italy</b><br><br>Piazzale Clodio 12/int. 17<br/>00195 Roma<br/>Italy</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-aalborg-denmark/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Aalborg">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Aalborg, Denmark</b><br><br>Gabelsgade 5<br>9000 Aalborg<br>Denmark<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-copenhagen-denmark/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/" id="Toproll" title="               Consulate General of Bosnia and Herzegovina in Istanbul               ">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of Bosnia and Herzegovina in Istanbul, Turkey</b><br/>Dikilita? Mah., Yeni Gelin Sok. No:6, Ap. No:24 Kat 3<br/>34342 Be?ikta?<br/>Istanbul<br/>Turkey               </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/" id="Toproll" title="               Embassy of Bosnia and Herzegovina in Ankara               ">
+<p style="margin-bottom:6px;color:#000;"> <b>Embassy of Bosnia and Herzegovina in Ankara, Turkey</b><br/>Turan Emeksiz Sokak, No.3, Park Siteler 9/B<br/>Gaziosmanpasa<br/>Ankara<br/>Turkey               </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/" id="Toproll" title="               Bosnian Herzegovinian  Honorary Consulate  in Bursa               ">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Bursa, Turkey</b><br/>Ebu Ishak Mah., Yeni Cumhuriyet Cad.<br/>Kizyakup Kent Parki No:4<br/>Osmangazi<br/>Bursa<br/>Turkey<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-milan-italy/" id="Toproll" title="Consulate General of Bosnia and Herzegovina in Milan">
+<p style="margin-bottom:6px;color:#000;"> <b>Consulate General of Bosnia and Herzegovina in Milan, Italy</b><br><br>Via Luigi Galvani 21<br/>20124 Milano,<br/>Italy</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-sydney-australia/" id="Toproll" title="Honorary Consulate of Bosnia and Herzegovina in Sydney">
+<p style="margin-bottom:6px;color:#000;"> <b>Honorary Consulate of Bosnia and Herzegovina in Sydney, Australia</b><br><br>Level 26,44 Market Street<br/>Sydney<br/>2000, Sydney<br/>Australia</br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-izmir-turkey/" id="Toproll" title="               Honorary Consulate of Bosnia and Herzegovina in Izmir               ">
+<p style="margin-bottom:6px;color:#000;"> <b>Honorary Consulate of Bosnia and Herzegovina in Izmir, Turkey</b><br/>Mustafa Kemal Ataturk Bulvari No. 65<br/>Ataturk Organize Sanayi Bolgesi<br/>CIGLI, 35620 IZMIR<br/>Turkey               </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnia-and-herzegovina-in-istanbul-turkey/
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-bursa-turkey/
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-consulate-in-zurich-switzerland/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Zurich">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Zurich, Switzerland</b><br><br>Bleicherweg 64A<br>8002 Zurich<br>Switzerland<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnia-and-herzegovina-in-bern-switzerland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/" id="Toproll" title="Bosnian Herzegovinian   Embassy  in Madrid">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian   Embassy  in Madrid, Spain</b><br><br/>Calle Lagasca, 24.2', Izq.<br/>28001 Madrid<br/>Spain<br/></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-in-bitola-macedonia-republic-of/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Bitola">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Bitola, Macedonia</b><br><br>Ul. Kole Kaninski, br. 6<br>7000 Bitola<br>Macedonia<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-embassy-in-skopje-macedonia-republic-of/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://bosnia-evisa.com/consulate/bosnian-herzegovinian-honorary-in-barcelona-spain/" id="Toproll" title="Bosnian Herzegovinian  Honorary Consulate  in Barcelona">
+<p style="margin-bottom:6px;color:#000;"> <b>Bosnian Herzegovinian  Honorary Consulate  in Barcelona, Spain</b><br><br>C/ Valencia nÂº 227-4Âº-2Âª<br>08007 Barcelona<br>Spain<br/></br></br></br></br></p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bosnia-evisa.com/embassy/bosnian-herzegovinian-in-madrid-spain/
+

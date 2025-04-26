@@ -1,0 +1,829 @@
+[Unique Anchor Issues for Website]: https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="navbar-brand" href="https://indonesia-e-visa.com/">
+<picture> <source srcset="/images/logoo16.webp" type="image/webp"/>
+<img alt="Logo" height="65" src="https://indonesia-e-visa.com/images/logoo16.jpg" style=" margin-left:50px;" width="116"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/application/" title="Apply Visa"><i class="flaticon-pointing-right mr-2"></i> Apply Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="Indonesia Visa Cost"><i class="flaticon-pointing-right mr-2"></i> Indonesia Visa Cost</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-visa-requirements/" title="Indonesia Visa Requirements"><i class="flaticon-pointing-right mr-2"></i> Indonesia Visa Requirements</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-tourist-visa/" title="Indonesia Tourist Visa"><i class="flaticon-pointing-right mr-2"></i> Indonesia Tourist Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-business-visa/" title="Indonesia Business Visa"><i class="flaticon-pointing-right mr-2"></i> Indonesia Business Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-work-visa/" title="indonesia-work-visa"><i class="flaticon-pointing-right mr-2"></i> indonesia-work-visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/eligible-countries-for-indonesia-visa/" title="Eligible Countries for Indonesia Visa"><i class="flaticon-pointing-right mr-2"></i> Eligible Countries for Indonesia Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/how-to-check-indonesian-e-visa-status/" title="How to check indonesian e-visa status"><i class="flaticon-pointing-right mr-2"></i> How to check indonesian e-visa status</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-visa-photo-requirements/" title="Indonesia Visa photo Requirements"><i class="flaticon-pointing-right mr-2"></i> Indonesia Visa photo Requirements</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-e-visa-application-process/" title="Indonesia e-Visa application Process"><i class="flaticon-pointing-right mr-2"></i> Indonesia e-Visa application Process</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-launches-online-visa-for-students-and-educators/" title="Indonesia Launches Online Visa for Students and Educators"><i class="flaticon-pointing-right mr-2"></i> Indonesia Launches Online Visa for Students and Educators</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/different-types-of-indonesian-visas/" title="Different Types of Indonesian Visas"><i class="flaticon-pointing-right mr-2"></i> Different Types of Indonesian Visas</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-business-visa-for-us-citizens/" title="Indonesia Business Visa for US citizens"><i class="flaticon-pointing-right mr-2"></i> Indonesia Business Visa for US citizens</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/bali-visa-for-indian-citizen/" title="Bali Visa for Indian citizen"><i class="flaticon-pointing-right mr-2"></i> Bali Visa for Indian citizen</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-evisa-for-us-citizens/" title="Indonesia eVisa for US Citizens"><i class="flaticon-pointing-right mr-2"></i> Indonesia eVisa for US Citizens</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-evisa-for-south-africa/" title="Indonesia eVisa for  south africa"><i class="flaticon-pointing-right mr-2"></i> Indonesia eVisa for  south africa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-digital-nomad-visa/" title="Indonesia Digital Nomad Visa"><i class="flaticon-pointing-right mr-2"></i> Indonesia Digital Nomad Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-student-visa/" title="Indonesia Student Visa"><i class="flaticon-pointing-right mr-2"></i> Indonesia Student Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-retirement-visa/" title="Indonesia Retirement Visa"><i class="flaticon-pointing-right mr-2"></i> Indonesia Retirement Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/indonesia-evisa-for-united-kingdom/" title="Indonesia eVisa for  United Kingdom"><i class="flaticon-pointing-right mr-2"></i> Indonesia eVisa for  United Kingdom</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/news/" title="Blogs"><i class="flaticon-pointing-right mr-2"></i> Blogs</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/web-sitemap/" title="Web SiteMap"><i class="flaticon-pointing-right mr-2"></i> Web SiteMap
+            </a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://indonesia-e-visa.com/privacy-policy/" title="Privacy Policy"><span> Privacy Policy</span></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com"><i class="flaticon-home" style="font-size: 18px;vertical-align: middle;"></i> Home</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/application/
+ - https://indonesia-e-visa.com/apply-evisa-from-algeria/
+ - https://indonesia-e-visa.com/apply-evisa-from-andorra/
+ - https://indonesia-e-visa.com/apply-evisa-from-argentina/
+ - https://indonesia-e-visa.com/apply-evisa-from-armenia/
+ - https://indonesia-e-visa.com/apply-evisa-from-australia/
+ - https://indonesia-e-visa.com/apply-evisa-from-austria/
+ - https://indonesia-e-visa.com/apply-evisa-from-belarus/
+ - https://indonesia-e-visa.com/apply-evisa-from-belgium/
+ - https://indonesia-e-visa.com/apply-evisa-from-brazil/
+ - https://indonesia-e-visa.com/apply-evisa-from-bulgaria/
+ - https://indonesia-e-visa.com/apply-evisa-from-canada/
+ - https://indonesia-e-visa.com/apply-evisa-from-china/
+ - https://indonesia-e-visa.com/apply-evisa-from-croatia/
+ - https://indonesia-e-visa.com/apply-evisa-from-cyprus/
+ - https://indonesia-e-visa.com/apply-evisa-from-czech-republic/
+ - https://indonesia-e-visa.com/apply-evisa-from-denmark/
+ - https://indonesia-e-visa.com/apply-evisa-from-egypt/
+ - https://indonesia-e-visa.com/apply-evisa-from-estonia/
+ - https://indonesia-e-visa.com/apply-evisa-from-finland/
+ - https://indonesia-e-visa.com/apply-evisa-from-france/
+ - https://indonesia-e-visa.com/apply-evisa-from-greece/
+ - https://indonesia-e-visa.com/apply-evisa-from-hungary/
+ - https://indonesia-e-visa.com/apply-evisa-from-iceland/
+ - https://indonesia-e-visa.com/apply-evisa-from-india/
+ - https://indonesia-e-visa.com/apply-evisa-from-ireland/
+ - https://indonesia-e-visa.com/apply-evisa-from-italy/
+ - https://indonesia-e-visa.com/apply-evisa-from-japan/
+ - https://indonesia-e-visa.com/apply-evisa-from-kuwait/
+ - https://indonesia-e-visa.com/apply-evisa-from-latvia/
+ - https://indonesia-e-visa.com/apply-evisa-from-liechtenstein/
+ - https://indonesia-e-visa.com/apply-evisa-from-lithuania/
+ - https://indonesia-e-visa.com/apply-evisa-from-maldives/
+ - https://indonesia-e-visa.com/apply-evisa-from-malta/
+ - https://indonesia-e-visa.com/apply-evisa-from-mexico/
+ - https://indonesia-e-visa.com/apply-evisa-from-monaco/
+ - https://indonesia-e-visa.com/apply-evisa-from-netherlands/
+ - https://indonesia-e-visa.com/apply-evisa-from-new-zealand/
+ - https://indonesia-e-visa.com/apply-evisa-from-norway/
+ - https://indonesia-e-visa.com/apply-evisa-from-oman/
+ - https://indonesia-e-visa.com/apply-evisa-from-panama/
+ - https://indonesia-e-visa.com/apply-evisa-from-papua-new-guinea/
+ - https://indonesia-e-visa.com/apply-evisa-from-poland/
+ - https://indonesia-e-visa.com/apply-evisa-from-portugal/
+ - https://indonesia-e-visa.com/apply-evisa-from-qatar/
+ - https://indonesia-e-visa.com/apply-evisa-from-romania/
+ - https://indonesia-e-visa.com/apply-evisa-from-russia/
+ - https://indonesia-e-visa.com/apply-evisa-from-seychelles/
+ - https://indonesia-e-visa.com/apply-evisa-from-slovakia/
+ - https://indonesia-e-visa.com/apply-evisa-from-slovenia/
+ - https://indonesia-e-visa.com/apply-evisa-from-south-africa/
+ - https://indonesia-e-visa.com/apply-evisa-from-spain/
+ - https://indonesia-e-visa.com/apply-evisa-from-suriname/
+ - https://indonesia-e-visa.com/apply-evisa-from-sweden/
+ - https://indonesia-e-visa.com/apply-evisa-from-switzerland/
+ - https://indonesia-e-visa.com/apply-evisa-from-taiwan/
+ - https://indonesia-e-visa.com/apply-evisa-from-timor-leste/
+ - https://indonesia-e-visa.com/apply-evisa-from-tunisia/
+ - https://indonesia-e-visa.com/apply-evisa-from-turkey/
+ - https://indonesia-e-visa.com/apply-evisa-from-united-arab-emirates/
+ - https://indonesia-e-visa.com/apply-evisa-from-united-kingdom/
+ - https://indonesia-e-visa.com/apply-evisa-from-united-states-of-america/
+ - https://indonesia-e-visa.com/bali-visa-for-indian-citizen/
+ - https://indonesia-e-visa.com/contact-us/
+ - https://indonesia-e-visa.com/different-types-of-indonesian-visas/
+ - https://indonesia-e-visa.com/eligible-countries-for-indonesia-visa/
+ - https://indonesia-e-visa.com/how-to-check-indonesian-e-visa-status/
+ - https://indonesia-e-visa.com/indonesia-business-visa-for-us-citizens/
+ - https://indonesia-e-visa.com/indonesia-business-visa/
+ - https://indonesia-e-visa.com/indonesia-digital-nomad-visa/
+ - https://indonesia-e-visa.com/indonesia-e-visa-application-process/
+ - https://indonesia-e-visa.com/indonesia-evisa-for-south-africa/
+ - https://indonesia-e-visa.com/indonesia-evisa-for-united-kingdom/
+ - https://indonesia-e-visa.com/indonesia-evisa-for-us-citizens/
+ - https://indonesia-e-visa.com/indonesia-launches-online-visa-for-students-and-educators/
+ - https://indonesia-e-visa.com/indonesia-retirement-visa/
+ - https://indonesia-e-visa.com/indonesia-student-visa/
+ - https://indonesia-e-visa.com/indonesia-tourist-visa/
+ - https://indonesia-e-visa.com/indonesia-visa-cost/
+ - https://indonesia-e-visa.com/indonesia-visa-photo-requirements/
+ - https://indonesia-e-visa.com/indonesia-visa-requirements/
+ - https://indonesia-e-visa.com/indonesia-work-visa/
+ - https://indonesia-e-visa.com/news/
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+ - https://indonesia-e-visa.com/privacy-policy/
+ - https://indonesia-e-visa.com/term-and-condition/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="visa fees"> e-visa fee tool</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-tourist-visa/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="visa fees"> <strong>e-visa fee </strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-business-visa/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/application/" title="application"> <strong>application form</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-business-visa-for-us-citizens/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="Visa Fees"> <strong>e-visa fee tool</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-business-visa-for-us-citizens/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/">
+<h3>Invest in Indonesia's New Capital &amp; Get Golden Visa Access (Easy Guide)</h3>
+<p>Indonesia opens doors for investors with its new capital golden visa program. Through the Indonesia </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/">
+<h3>Baliâ€™s New Tourist Tax: A $15 Pledge for Paradise </h3>
+<p>    
+Bali Introduces a New $15 Tourist Tax for Environmental and Cultural Preservation
+In an excit</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/">
+<h3>Bali new tourism tax will be used to tackle issues like dirty beaches</h3>
+<p>    
+Bali, known as the renowned "Island of the Gods," is implementing a new tourist levy in 2024, </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: ','
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/">
+<h3>Indonesian Culture and Traditions: Strategic Insights for Market Entry</h3>
+<p>Indonesia's vibrant tapestry of cultures boasts an abundance of ancient traditions, each a captivati</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/">
+<h3>Discovering Indonesia's Linguistic Diversity</h3>
+<p>Indonesia stands out for its rich culture and linguistic diversity, with many languages across the a</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/">
+<h3>Indonesia has launched a new visa policy, bridging visa enabling foreigners to renew their residence permits without leaving the country. </h3>
+<p>    
+Indonesia has launched a new visa policy, "bridging visa," enabling foreigners to renew their </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/">Indonesia has launched a new visa policy, bridging visa enabling foreigners to renew their residence permits without leaving the country. </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/">Visa-free travel for Indonesian citizens with a UK visa or UK resident, Canada, USA, or Schengen visa.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/">Baliâ€™s New Tourist Tax: A $15 Pledge for Paradise </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/">Invest in Indonesia's New Capital &amp; Get Golden Visa Access (Easy Guide)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/">Travelling to Indonesia in 2024? What You Need to Know About the New Visa Rules!</a>
+[⚠️] Anchor text ends with punctuation: '!'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/"><strong>Indonesia visa cost </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-visa-requirements/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/">
+<h3>Travelling to Indonesia in 2024? What You Need to Know About the New Visa Rules!</h3>
+<p>    
+Indonesia has recently undertaken significant reforms in its visa system, aligning it more clo</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/">
+<h3>Commencing February 14th, Bali Implements Tourism Levy</h3>
+<p>    
+Highlighting Bali's commitment to sustainable tourism, the introduction of a levy for internat</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+
+[Line with Issue]:
+<a href="/indonesia-visa-cost/" title="visa fees"> <strong> Indonesia e-Visa cost </strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-digital-nomad-visa/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/">
+<h3>Visa-free travel for Indonesian citizens with a UK visa or UK resident, Canada, USA, or Schengen visa.</h3>
+<p>    
+Last updated May 2024,
+Indonesian citizens holding visas or residency permits from the UK, Ca</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/">
+<h3>Indonesia Launches e-VoA for 97 Countries</h3>
+<p>In 2023, Indonesia welcomed 11.7 million international visitors, with top source countries including</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/">
+<h3>India Visa for Indonesian Citizens</h3>
+<p>    
+Welcome, Indonesian travellers! Planning a trip to India? This comprehensive guide simplifies </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+ - https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/">
+<h3>Indonesia's Must-See Monuments: Explore History &amp; Beauty</h3>
+<p>    
+Indonesia is a large country with many islands and a rich mix of cultures. It's full of beauti</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/
+ - https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/">
+<h3>Unforgettable Bali: Unveiling Top 12 Hidden Gems &amp; Must-See Attractions</h3>
+<p>Exploring Bali offers an immersive experience of its rich culture, breathtaking landscapes, and vibr</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/
+ - https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/
+ - https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/
+ - https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/
+ - https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/
+
+[Line with Issue]:
+<a href="/indonesia-visa-cost/" title="visa cost"><strong>indonesia visa cost </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-launches-online-visa-for-students-and-educators/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/indonesia-launches-e-voa-for-97-countries/" style="color:inherit;">
+<h4 class="">Indonesia Launches e-VoA for 97 Countries</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 29 Jan, 2025</small>
+
+                                </div> -->
+<p>In 2023, Indonesia welcomed 11.7 million international visitors, with top source countries including Malaysia, Australia, Singapore, China, ...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/indonesia-implements-bridging-visa-program-for-foreign-permit-renewals/" style="color:inherit;">
+<h4 class="">Indonesia has launched a new visa policy, bridging visa enabling foreigners to renew their residence permits without leaving the country. </h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 02 Jul, 2024</small>
+
+                                </div> -->
+<p>    
+Indonesia has launched a new visa policy, "bridging visa," enabling foreigners to renew their residence permits without leaving the co...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/visa-free-travel-for-indonesia-citizens-with-uk-visa-or-resident/" style="color:inherit;">
+<h4 class="">Visa-free travel for Indonesian citizens with a UK visa or UK resident, Canada, USA, or Schengen visa.</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 15 May, 2024</small>
+
+                                </div> -->
+<p>    
+Last updated May 2024,
+Indonesian citizens holding visas or residency permits from the UK, Canada, USA, or Schengen Area countries en...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/india-visa-for-indonesian-citizens/" style="color:inherit;">
+<h4 class="">India Visa for Indonesian Citizens</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 02 May, 2024</small>
+
+                                </div> -->
+<p>    
+Welcome, Indonesian travellers! Planning a trip to India? This comprehensive guide simplifies the e-visa application process and provi...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/bali-new-tourism-tax-will-be-used-to-tackle-issues-like-dirty-beaches/" style="color:inherit;">
+<h4 class="">Bali new tourism tax will be used to tackle issues like dirty beaches</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 29 Mar, 2024</small>
+
+                                </div> -->
+<p>    
+Bali, known as the renowned "Island of the Gods," is implementing a new tourist levy in 2024, signifying a noteworthy change to its to...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/famous-monuments-in-indonesia/" style="color:inherit;">
+<h4 class="">Indonesia's Must-See Monuments: Explore History &amp; Beauty</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 15 Mar, 2024</small>
+
+                                </div> -->
+<p>    
+Indonesia is a large country with many islands and a rich mix of cultures. It's full of beautiful places to see, including giant monum...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/different-traditions-follow-in-indonesia/" style="color:inherit;">
+<h4 class="">Indonesian Culture and Traditions: Strategic Insights for Market Entry</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 15 Mar, 2024</small>
+
+                                </div> -->
+<p>Indonesia's vibrant tapestry of cultures boasts an abundance of ancient traditions, each a captivating window into the archipelago's soul. D...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/most-spoken-languages-in-indonesia/" style="color:inherit;">
+<h4 class="">Discovering Indonesia's Linguistic Diversity</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 15 Mar, 2024</small>
+
+                                </div> -->
+<p>Indonesia stands out for its rich culture and linguistic diversity, with many languages across the archipelago. The official language, Bahas...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/top-places-to-explore-in-bali/" style="color:inherit;">
+<h4 class="">Unforgettable Bali: Unveiling Top 12 Hidden Gems &amp; Must-See Attractions</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 15 Mar, 2024</small>
+
+                                </div> -->
+<p>Exploring Bali offers an immersive experience of its rich culture, breathtaking landscapes, and vibrant lifestyle. The enchantment of Bali i...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/bali-s-new-tourist-tax/" style="color:inherit;">
+<h4 class="">Bali’s New Tourist Tax: A $15 Pledge for Paradise </h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 02 Mar, 2024</small>
+
+                                </div> -->
+<p>    
+Bali Introduces a New $15 Tourist Tax for Environmental and Cultural Preservation
+In an exciting development for Bali and its visitor...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/invest-in-indonesia-new-capital-get-golden-visa-access-easy-guide/" style="color:inherit;">
+<h4 class="">Invest in Indonesia's New Capital &amp; Get Golden Visa Access (Easy Guide)</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 27 Feb, 2024</small>
+
+                                </div> -->
+<p>Indonesia opens doors for investors with its new capital golden visa program. Through the Indonesia Golden Visa Program, foreign investors i...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/commencing-february-14th-bali-implements-tourism-levy/" style="color:inherit;">
+<h4 class="">Commencing February 14th, Bali Implements Tourism Levy</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 20 Feb, 2024</small>
+
+                                </div> -->
+<p>    
+Highlighting Bali's commitment to sustainable tourism, the introduction of a levy for international visitors, functional from February...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/news/traveling-to-indonesia-in-2024/" style="color:inherit;">
+<h4 class="">Travelling to Indonesia in 2024? What You Need to Know About the New Visa Rules!</h4>
+<!-- <div class="d-flex justify-content-center mb-3">
+
+                                    <small class="mr-3"><i class="fa fa-clock-o"></i> 30 Jan, 2024</small>
+
+                                </div> -->
+<p>    
+Indonesia has recently undertaken significant reforms in its visa system, aligning it more closely with the specific purposes of visit...</p>
+<p class="btn btn-brand px-4 mx-auto my-2">Read More</p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/news/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="Cost Visa"> <strong>Indonesia e-visa cost tool.</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-evisa-for-united-kingdom/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/indonesia-visa-cost/" title="Visa Cost"><strong>Indonesia e-visa cost tool.</strong></a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/indonesia-evisa-for-south-africa/
+
+[Line with Issue]:
+<a href="https://indonesia-e-visa.com/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://indonesia-e-visa.com/eligible-countries-for-indonesia-visa/
+

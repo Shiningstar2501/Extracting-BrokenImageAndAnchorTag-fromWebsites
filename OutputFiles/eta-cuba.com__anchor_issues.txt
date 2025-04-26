@@ -1,0 +1,47 @@
+[Unique Anchor Issues for Website]: https://eta-cuba.com/
+
+[Line with Issue]:
+<a class="navbar-brand mx-2 text-center" href="https://eta-cuba.com" style="    width: 150px;">
+<picture>
+<source srcset="https://eta-cuba.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://eta-cuba.com/images/logo.png" style="width: auto; height:52px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://eta-cuba.com/
+
+[Line with Issue]:
+<a class="text-dark mb-2 font-weight-bold" href="https://eta-cuba.com/how-to-apply-for-cuba-visa/" title="How to Apply for a Cuba Visa?">How to Apply for a Cuba Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://eta-cuba.com
+ - https://eta-cuba.com/
+ - https://eta-cuba.com/application
+ - https://eta-cuba.com/application/
+ - https://eta-cuba.com/contact-us/
+ - https://eta-cuba.com/cuba-business-congress-trade-fair-visit-visa/
+ - https://eta-cuba.com/cuba-cultural-scientific-sports-events-visa/
+ - https://eta-cuba.com/cuba-employment-long-term-visa/
+ - https://eta-cuba.com/cuba-family-reunion-visa/
+ - https://eta-cuba.com/cuba-long-term-visa/
+ - https://eta-cuba.com/cuba-medical-visa/
+ - https://eta-cuba.com/cuba-passport-photo-and-visa-photo-requirements/
+ - https://eta-cuba.com/cuba-short-term-visa/
+ - https://eta-cuba.com/cuba-study-long-term-visa/
+ - https://eta-cuba.com/cuba-study-short-term-visa/
+ - https://eta-cuba.com/cuba-tourist-card/
+ - https://eta-cuba.com/cuba-tourist-visa/
+ - https://eta-cuba.com/cuba-transit-visa/
+ - https://eta-cuba.com/cuba-visa-extension/
+ - https://eta-cuba.com/cuba-visa-fee/
+ - https://eta-cuba.com/cuba-visa-policy/
+ - https://eta-cuba.com/cuba-visa-types/
+ - https://eta-cuba.com/cuba-visiting-family-and-friends-visa/
+ - https://eta-cuba.com/cuba-work-short-term-visa/
+ - https://eta-cuba.com/documents-requirement-for-cuba-visa/
+ - https://eta-cuba.com/how-to-apply-for-cuba-visa/
+ - https://eta-cuba.com/privacy-policy/
+ - https://eta-cuba.com/term-and-condition/
+

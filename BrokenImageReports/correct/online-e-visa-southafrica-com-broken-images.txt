@@ -1,0 +1,12 @@
+[Scanning Images for] https://online.e-visa-southafrica.com/
+
+
+[Website]: https://online.e-visa-southafrica.com
+[Page]: https://online.e-visa-southafrica.com/blog/best-time-to-be-in-south-africa/
+[Line with Issue]:
+ - Encoded URL Detected: https://evisa-southafrica.com/cdn-cgi/image/format%3Dauto%2Cfit%3Dcontain%2Cwidth%3D320/images/garden-route.jpg
+
+[Website]: https://online.e-visa-southafrica.com
+[Page]: https://online.e-visa-southafrica.com/blog/travel-updates-for-south-africa/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.e-visa-southafrica.com/images/Strict%20Health%20Protocols.png

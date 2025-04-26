@@ -1,0 +1,23 @@
+[Scanning Images for] https://malaysia-e-visa.com/
+
+
+[Website]: https://malaysia-e-visa.com
+[Page]: https://malaysia-e-visa.com/blogs/
+[Line with Issue]:
+ - Broken Image: https://malaysia-e-visa.com/image/ajax-loader4.gif --> 404
+
+[Website]: https://malaysia-e-visa.com
+[Page]: https://malaysia-e-visa.com/malaysia-visa-from-sri-lanka/
+[Line with Issue]:
+ - Broken Image: https://malaysia-e-visa.com/images/malaysia-e-visa-functioning.jpg --> 404
+
+[Website]: https://malaysia-e-visa.com
+[Page]: https://malaysia-e-visa.com/malaysia-visa-from-sri-lanka/
+[Line with Issue]:
+ - Broken Image: https://malaysia-e-visa.com/images/application-of-a-malaysian-e-visa.jpg --> 404
+
+[Website]: https://malaysia-e-visa.com
+[Page]: https://malaysia-e-visa.com/malaysia-visa-from-sri-lanka/
+[Line with Issue]:
+ - Broken Image: https://malaysia-e-visa.com/images/application-process-has-errors.jpg --> 404
+[Failed to load]: https://malaysia-e-visa.com/cdn-cgi/l/email-protection

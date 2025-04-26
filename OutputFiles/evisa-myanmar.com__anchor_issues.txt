@@ -1,0 +1,348 @@
+[Unique Anchor Issues for Website]: https://evisa-myanmar.com/
+
+[Line with Issue]:
+<a class="custom-link" href="/apply-visa/">Apply Tourist e-visa for Myanmar.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa/
+
+[Line with Issue]:
+<a class="custom-link" href="/apply-visa/">Apply Myanmar Business Visa.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/documents-required-myanmar-e-visa/"><strong>documents required for Myanmar eVisa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-australia-citizens/
+ - https://evisa-myanmar.com/myanmar-visa-for-india-citizens/
+ - https://evisa-myanmar.com/myanmar-visa-for-philippines-citizens/
+ - https://evisa-myanmar.com/myanmar-visa-for-united-kingdom-citizens/
+ - https://evisa-myanmar.com/myanmar-visa-for-vietnam-citizens/
+
+[Line with Issue]:
+<a class="custom-link" href="https://evisa-myanmar.com/myanmar-visa-fees/"> Myanmar Visa fee categories</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/apply-etourist-visa-from-Italy/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-albania/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-algeria/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-argentina/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-australia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-austria/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-bangladesh/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-belgium/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-bhutan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-bolivia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-bosnia-herzegovina/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-brazil/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-brunei/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-bulgaria/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-cZECH/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-cambodia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-cameroon/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-canada/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-chile/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-china/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-colombia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-costa-rica/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-cote-divoire/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-croatia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-cyprus/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-denmark/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-ecuador/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-egypt/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-eritrea/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-estonia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-fiji/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-finland/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-france/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-georgia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-germany/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-ghana/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-greece/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-guatemala/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-guinea/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-hong-kong/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-hungary/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-iceland/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-india/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-indonesia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-israel/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-jamaica/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-japan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-jordan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-kazakhstan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-kenya/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-kuwait/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-kyrgyzstan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-laos/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-latvia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-lithuania/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-luxembourg/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-macau/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-malaysia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-maldives/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-malta/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-mauritius/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-mexico/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-monaco/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-mongolia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-morocco/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-nepal/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-netherlands/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-new-zealand/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-norway/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-pakistan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-panama/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-peru/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-philippines/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-poland/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-portugal/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-qatar/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-romania/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-russia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-saudi-arabia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-serbia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-singapore/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-slovakia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-slovenia/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-south-africa/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-spain/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-sri-lanka/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-sweden/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-switzerland/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-taiwan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-thailand/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-turkey/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-uganda/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-united-kingdom/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-uruguay/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-usa/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-uzbekistan/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-venezuela/
+ - https://evisa-myanmar.com/apply-etourist-visa-from-vietnam/
+
+[Line with Issue]:
+<a class="custom-link" href="https://evisa-myanmar.commyanmar-visa-fees/"> Myanmar Visa fee categories</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-australia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-austria/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-belgium/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-brazil/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-brunei/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-bulgaria/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-cambodia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-canada/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-china/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-croatia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-cyprus/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-czech-republic/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-denmark/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-estonia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-finland/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-france/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-germany/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-greece/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-hong-kong/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-hungary/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-india/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-indonesia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-ireland/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-israel/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-italy/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-japan/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-laos/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-latvia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-lithuania/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-luxembourg/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-malaysia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-malta/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-nepal/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-netherlands/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-new-zealand/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-norway/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-philippines/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-poland/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-portugal/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-romania/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-russia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-singapore/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-slovakia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-slovenia/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-south-africa/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-spain/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-sweden/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-switzerland/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-taiwan/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-thailand/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-united-Kingdom/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-usa/
+ - https://evisa-myanmar.com/apply-ebusiness-visa-from-vietnam/
+
+[Line with Issue]:
+<a href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello" rel="nofollow" target="_blank"><i class="fa fa-whatsapp" style="font-size: 22px;"></i> : <span class="phn_spn"></span> </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: ':'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/visa-application-status/
+
+[Line with Issue]:
+<a href="https://turkey-evisa.it.com/urgent-turkey-visa/" rel="noreferrer" style="text-decoration:none;" target="_blank">Need Urgent Turkey Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/news/
+ - https://evisa-myanmar.com/news/12-instagrammable-places-in-myanmar/
+ - https://evisa-myanmar.com/news/13-reasons-why-myanmar-should-be-your-next-travel-destination/
+ - https://evisa-myanmar.com/news/2023-covid-19-entry-restrictions-update-for-traveling-to-myanmar/
+ - https://evisa-myanmar.com/news/apply-for-a-myanmar-visa-extension/
+ - https://evisa-myanmar.com/news/attractive-festivals-events-in-myanmar/
+ - https://evisa-myanmar.com/news/best-time-to-visit-myanmar/
+ - https://evisa-myanmar.com/news/countries-myanmar-nationals-enter-visa-free/
+ - https://evisa-myanmar.com/news/covid-19-vaccination-requirements-for-travel-to-myanmar/
+ - https://evisa-myanmar.com/news/get-your-myanmar-visa/
+ - https://evisa-myanmar.com/news/invitation-letter-for-myanmar-business-visa-and-company-registration-certificate/
+ - https://evisa-myanmar.com/news/massive-7-7-earthquake-hits-myanmar-bangkok-declares-disaster-zone/
+ - https://evisa-myanmar.com/news/myanmar-domestic-tourism-return-foreigners-absent/
+ - https://evisa-myanmar.com/news/myanmar-evisas-and-international-flights-to-be-resumed/
+ - https://evisa-myanmar.com/news/myanmar-extends-visa-free-entry-for-4-countries/
+ - https://evisa-myanmar.com/news/myanmar-govt-promote-tourist-visa-exemption-pilot-scheme-next-year/
+ - https://evisa-myanmar.com/news/myanmar-guide-book-for-digital-nomads-and-backpackers/
+ - https://evisa-myanmar.com/news/myanmar-introduces-new-tourist-destinations/
+ - https://evisa-myanmar.com/news/myanmar-records-484-per-cent-surge-in-h1-tourist-arrivals/
+ - https://evisa-myanmar.com/news/myanmar-tourism-industry-analysis-for-success/
+ - https://evisa-myanmar.com/news/myanmar-tourism-rebounds-with-chinese-influx/
+ - https://evisa-myanmar.com/news/myanmar-will-offer-visa-on-arrival-to-indian-and-chinese-tourists-soon/
+ - https://evisa-myanmar.com/news/reasons-for-visa-refusal-by-myanmar/
+ - https://evisa-myanmar.com/news/residency-and-work-permits-for-myanmar/
+ - https://evisa-myanmar.com/news/residency-in-myanmar/
+ - https://evisa-myanmar.com/news/specifications-for-myanmar-passport-and-visa-photographs/
+ - https://evisa-myanmar.com/news/things-to-do-in-myanmar/
+ - https://evisa-myanmar.com/news/things-to-know-before-traveling-to-myanmar/
+ - https://evisa-myanmar.com/news/visa-and-restrictions-for-travellers-to-myanmar-covid-19/
+ - https://evisa-myanmar.com/news/visa-free-entry-for-myanmar-passport-holders/
+
+[Line with Issue]:
+<a href="https://evisa-to-kenya.com/kenya-online-visa-application/" rel="noreferrer" style="text-decoration:none;" target="_blank"> Kenya evisa Application</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/news/
+ - https://evisa-myanmar.com/news/12-instagrammable-places-in-myanmar/
+ - https://evisa-myanmar.com/news/13-reasons-why-myanmar-should-be-your-next-travel-destination/
+ - https://evisa-myanmar.com/news/2023-covid-19-entry-restrictions-update-for-traveling-to-myanmar/
+ - https://evisa-myanmar.com/news/apply-for-a-myanmar-visa-extension/
+ - https://evisa-myanmar.com/news/attractive-festivals-events-in-myanmar/
+ - https://evisa-myanmar.com/news/best-time-to-visit-myanmar/
+ - https://evisa-myanmar.com/news/countries-myanmar-nationals-enter-visa-free/
+ - https://evisa-myanmar.com/news/covid-19-vaccination-requirements-for-travel-to-myanmar/
+ - https://evisa-myanmar.com/news/get-your-myanmar-visa/
+ - https://evisa-myanmar.com/news/invitation-letter-for-myanmar-business-visa-and-company-registration-certificate/
+ - https://evisa-myanmar.com/news/massive-7-7-earthquake-hits-myanmar-bangkok-declares-disaster-zone/
+ - https://evisa-myanmar.com/news/myanmar-domestic-tourism-return-foreigners-absent/
+ - https://evisa-myanmar.com/news/myanmar-evisas-and-international-flights-to-be-resumed/
+ - https://evisa-myanmar.com/news/myanmar-extends-visa-free-entry-for-4-countries/
+ - https://evisa-myanmar.com/news/myanmar-govt-promote-tourist-visa-exemption-pilot-scheme-next-year/
+ - https://evisa-myanmar.com/news/myanmar-guide-book-for-digital-nomads-and-backpackers/
+ - https://evisa-myanmar.com/news/myanmar-introduces-new-tourist-destinations/
+ - https://evisa-myanmar.com/news/myanmar-records-484-per-cent-surge-in-h1-tourist-arrivals/
+ - https://evisa-myanmar.com/news/myanmar-tourism-industry-analysis-for-success/
+ - https://evisa-myanmar.com/news/myanmar-tourism-rebounds-with-chinese-influx/
+ - https://evisa-myanmar.com/news/myanmar-will-offer-visa-on-arrival-to-indian-and-chinese-tourists-soon/
+ - https://evisa-myanmar.com/news/reasons-for-visa-refusal-by-myanmar/
+ - https://evisa-myanmar.com/news/residency-and-work-permits-for-myanmar/
+ - https://evisa-myanmar.com/news/residency-in-myanmar/
+ - https://evisa-myanmar.com/news/specifications-for-myanmar-passport-and-visa-photographs/
+ - https://evisa-myanmar.com/news/things-to-do-in-myanmar/
+ - https://evisa-myanmar.com/news/things-to-know-before-traveling-to-myanmar/
+ - https://evisa-myanmar.com/news/visa-and-restrictions-for-travellers-to-myanmar-covid-19/
+ - https://evisa-myanmar.com/news/visa-free-entry-for-myanmar-passport-holders/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/images/doc/Certificate_of_Insurance_for_Myanma_Visa_page.pdf" target="_blank" title="Sample Here"><b>Sample Here</b></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/documents-required-myanmar-e-visa/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/images/doc/Company_Extract_of_inviting_company_page.pdf" target="_blank" title="Sample Here"><b>Sample Here</b></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/documents-required-myanmar-e-visa/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/documents-required-myanmar-e-visa/"><strong>requirements for Myanmar eVisa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-egypt-citizens/
+ - https://evisa-myanmar.com/myanmar-visa-for-russian-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/myanmar-visa/"><strong> Myanmar eVisa application</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-turkey-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/apply-visa/"><strong> Myanmar eVisa application form</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-turkey-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/documents-required-myanmar-e-visa/"><strong>documents required for Myanmar
+            eVisa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-turkey-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/myanmar-embassy/in-canada/myanmar-embassy-in-ottawain-canada/"><b>Myanmar Embassy in Ottawa </b></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-embassy/canada/
+ - https://evisa-myanmar.com/myanmar-embassy/in-canada/myanmar-honorary-consulate-in-toronto/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/embassy-in-myanmar/of-australia/australian-embassy-in-burma-myanmar/"><b>Australian Embassy in Burma (Myanmar)</b></a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/embassy-in-myanmar/australia/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/embassy-in-myanmar/of-sweden/honorary-consulate-of-sweden-yangon-rangoon/"><b>Honorary Consulate of Sweden, Yangon (Rangoon)</b></a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/embassy-in-myanmar/sweden/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/myanmar-visa-fees/"><strong>Myanmar eVisa application fee</strong>:</a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] Anchor text ends with punctuation: ':'
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-brazil-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/myanmar-visa-fees/"><strong>Myanmar eVisa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-germany-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/documents-required-myanmar-e-visa/"><strong>requirements for Japan visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-japan-citizens/
+
+[Line with Issue]:
+<a href="https://evisa-myanmar.com/myanmar-visa/"><strong>Myanmar eVisa application</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://evisa-myanmar.com/myanmar-visa-for-vietnam-citizens/
+

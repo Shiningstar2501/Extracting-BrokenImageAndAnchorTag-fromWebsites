@@ -1,0 +1,26 @@
+[Unique Anchor Issues for Website]: https://bolivia-evisa.com/
+
+[Line with Issue]:
+<a class="navbar-brand mx-2 p-0 text-center" href="https://bolivia-evisa.com">
+<picture>
+<source srcset="https://bolivia-evisa.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://bolivia-evisa.com/images/logo.png" style="width: auto; height:52px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://bolivia-evisa.com/
+
+[Line with Issue]:
+<a href="https://bolivia-evisa.com/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://bolivia-evisa.com/bolivia-visa-policy/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://bolivia-evisa.com/india-visa-for-bolivia/
+

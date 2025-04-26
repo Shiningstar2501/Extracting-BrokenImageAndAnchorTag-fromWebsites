@@ -1,0 +1,3329 @@
+[Unique Anchor Issues for Website]: https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Home</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/types-of-tunisian-visas/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Types of Tunisian Visas</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-short-term-visa/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Short-Term Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-long-term-visa/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Long-Term Visa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-residence-permit/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Residence Permit</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Embassy &amp; Consulates in Tunisia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Embassy &amp; Consulates of Tunisia</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-visa-fee/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Visa Fee</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-visa-photo-requirement/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Visa Photo Requirement</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-visa-instructions/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Visa Instructions</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/tunisia-visa-policy/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Visa Policy</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/document-requirement-for-tunisia-visa/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Document Requirement for Tunisia eVisa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/privacy-policys/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Privacy Policy</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/terms-and-condition/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Terms &amp; Conditions</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/ask-community/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Ask Community</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/blogs/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Blogs</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/contact/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Contact Us</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="for_display" href="https://tunisia-e-visa.com/web-sitemap/"><i class="flaticon-fast-forward-double-right-arrows-symbol"></i> Tunisia Visa Sitemap</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/
+
+[Line with Issue]:
+<a class="btn btn-danger" href="https://tunisia-e-visa.com/apply-evisa/">
+                           Get eVisa to Tunisia </a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Top few thing to remember before visiting Tunisia</h4>
+<p>Planning a trip to Tunisia? Before you embark on your adventure, there are a few important things to... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Top activities to do in Tunisia</h4>
+<p>Welcome to Tunisia, a captivating North African country known for its rich history, stunning landsca... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/top-15-destinations-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Top 15 destinations in Tunisia</h4>
+<p>Welcome to Tunisia, a captivating country nestled on the Mediterranean coast of North Africa. With a... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Key Problems Faced by Tourists Visiting in Tunisia</h4>
+<p>Visiting Tunisia can be an exciting and rewarding experience for tourists. However, like any other t... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/" style="color:#000;">
+<h4 class="fw-bold">EU Offers 1 Billion Euros to Boost Tunisia Economy &amp; Migration</h4>
+<p>The European Commission has announced a significant financial package of €900 million to bolste... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Festivals/Events that Lure Tourists to Tunisia</h4>
+<p>In recent years, Tunisia has become a burgeoning tourist hot-spot, with an array of holiday operator... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/" style="color:#000;">
+<h4 class="fw-bold">French Embassy in Tunisia Expands Visa Appointments</h4>
+<p>The French Embassy in Tunisia is taking significant steps to enhance the availability of short-stay ... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunis-digital-nomad-guide/" style="color:#000;">
+<h4 class="fw-bold">Tunis Digital Nomad Guide</h4>
+<p>Are you a digital nomad seeking a unique blend of history, culture, and modernity? Look no further t... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Best SIM Cards Tourists can use for calling and Dialing in Tunisia</h4>
+<p>Tunisia, with its stunning Mediterranean coastline, historical sites, and vibrant culture, attracts ... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/" style="color:#000;">
+<h4 class="fw-bold">Kenya eTA for Tunisia</h4>
+<p>Kenya, with its stunning landscapes, diverse wildlife, and vibrant culture, is a popular destination... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/" style="color:#000;">
+<h4 class="fw-bold">Countries that Enter Tunisia Visa-Free</h4>
+<p>Tunisia, the captivating North African destination, offers a myriad of experiences, from its Mediter... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunis-digital-nomad-guide/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/" style="color:#000;">
+<h4 class="fw-bold">Serbia Ends Visa-Free Regimes with Tunisia Burundi</h4>
+<p>After facing pressure from the EU regarding an increase in the number of migrants entering the bloc,... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/ethiopia-evisa-from-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Ethiopia e-Visa from Tunisia</h4>
+<p>Traveling to Ethiopia, a land of rich history, stunning landscapes, and vibrant culture, is a dream ... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Tourism Revival Amid Economic Crisis</h4>
+<p>Tunis, June 15, 2023 - Tunisia, a country known for its historic heritage and stunning landscapes, i... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/residents-work-permits-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Residents &amp; Work Permits in Tunisia</h4>
+<p>Tunisia, a captivating Mediterranean gem, beckons with its warm sun, rich culture, and delectable cu... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-embraces-digital-visas/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Embraces Digital Visas</h4>
+<p>    
+Tunisia is about to introduce a state-of-the-art e-Visa system, a way of processing visa issuan... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/algerian-embassy-in-tunis-tunisia/" style="color:#000;">Algeria -   Algerian   Embassy  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/argentina-in-tunis-tunisia/" style="color:#000;">Argentina -   Embassy of Argentina in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/austria-in-tunis-tunisia/" style="color:#000;">Austria -   Embassy of Austria in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/bahraini-in-tunis-tunisia/" style="color:#000;">Bahrain -    Bahraini Embassy in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/belgium-in-tunis-tunisia/" style="color:#000;">Belgium -  Embassy of Belgium in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/" style="color:#000;">Brazil -   Embassy of Brazil in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/bulgaria-in-tunis-tunisia/" style="color:#000;">Bulgaria -  Embassy of Bulgaria in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/burkinese-embassy-in-tunis-tunisia/" style="color:#000;">Burkina Faso -  Burkinese   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/cameroonian-embassy-in-tunis-tunisia/" style="color:#000;">Cameroon -    Cameroonian   Embassy  in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/canadian-embassy-in-tunis-tunisia/" style="color:#000;">Canada -  Canadian   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/chinese-embassy-in-tunis-tunisia/" style="color:#000;">China -  Chinese   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/ivorian-embassy-in-tunis-tunisia/" style="color:#000;">Cote d'Ivoire -  Ivorian   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/the-czech-republic-in-tunis-tunisia/" style="color:#000;">Czech Republic -  Embassy of the Czech Republic in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/egypt-in-tunisia/" style="color:#000;">Egypt -    Embassy of Egypt in Tunisia   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/finnish-embassy-in-tunis-tunisia/" style="color:#000;">Finland -  Finnish   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/" style="color:#000;">France -    Embassy of France in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/gabonese-embassy-in-tunis-tunisia/" style="color:#000;">Gabon -  Gabonese   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/german-embassy-in-tunis-tunisia/" style="color:#000;">Germany -   German   Embassy  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/greece-in-tunis-tunisia/" style="color:#000;">Greece -  Embassy of Greece in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/hungary-in-tunis-tunisia/" style="color:#000;">Hungary -   Embassy of  Hungary in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/indian-in-tunisia/" style="color:#000;">India -  Indian Embassy in Tunisia </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/indonesia-in-tunis-tunisia/" style="color:#000;">Indonesia -  Embassy of Indonesia in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/italian-embassy-in-tunis-tunisia/" style="color:#000;">Italy -     Italian   Embassy  in Tunis    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/japanese-embassy-in-tunis-tunisia/" style="color:#000;">Japan -   Japanese   Embassy  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/jordan-in-tunis-tunisia/" style="color:#000;">Jordan -  Embassy of Jordan in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/kuwaiti-embassy-in-tunis-tunisia/" style="color:#000;">Kuwait -  Kuwaiti   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/lebanon-in-tunis-tunisia/" style="color:#000;">Lebanon -  Embassy of Lebanon in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/maltese-embassy-in-tunis-tunisia/" style="color:#000;">Malta -  Maltese   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/mauritanian-embassy-in-tunis-tunisia/" style="color:#000;">Mauritania -  Mauritanian   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/netherlands-embassy-in-tunis-tunisia/" style="color:#000;">Netherlands -  Netherlands   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/nigerian-embassy-in-tunis-tunisia/" style="color:#000;">Nigeria -  Nigerian   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/the-sultanate-of-oman-in-tunis-tunisia/" style="color:#000;">Oman -  Embassy of the Sultanate of Oman in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/pakistani-embassy-in-tunis-tunisia/" style="color:#000;">Pakistan -  Pakistani   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/palestine-in-tunisia/" style="color:#000;">Palestine -  Embassy of Palestine in Tunisia </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/polish-embassy-in-tunis-tunisia/" style="color:#000;">Poland -  Polish   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/portuguese-embassy-in-tunis-tunisia/" style="color:#000;">Portugal -   Portuguese   Embassy  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/qatari-embassy-in-tunis-tunisia/" style="color:#000;">Qatar -  Qatari   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/" style="color:#000;">Romania -     Embassy of Romania in Tunis    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/russia-in-tunis-tunisia/" style="color:#000;">Russia -    Embassy of Russia in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/saudi-arabian-embassy-in-tunis-tunisia/" style="color:#000;">Saudi Arabia -    Saudi Arabian   Embassy  in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/senegal-in-tunis-tunisia/" style="color:#000;">Senegal -  Senegal Embassy in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/serbia-in-tunisia/" style="color:#000;">Serbia -  Embassy of Serbia in Tunisia </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/south-africa-tunisia/" style="color:#000;">South Africa -   South Africa Embassy   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/spain-in-tunisia/" style="color:#000;">Spain -  Embassy of Spain in Tunisia </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/sudanese-in-tunis-tunisia/" style="color:#000;">Sudan -  Sudanese   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/swedish-embassy-in-tunis-tunisia/" style="color:#000;">Sweden -   Swedish   Embassy  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/switzerland-in-tunis-tunisia/" style="color:#000;">Switzerland -   Embassy of Switzerland in Tunis   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/turkey-in-tunisia/" style="color:#000;">Turkey -      Embassy of Turkey in Tunisia     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/ukraine-in-tunisia/" style="color:#000;">Ukraine -   Embassy of Ukraine in Tunisia  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/united-arab-emirates-in-tunis-tunisia/" style="color:#000;">United Arab Emirates -  Embassy of United Arab Emirates in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/british-embassy-in-tunis-tunisia/" style="color:#000;">United Kingdom -  British   Embassy  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/american-embassy-in-tunis-tunisia/" style="color:#000;">United States of America -   American   Embassy in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/algerian-in-gafsa-tunisia/" style="color:#000;">Algeria -   Algerian Consulate in Gafsa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/algerian-in-le-kef-tunisia/" style="color:#000;">Algeria -   Algerian Consulate in Le Kef  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/austrian-honorary-consulate-in-sousse-tunisia/" style="color:#000;">Austria -   Austrian  Honorary Consulate  in Sousse  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/chadian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Chad -  Chadian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/chilean-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Chile -   Chilean  Honorary Consulate  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/comoran-consulate-general-in-tunis-tunisia/" style="color:#000;">Comoros -  Comoran   Consulate General  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/croatian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Croatia -  Croatian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/danish-honorary-vice-consulate-in-sfax-tunisia/" style="color:#000;">Denmark -   Danish  Honorary Vice Consulate  in Sfax  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/danish-honorary-consulate-general-in-tunis-tunisia/" style="color:#000;">Denmark -   Danish  Honorary Consulate General  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/estonian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Estonia -  Estonian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/" style="color:#000;">France -    French  Honorary Consulate  in Djerba   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/" style="color:#000;">France -    French  Honorary Consulate  in Sfax   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/" style="color:#000;">France -    French  Honorary Consulate  in Sousse   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/" style="color:#000;">France -    French  Honorary Consulate  in Tozeur   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/german-honorary-consulate-in-djerba-tunisia/" style="color:#000;">Germany -   German  Honorary Consulate  in Djerba  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/" style="color:#000;">Ghana -  Ghanaian  Honorary Consulate General  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/hungarian-honorary-consulate-in-djerba-tunisia/" style="color:#000;">Hungary -   Hungarian  Honorary Consulate  in Djerba  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/icelandic-honorary-consulate-general-in-tunis-tunisia/" style="color:#000;">Iceland -  Icelandic  Honorary Consulate General  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/irish-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Ireland -  Irish  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-bizerte-tunisia/" style="color:#000;">Italy -     Italian  Honorary Consulate  in Bizerte    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-sfax-tunisia/" style="color:#000;">Italy -     Italian  Honorary Consulate  in Sfax    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/latvian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Latvia -   Latvian  Honorary Consulate  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/luxembourg-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Luxembourg -  Luxembourg  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/malaysian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Malaysia -  Malaysian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/mauritian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Mauritius -  Mauritian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/mexican-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Mexico -   Mexican  Honorary Consulate  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/monegasque-honorary-consulate-general-in-tunis-tunisia/" style="color:#000;">Monaco -  Monegasque  Honorary Consulate General  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/morocco-in-tunis-tunisia/" style="color:#000;">Morocco -   Consulate General of Morocco in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/nigerien-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Niger -  Nigerien  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/norwegian-honorary-consulate-general-in-tunis-tunisia/" style="color:#000;">Norway -  Norwegian  Honorary Consulate General  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/peruvian-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Peru -  Peruvian  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/philippine-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Philippines -   Philippine  Honorary Consulate  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/" style="color:#000;">Romania -     Romanian  Honorary Consulate  in Sfax    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/seychelles-in-tunisia/" style="color:#000;">Seychelles -  Consulate of Seychelles in Tunisia </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/sri-lankan-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Sri Lanka -  Sri Lankan  Honorary Consulate  in Tunis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/swedish-honorary-consulate-in-sousse-tunisia/" style="color:#000;">Sweden -   Swedish  Honorary Consulate  in Sousse  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/swiss-honorary-consulate-in-djerba-tunisia/" style="color:#000;">Switzerland -   Swiss  Honorary Consulate  in Djerba  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/" style="color:#000;">Thailand -   Thai  Honorary Consulate  in Tunis  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/ukrainian-honorary-consulate-in-sousse-tunisia/" style="color:#000;">Ukraine -   Ukrainian  Honorary Consulate  in Sousse  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-in-tunisia/
+
+[Line with Issue]:
+<a href="">
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/top-adventurous-things-to-do-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Top adventurous things to do in Tunisia</h4>
+<p>Welcome to Tunisia, a captivating country nestled in the heart of North Africa. Known for its rich h... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/" style="color:#000;">
+<h4 class="fw-bold">Turkish visa for Tunisia citizens</h4>
+<p>Turkey is a popular tourist destination for Tunisians, with its rich history, culture, and natural b... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/best-experiences-in-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Best Experiences in Tunisia</h4>
+<p>Tunisia, located in North Africa, is a country that offers a rich tapestry of history, culture, and ... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+ - https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/
+ - https://tunisia-e-visa.com/serbia-ends-visa-free-regimes-with-tunisia-burundi/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/swiss-honorary-consulate-in-djerba-tunisia/" title="  Swiss  Honorary Consulate  in Djerba  ">
+<p style="margin-bottom:6px;"> <b>Swiss  Honorary Consulate  in Djerba, Tunisia</b><br/>Rue Habib Thameur<br/>BoÃƒÂ®te postale 108<br/>4180 Houmt Souk<br/>Djerba<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/switzerland-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Tourism Revenue Up 58 per cent in 5 Months</h4>
+<p>Tourism revenue in Tunisia has experienced a remarkable surge, with a staggering 57.7% increase in t... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/free-visa-entry-countries-for-tunisian-nationals/" style="color:#000;">
+<h4 class="fw-bold">Free Visa Entry Countries for Tunisian Nationals</h4>
+<p>As of October 2023, the Tunisian passport is ranked 127th in the world, according to the VisaGuide P... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Largest Museums Reopens to Public</h4>
+<p>The largest museum in Tunisia, the Bardo Museum, has reopened its doors to the public after a period... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/countries-that-enter-tunisia-visa-free/
+ - https://tunisia-e-visa.com/key-problems-faced-by-tourists-visiting-in-tunisia/
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/algerian-in-gafsa-tunisia/" title="  Algerian Consulate in Gafsa  ">
+<p style="margin-bottom:6px;"> <b>Algerian Consulate in Gafsa, Tunisia</b><br/>Rue de lâ€™Irak<br/>2100 Gafsa<br/>Tunisia  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/algerian-in-le-kef-tunisia/
+ - https://tunisia-e-visa.com/embassy/algerian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/algerian-embassy-in-tunis-tunisia/" title="  Algerian   Embassy  in Tunis  ">
+<p style="margin-bottom:6px;"> <b>Algerian   Embassy  in Tunis, Tunisia</b><br/>Rue du Lac d'Annecy<br/>Les Berges du Lac<br/>B.P. 75, 1053 Tunis<br/>Consulate: 18, Rue du Niger<br/>1002 BelvedÃƒÂ¨re<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/algerian-in-gafsa-tunisia/
+ - https://tunisia-e-visa.com/consulate/algerian-in-le-kef-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Cameroon e-Visa from Tunisia</h4>
+<p>   
+Embarking on a journey from Tunisia to Cameroon? A hassle-free visa process is the cornerstone ... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+ - https://tunisia-e-visa.com/turkish-visa-for-tunisia-citizens/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-2023-travel-itinerary/" style="color:#000;">
+<h4 class="fw-bold">Tunisia 2023 Travel Itinerary</h4>
+<p>Tunisia, with its rich history, diverse landscapes, and cultural treasures, offers a fantastic trave... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-experiences-in-tunisia/
+ - https://tunisia-e-visa.com/french-embassy-in-tunisia-expands-visa-appointments/
+ - https://tunisia-e-visa.com/tunisia-embraces-digital-visas/
+ - https://tunisia-e-visa.com/tunisia-largest-museums-reopens-to-public/
+ - https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/best-time-to-visit-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Best Time to Visit Tunisia</h4>
+<p>Tunisia, located on the northern coast of Africa, is a country with a diverse range of landscapes, a... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-sim-cards-tourists-can-use-for-calling-and-dialing-in-tunisia/
+ - https://tunisia-e-visa.com/eu-offers-1-billion-euros-to-boost-tunisia-economy-migration/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/" title="   Embassy of France in Tunis   ">
+<p style="margin-bottom:6px;"> <b>Embassy of France in Tunis, Tunisia</b><br/>2 Place de l'Independance<br/>1000 Tunis   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/" title="   French  Honorary Consulate  in Sfax   ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Sfax, Tunisia</b><br/>Maison de France<br/>3000 Sfax<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/
+ - https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/" title="   French  Honorary Consulate  in Sousse   ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Sousse, Tunisia</b><br/>35, rue de la Marguerite<br/>Cite Narjess 2<br/>4089 Kantaoui<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/
+ - https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/" title="   French  Honorary Consulate  in Tozeur   ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Tozeur, Tunisia</b><br/>BP 124<br/>2200 Tozeur<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/
+ - https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-other-purposes/" target="_blank" title="Romania Long-Stay Visa for Other Purposes (Marked D/As)">Romania Long-Stay Visa for Other Purposes (Marked D/As)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-scientific-research/" target="_blank" title="Romania Long-Stay Visa for Scientific Research (Marked D/Cs)">Romania Long-Stay Visa for Scientific Research (Marked D/Cs)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-studies/" target="_blank" title="Romania Long-Stay Visa for Studies (Marked D/SD)">Romania Long-Stay Visa for Studies (Marked D/SD)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-secondment/" target="_blank" title="Romania Long-Stay Visa for Secondment (Marked D/Dt)">Romania Long-Stay Visa for Secondment (Marked D/Dt)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-employment/" target="_blank" title="Romania Long-Stay Visa for Employment (Marked D/Am)">Romania Long-Stay Visa for Employment (Marked D/Am)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-business-visa/" target="_blank" title="Romania Business Visa (B)">Romania Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-commercial-activities/" target="_blank" title="Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)">Romania Long-Stay Visa for Commercial Activities (Marked D/Ac)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-religious-activities/" target="_blank" title="Romania Long-Stay Visa for Religious Activities (Marked D/Ar)">Romania Long-Stay Visa for Religious Activities (Marked D/Ar)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-diplomatic-and-service-visa/" target="_blank" title="Romania Diplomatic And Service Visa (Marked Ds)">Romania Diplomatic And Service Visa (Marked Ds)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-family-reunification/" target="_blank" title="Romania Long-Stay Visa for Family Reunification (Marked D/Vf)">Romania Long-Stay Visa for Family Reunification (Marked D/Vf)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-long-stay-visa-for-professional-activities/" target="_blank" title="Romania Long-Stay Visa for Professional Activities (Marked D/Ap)">Romania Long-Stay Visa for Professional Activities (Marked D/Ap)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-term-visa-for-cultural-scientific-humanitarian-activities-medical-treatment-etc/" target="_blank" title="Romania Medical Visa (MED)">Romania Medical Visa (MED)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://romania-e-visa.com/romania-short-stay-tourist-visa/" target="_blank" title="Romania Tourist Visa (T)">Romania Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/" title="    Romanian  Honorary Consulate  in Sfax    ">
+<p style="margin-bottom:6px;"> <b>Romanian  Honorary Consulate  in Sfax, Tunisia</b><br/>Route de GabÃƒÂ¨s, Km. 3,5<br/>B.P. 14, Cite El Habib, 3052<br/>Sfax<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-welcomes-chinese-tourists-visa-free/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Welcomes Chinese Tourists Visa-Free</h4>
+<p>TUNIS, Oct. 7 (Xinhua) – In a significant move to boost its tourism sector and foster internat... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/best-time-to-visit-tunisia/
+ - https://tunisia-e-visa.com/kenya-eta-for-tunisia-citizens/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/top-activities-to-do-in-tunisia/
+ - https://tunisia-e-visa.com/top-few-thing-to-remember-before-visiting-tunisia/
+ - https://tunisia-e-visa.com/tunisia-tourism-revenue-up-58-per-cent-in-5-months/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-holidays-explore-ancient-roman-heritage/" style="color:#000;">
+<h4 class="fw-bold">Tunisia Holidays Explore Ancient Roman Heritage</h4>
+<p>Tunisia, a land steeped in history, beckons travelers to explore its ancient Roman heritage, a treas... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+ - https://tunisia-e-visa.com/tunisia-tourism-revival-amid-economic-crisis/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/reasons-for-visa-rejection-by-tunisia/" style="color:#000;">
+<h4 class="fw-bold">Reasons for Visa Rejection by Tunisia</h4>
+<p>As many travelers plan for foreign trips during the holiday season, one common setback they may enco... </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+ - https://tunisia-e-visa.com/festivals-events-that-lure-tourists-to-tunisia/
+ - https://tunisia-e-visa.com/top-15-destinations-in-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/german-embassy-in-tunis-tunisia/" title="  German   Embassy  in Tunis  ">
+<p style="margin-bottom:6px;"> <b>German   Embassy  in Tunis, Tunisia</b><br/>Impasse du Lac Windermere 1<br/>B.P. 222, 1053 Les Berges du Lac<br/>Tunis<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/german-honorary-consulate-in-djerba-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-f/" target="_blank" title="Thailand Non-Immigrant F (Government or diplomatic mission)">Thailand Non-Immigrant F (Government or diplomatic mission)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-o-visa/" target="_blank" title="Thailand Non-Immigrant O Visa(Visiting friends and family)">Thailand Non-Immigrant O Visa(Visiting friends and family)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailands-smart-visa/" target="_blank" title="Thailand Smart Visa (Executives, entrepreneurs or investor)">Thailand Smart Visa (Executives, entrepreneurs or investor)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-long-term-resident-visa/" target="_blank" title="Thailand Long -Term Resident Visa (LTR)">Thailand Long -Term Resident Visa (LTR)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-diplomatic-official-visa/" target="_blank" title="Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)">Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-visa-non-immigrant-ed-visit-to-study/" target="_blank" title="Thailand Visa Non-Immigrant ED(Visit to study)">Thailand Visa Non-Immigrant ED(Visit to study)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/thai-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/german-honorary-consulate-in-djerba-tunisia/" title="  German  Honorary Consulate  in Djerba  ">
+<p style="margin-bottom:6px;"> <b>German  Honorary Consulate  in Djerba, Tunisia</b><br/>7, Rue de la Sante <br/>4180 Houmt Souk<br/>Djerba<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/german-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visit-visa/" target="_blank" title="Brazil Visitor Visa (Vivis)">Brazil Visitor Visa (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visitor-visa-transit-vivis/" target="_blank" title="Brazil Visitor Visa - Transit (Vivis)">Brazil Visitor Visa - Transit (Vivis)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/apply-for-visa-for-brazil/" target="_blank" title="How to Apply for a Visa for Brazil?">How to Apply for a Visa for Brazil?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/brazil-visa-requirements/" target="_blank" title="What Are the Brazil Visa Requirements?">What Are the Brazil Visa Requirements?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://brazil-e-visas.com/extend-brazil-visa/" target="_blank" title="Can You Extend a Brazil Visa?">Can You Extend a Brazil Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/brazil-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/hungarian-honorary-consulate-in-djerba-tunisia/" title="  Hungarian  Honorary Consulate  in Djerba  ">
+<p style="margin-bottom:6px;"> <b>Hungarian  Honorary Consulate  in Djerba, Tunisia</b><br/>Mahboubine<br/>Djerba 4165<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/hungary-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-bizerte-tunisia/" title="    Italian  Honorary Consulate  in Bizerte    ">
+<p style="margin-bottom:6px;"> <b>Italian  Honorary Consulate  in Bizerte, Tunisia</b><br/>Bizerte<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/embassy/italian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-sfax-tunisia/" title="    Italian  Honorary Consulate  in Sfax    ">
+<p style="margin-bottom:6px;"> <b>Italian  Honorary Consulate  in Sfax, Tunisia</b><br/>Sfax<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-bizerte-tunisia/
+ - https://tunisia-e-visa.com/embassy/italian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/italian-embassy-in-tunis-tunisia/" title="    Italian   Embassy  in Tunis    ">
+<p style="margin-bottom:6px;"> <b>Italian   Embassy  in Tunis, Tunisia</b><br/>1, Rue de l' Alhambra<br/>Consular section: 113, Avenue Jugurtha<br/>Mutuelleville<br/>1002 Tunis<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-bizerte-tunisia/
+ - https://tunisia-e-visa.com/consulate/italian-honorary-consulate-in-sfax-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-djerba-tunisia/" title="   French  Honorary Consulate  in Djerba   ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Djerba, Tunisia</b><br/>rue 2 mars 1934<br/>BP 136<br/>4180 Houmt Souk<br/>Djerba<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sfax-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-sousse-tunisia/
+ - https://tunisia-e-visa.com/consulate/french-honorary-consulate-in-tozeur-tunisia/
+ - https://tunisia-e-visa.com/embassy/france-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/ukraine-in-tunisia/" title="  Embassy of Ukraine in Tunisia  ">
+<p style="margin-bottom:6px;">   7 Saint Fulgence, Notre Dame 1002<br/>Tunis, Tunisia  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ukrainian-honorary-consulate-in-sousse-tunisia/
+
+[Line with Issue]:
+<a href="https://philippines-e-visa.com/apply-for-philippines-visa/" target="_blank" title="How to apply for a visa to the Philippines?">How to apply for a visa to the Philippines?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/philippine-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://sri-lanka-e-visa.com/how-to-apply-for-sri-lanka-eta/" target="_blank" title="Sri Lanka Electronic Travel Authorization (ETA)">Sri Lanka Electronic Travel Authorization (ETA)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/sri-lankan-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ivory-coast-evisa.com/ivory-coast-visa-types/" target="_blank" title="Visa Types &amp; Categories to Apply for Cote d’Ivoire (Ivory Coast)">Visa Types &amp; Categories to Apply for Cote d’Ivoire (Ivory Coast)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/ivorian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/swedish-embassy-in-tunis-tunisia/" title="  Swedish   Embassy  in Tunis  ">
+<p style="margin-bottom:6px;"> <b>Swedish   Embassy  in Tunis, Tunisia</b><br/>Dar Nordique<br/>Rue du Lac NeuchÃƒÂ¢tel<br/>1053 Les Berges du Lac<br/>Tunis<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/swedish-honorary-consulate-in-sousse-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-algiers-algeria/" style="color:#000;">Algeria -    Tunisian   Embassy  in Algiers   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-buenos-aires-argentina/" style="color:#000;">Argentina -   Tunisian   Embassy  in Buenos Aires  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-canberra-australia/" style="color:#000;">Australia -   Tunisian   Embassy  in Canberra  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/" style="color:#000;">Austria -     Tunisian   Embassy  in Vienna    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-manama-bahrain/" style="color:#000;">Bahrain -    Tunisian   Embassy  in Manama   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-brussels-belgium/" style="color:#000;">Belgium -   Tunisian   Embassy  in Brussels  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-brasilia-brazil/" style="color:#000;">Brazil -      Tunisian   Embassy  in Brasilia     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-yaounde-cameroon/" style="color:#000;">Cameroon -       Tunisian   Embassy  in Yaounde      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-ottawa-canada/" style="color:#000;">Canada -    Tunisian   Embassy  in Ottawa   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-beijing-china/" style="color:#000;">China -  Tunisian   Embassy  in Beijing </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-kinshasa-congo-democratic-republic-of-the/" style="color:#000;">Congo, Democratic Republic of the -   Tunisian   Embassy  in Kinshasa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-abidjan-cote-divoire/" style="color:#000;">Cote d'Ivoire -  Tunisian   Embassy  in Abidjan </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-prague-czech-republic/" style="color:#000;">Czech Republic -  Tunisian   Embassy  in Prague </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-cairo-egypt/" style="color:#000;">Egypt -    Tunisian   Embassy  in Cairo   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-addis-ababa-ethiopia/" style="color:#000;">Ethiopia -   Tunisian   Embassy  in Addis Ababa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-helsinki-finland/" style="color:#000;">Finland -   Tunisian   Embassy  in Helsinki  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/" style="color:#000;">France -       Embassy of Tunisia in Paris      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/" style="color:#000;">France -       Tunisian   Embassy  in Paris      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-berlin-germany/" style="color:#000;">Germany -    Tunisian   Embassy  in Berlin   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-athens-greece/" style="color:#000;">Greece -  Tunisian   Embassy  in Athens </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-budapest-hungary/" style="color:#000;">Hungary -  Tunisian   Embassy  in Budapest </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-new-delhi-india/" style="color:#000;">India -  Tunisian   Embassy  in New Delhi </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-jakarta-indonesia/" style="color:#000;">Indonesia -   Tunisian   Embassy  in Jakarta  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/" style="color:#000;">Italy -   Tunisian   Embassy  in Rome  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-tokyo-japan/" style="color:#000;">Japan -   Tunisian   Embassy  in Tokyo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-amman-jordan/" style="color:#000;">Jordan -  Tunisian   Embassy  in Amman </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-kuwait-city-kuwait/" style="color:#000;">Kuwait -  Tunisian   Embassy  in Kuwait City </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-beirut-lebanon/" style="color:#000;">Lebanon -  Tunisian   Embassy  in Beirut </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-valletta-malta/" style="color:#000;">Malta -  Tunisian   Embassy  in Valletta </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-nouakchott-mauritania/" style="color:#000;">Mauritania -  Tunisian   Embassy  in Nouakchott </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rabat-morocco/" style="color:#000;">Morocco -    Tunisian   Embassy  in Rabat   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-the-hague-netherlands/" style="color:#000;">Netherlands -   Tunisian   Embassy  in The Hague  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-abuja-nigeria/" style="color:#000;">Nigeria -  Tunisian   Embassy  in Abuja </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-oslo-norway/" style="color:#000;">Norway -   Tunisian   Embassy  in Oslo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-muscat-oman/" style="color:#000;">Oman -   Tunisian   Embassy  in Muscat  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-islamabad-pakistan/" style="color:#000;">Pakistan -   Tunisian   Embassy  in Islamabad  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-warsaw-poland/" style="color:#000;">Poland -  Tunisian   Embassy  in Warsaw </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-lisbon-portugal/" style="color:#000;">Portugal -    Tunisian   Embassy  in Lisbon   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-doha-qatar/" style="color:#000;">Qatar -  Tunisian   Embassy  in Doha </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-bucharest-romania/" style="color:#000;">Romania -     Tunisian   Embassy  in Bucharest    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-moscow-russia/" style="color:#000;">Russia -    Tunisian   Embassy  in Moscow   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-riyadh-saudi-arabia/" style="color:#000;">Saudi Arabia -       Tunisian   Embassy  in Riyadh      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-dakar-senegal/" style="color:#000;">Senegal -  Tunisian   Embassy  in Dakar </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-belgrade-serbia/" style="color:#000;">Serbia -  Tunisian   Embassy  in Belgrade </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-pretoria-south-africa/" style="color:#000;">South Africa -   Tunisian   Embassy  in Pretoria  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-madrid-spain/" style="color:#000;">Spain -  Tunisian   Embassy  in Madrid </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-khartoum-sudan/" style="color:#000;">Sudan -  Tunisian   Embassy  in Khartoum </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-in-stockholm-sweden/" style="color:#000;">Sweden -  Tunisian Embassy in Stockholm </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-bern-switzerland/" style="color:#000;">Switzerland -  Tunisian   Embassy  in Bern </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-ankara-turkey/" style="color:#000;">Turkey -                 Tunisian   Embassy  in Ankara                </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-abu-dhabi-united-arab-emirates/" style="color:#000;">United Arab Emirates -   Tunisian   Embassy  in Abu Dhabi  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisia-in-london-united-kingdom/" style="color:#000;">United Kingdom -    Embassy of the Republic of Tunisia in London   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-washington-united-states-of-america/" style="color:#000;">United States of America -     Tunisian   Embassy  in Washington    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-ramallah-palestine/" style="color:#000;">Palestine -  Tunisian   Representative Office  in Ramallah </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-new-york-united-states-of-america/" style="color:#000;">United States of America -     Tunisian   Representative Office  in New York    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-tirana-albania/" style="color:#000;">Albania -   Tunisian  Honorary Consulate  in Tirana  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-annaba-algeria/" style="color:#000;">Algeria -    Tunisian   Consulate  in Annaba   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-tebessa-algeria/" style="color:#000;">Algeria -    Tunisian   Consulate  in Tebessa   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-brisbane-australia/" style="color:#000;">Australia -   Tunisian  Honorary Consulate  in Brisbane  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-sydney-australia/" style="color:#000;">Australia -   Tunisian  Honorary Consulate  in Sydney  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/" style="color:#000;">Austria -     Tunisian  Honorary Consulate  in Eisenstadt    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/" style="color:#000;">Austria -     Tunisian  Honorary Consulate  in Graz    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/" style="color:#000;">Austria -     Tunisian  Honorary Consulate  in Linz    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/" style="color:#000;">Austria -     Tunisian  Honorary Consulate  in Salzburg    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-dhaka-bangladesh/" style="color:#000;">Bangladesh -  Tunisian  Honorary Consulate  in Dhaka </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-gent-belgium/" style="color:#000;">Belgium -   Tunisian  Honorary Consulate  in Gent  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-ostend-belgium/" style="color:#000;">Belgium -   Tunisian  Honorary Consulate  in Ostend  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-porto-alegre-brazil/" style="color:#000;">Brazil -      Tunisian  Honorary Consulate  in Porto Alegre     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-sao-paulo-brazil/" style="color:#000;">Brazil -      Tunisian  Honorary Consulate  in Sao Paulo     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-douala-cameroon/" style="color:#000;">Cameroon -       Tunisian  Honorary Consulate  in Douala      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-montreal-canada/" style="color:#000;">Canada -    Tunisian   Consulate  in Montreal   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-vancouver-canada/" style="color:#000;">Canada -    Tunisian  Honorary Consulate  in Vancouver   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-ndjamena-chad/" style="color:#000;">Chad -  Tunisian  Honorary Consulate  in N'Djamena </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-santiago-chile/" style="color:#000;">Chile -   Tunisian  Honorary Consulate  in Santiago  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-zagreb-croatia/" style="color:#000;">Croatia -  Tunisian  Honorary Consulate  in Zagreb </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-larnaca-cyprus/" style="color:#000;">Cyprus -  Tunisian  Honorary Consulate  in Larnaca </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-copenhagen-denmark/" style="color:#000;">Denmark -  Tunisian  Honorary Consulate  in Copenhagen </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-general-in-guayaquil-ecuador/" style="color:#000;">Ecuador -   Tunisian  Honorary Consulate General  in Guayaquil  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-malabo-equatorial-guinea/" style="color:#000;">Equatorial Guinea -  Tunisian  Honorary Consulate  in Malabo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-tampere-finland/" style="color:#000;">Finland -   Tunisian  Honorary Consulate  in Tampere  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/" style="color:#000;">France -       Consulate General of Tunisia in Marseille      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/" style="color:#000;">France -       Consulate General of Tunisia in Nice      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/" style="color:#000;">France -       Consulate of Tunisia in Strasbourg      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/" style="color:#000;">France -       Tunisian   Consulate  in Grenoble      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/" style="color:#000;">France -       Tunisian   Consulate  in Toulouse      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/" style="color:#000;">France -       Tunisian   Consulate General  in Lyon      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/" style="color:#000;">France -       Tunisian  Honorary Consulate  in Lille      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-banjul-gambia/" style="color:#000;">Gambia -  Tunisian  Honorary Consulate  in Banjul </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-bonn-germany/" style="color:#000;">Germany -    Consulate of Tunisia in Bonn   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-hamburg-germany/" style="color:#000;">Germany -    Consulate of Tunisia in Hamburg   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-consulate-in-munich-germany/" style="color:#000;">Germany -    Tunisian   Consulate  in Munich   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-hong-kong-hong-kong/" style="color:#000;">Hong Kong -  Tunisian  Honorary Consulate  in Hong Kong </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-denpasar-indonesia/" style="color:#000;">Indonesia -   Tunisian  Honorary Consulate  in Denpasar  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-yogyakarta-indonesia/" style="color:#000;">Indonesia -   Tunisian  Honorary Consulate  in Yogyakarta  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-dublin-ireland/" style="color:#000;">Ireland -  Tunisian  Honorary Consulate  in Dublin </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/" style="color:#000;">Italy -   Consulate of Tunisia in Florence  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/" style="color:#000;">Italy -   Consulate of Tunisia in Genoa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/" style="color:#000;">Italy -   Consulate of Tunisia in Milan  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/" style="color:#000;">Italy -   Consulate of Tunisia in Naples  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/" style="color:#000;">Italy -   Consulate of Tunisia in Palermo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/" style="color:#000;">Italy -   Tunisian  Honorary Consulate  in Bologna  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-luxembourg-ville-luxembourg/" style="color:#000;">Luxembourg -  Tunisian  Honorary Consulate  in Luxembourg Ville </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-antananarivo-madagascar/" style="color:#000;">Madagascar -   Tunisian  Honorary Consulate  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-monaco-monaco/" style="color:#000;">Monaco -  Tunisian  Honorary Consulate  in Monaco </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-rotterdam-netherlands/" style="color:#000;">Netherlands -   Tunisian  Honorary Consulate  in Rotterdam  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-bergen-norway/" style="color:#000;">Norway -   Tunisian  Honorary Consulate  in Bergen  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-karachi-pakistan/" style="color:#000;">Pakistan -   Tunisian  Honorary Consulate  in Karachi  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-lahore-pakistan/" style="color:#000;">Pakistan -   Tunisian  Honorary Consulate  in Lahore  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-manila-philippines/" style="color:#000;">Philippines -   Tunisian  Honorary Consulate  in Manila  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-porto-portugal/" style="color:#000;">Portugal -    Tunisian  Honorary Consulate  in Porto   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-timisoara-romania/" style="color:#000;">Romania -     Tunisian  Honorary Consulate  in Timisoara    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-jeddah-saudi-arabia/" style="color:#000;">Saudi Arabia -       Tunisian   Consulate General  in Jeddah      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-colombo-sri-lanka/" style="color:#000;">Sri Lanka -  Tunisian  Honorary Consulate  in Colombo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bangkok-thailand/" style="color:#000;">Thailand -   Tunisian  Honorary Consulate  in Bangkok  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-istanbul-turkey/" style="color:#000;">Turkey -                 Tunisian   Consulate General  in Istanbul                </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-adana-turkey/" style="color:#000;">Turkey -                 Tunisian  Honorary Consulate  in Adana                </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-izmir-turkey/" style="color:#000;">Turkey -                 Tunisian  Honorary Consulate  in Izmir                </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-kiev-ukraine/" style="color:#000;">Ukraine -  Tunisian  Honorary Consulate  in Kiev </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-consulate-in-dubai-united-arab-emirates/" style="color:#000;">United Arab Emirates -   Tunisian   Consulate  in Dubai  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-glasgow-united-kingdom/" style="color:#000;">United Kingdom -    Tunisian  Honorary Consulate  in Glasgow   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-liverpool-united-kingdom/" style="color:#000;">United Kingdom -    Tunisian  Honorary Consulate  in Liverpool   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-reading-united-kingdom/" style="color:#000;">United Kingdom -    Tunisian  Honorary Consulate  in Reading   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-in-dallas-united-states-of-america/" style="color:#000;">United States of America -     Tunisian  Honorary Consulate  in Dallas    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-miami-united-states-of-america/" style="color:#000;">United States of America -     Tunisian  Honorary Consulate  in Miami    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/emabssies-consulates-of-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-yaounde-cameroon/" title="      Tunisian   Embassy  in Yaounde      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Yaounde, Cameroon</b><br/>146, Rue de la Tunisie<br/>Quartier du Golf<br/>Yaounde<br/>Cameroon<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-douala-cameroon/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-ostend-belgium/" title="  Tunisian  Honorary Consulate  in Ostend  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Ostend, Belgium</b><br/>Low Land, Bredeweg 96 B<br/>8421 De Haan<br/>Belgium<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-gent-belgium/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-brussels-belgium/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-gent-belgium/" title="  Tunisian  Honorary Consulate  in Gent  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Gent, Belgium</b><br/>Kortrijksesteenweg 1004<br/>9000 Gent<br/>Belgium<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-ostend-belgium/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-brussels-belgium/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/ukrainian-honorary-consulate-in-sousse-tunisia/" title="  Ukrainian  Honorary Consulate  in Sousse  ">
+<p style="margin-bottom:6px;"> <b>Ukrainian  Honorary Consulate  in Sousse, Tunisia</b><br/>3, rue de l'Independance<br/>Sousse, 4000<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/ukraine-in-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/" title="  Consulate of Tunisia in Naples  ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Naples, Italy</b><br/>Centro Direzionale - Isola F 10 80143 Naples, Italy  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/" title="  Consulate of Tunisia in Palermo  ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Palermo, Italy</b><br/>Piazza Ignazio Florio 24<br/>90139 Palermo, Italy  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/" title="  Consulate of Tunisia in Florence  ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Florence, Italy</b><br/>Piazza San Marco 9 <br/>50100 Florence, Italy  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/" title="  Consulate of Tunisia in Milan  ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Milan, Italy</b><br/>Via Marche, 37 or V.le Bianca Maria 8 <br/>Milan, Italy  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/" title="  Consulate of Tunisia in Genoa  ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Genoa, Italy</b><br/>Via XX Settembe, 2/13 16121 Genoa, Italy  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/" title="  Tunisian  Honorary Consulate  in Bologna  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Bologna, Italy</b><br/>Via Giuseppe Garibaldi, 7<br/>40124 Bologna<br/>Italy<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/
+
+[Line with Issue]:
+<a href="https://cameroon-evisa.com/apply-for-cameroon-visa/" target="_blank" title="How to Apply for a Cameroon Visa?">How to Apply for a Cameroon Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/cameroonian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://cameroon-evisa.com/do-you-need-visa-to-visit-cameroon/" target="_blank" title="Do You Need a Visa to Visit Cameroon?">Do You Need a Visa to Visit Cameroon?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/cameroonian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/hungary-in-tunis-tunisia/" title="  Embassy of  Hungary in Tunis  ">
+<p style="margin-bottom:6px;"> <b>Embassy of  Hungary in Tunis, Tunisia</b><br/>12, Rue Achtart,1082.Nord-Hilton Tunis<br/>Tunis,Cite MahrajenB.P.572 Tunisie Cedex  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/hungarian-honorary-consulate-in-djerba-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-jakarta-indonesia/" title="  Tunisian   Embassy  in Jakarta  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Jakarta, Indonesia</b><br/>Jl. Karang Asem Tengah Blok C5 No. 15<br/>Kuningan<br/>Jakarta Selatan 12950<br/>Indonesia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-denpasar-indonesia/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-yogyakarta-indonesia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-denpasar-indonesia/" title="  Tunisian  Honorary Consulate  in Denpasar  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Denpasar, Indonesia</b><br/>Jalan Hayam Wuruk 159<br/>Denpasar 80235, Bali<br/>Indonesia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-yogyakarta-indonesia/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-jakarta-indonesia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/" title="      Tunisian   Embassy  in Paris      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Paris, France</b><br/>25, Rue Barbet de Jouy<br/>75007 Paris<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/" title="      Tunisian  Honorary Consulate  in Lille      ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Lille, France</b><br/>213 rue de Paris<br/>59000 Lille<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/" title="      Tunisian   Consulate General  in Lyon      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate General  in Lyon, France</b><br/>14, avenue du MarÃ©chal Foch<br/>69 006 Lyon<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/" title="      Tunisian   Consulate  in Toulouse      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Toulouse, France</b><br/>19, allÃ©e Jean-JaurÃ¨s<br/>31000 Toulouse<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/" title="      Consulate General of Tunisia in Nice      ">
+<p style="margin-bottom:6px;"> <b>Consulate General of Tunisia in Nice, France</b><br/>18 avenue des Fleurs - 06000<br/>Nice, France      </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/" title="      Embassy of Tunisia in Paris      ">
+<p style="margin-bottom:6px;"> <b>Embassy of Tunisia in Paris, France</b><br/>25, rue Barbet de Jouy - 75007      </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/" title="      Consulate of Tunisia in Strasbourg      ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Strasbourg, France</b><br/>6 rue Schiller 67000 Strasbourg, France      </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/" title="      Consulate General of Tunisia in Marseille      ">
+<p style="margin-bottom:6px;"> <b>Consulate General of Tunisia in Marseille, France</b><br/>8 boulevard dAthenes 13001 Marseille, France      </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-lisbon-portugal/" title="   Tunisian   Embassy  in Lisbon   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Lisbon, Portugal</b><br/>Rua Rodrigo Rebelo, 16<br/>1400-318 Lisboa<br/>Portugal<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-porto-portugal/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-dallas-united-states-of-america/" title="    Tunisian  Honorary Consulate  in Dallas    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Dallas, United States</b><br/>4227 N. Capistrano Drive<br/>Dallas, TX 75287-4002<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-miami-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-washington-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-washington-united-states-of-america/" title="    Tunisian   Embassy  in Washington    ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Washington, D.C., United States</b><br/>1515 Massachusetts Avenue, NW<br/>Washington, D.C. 20005<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-miami-united-states-of-america/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-dallas-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-new-york-united-states-of-america/" title="    Tunisian   Representative Office  in New York    ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Representative Office  in New York, United States</b><br/>31 Beekman Pl.<br/>New York, NY 10022<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-miami-united-states-of-america/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-dallas-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-tourist-visa/" target="_blank" title="Bulgaria Tourist Visa (T)">Bulgaria Tourist Visa (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/bulgaria-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-business-visit-visa/" target="_blank" title="Bulgaria Business Visa (B)">Bulgaria Business Visa (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/bulgaria-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://bulgaria-evisa.com/bulgaria-medical-treatment-visa/" target="_blank" title="Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)">Bulgaria Medical Visa (MED) &amp; Medical Attendant (MED X)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/bulgaria-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/how-to-get-china-visa/" target="_blank" title="How to Get a China Visa?">How to Get a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/chinese-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/requirements-for-china-visa/" target="_blank" title="What Are the Requirements for a China Visa?">What Are the Requirements for a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/chinese-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/visa-with-invitation-by-the-government-of-mexico-federal-level/" target="_blank" title="Visa with Invitation by the Government of Mexico (Federal Level)">Visa with Invitation by the Government of Mexico (Federal Level)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/mexican-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://mexico-e-visa.com/mexico-electronic-authorization-system/" target="_blank" title="Mexico Electronic Authorization System (SAE)">Mexico Electronic Authorization System (SAE)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/mexican-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/austria-in-tunis-tunisia/" title="  Embassy of Austria in Tunis  ">
+<p style="margin-bottom:6px;"> <b>Embassy of Austria in Tunis, Tunisia</b><br/>16, rue Ibn Hamdis El Menzah I<br/>1004 Tunis<br/>Tunisia  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/austrian-honorary-consulate-in-sousse-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-rome-italy/" title="  Tunisian   Embassy  in Rome  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Rome, Italy</b><br/>Via Asmara, 7<br/>Consular section: Via Montecristo, 2<br/>Roma<br/>Italy<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-florence-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-genoa-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-milan-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-naples-italy/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-palermo-italy/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-bologna-italy/
+
+[Line with Issue]:
+<a href="https://cameroon-evisa.com/apply-at-the-port-of-entry-for-cameroon-visa/" rel="noopener" target="_blank"> Cameroon Visa on Arrival</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/cameroon-evisa-from-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-brussels-belgium/" title="  Tunisian   Embassy  in Brussels  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Brussels, Belgium</b><br/>278, Avenue de Tervuren<br/>1150 Brussels<br/>Belgium<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-ostend-belgium/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-gent-belgium/
+
+[Line with Issue]:
+<a href="https://eta-canada.info/canada-super-visa-parents-and-grandparents-visa/" target="_blank" title="Canada Super Visa (Parents and Grandparents Visa)">Canada Super Visa (Parents and Grandparents Visa)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/canadian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-algiers-algeria/" title="   Tunisian   Embassy  in Algiers   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Algiers, Algeria</b><br/>11, Rue du Bois de Boulogne<br/>El Mouradia<br/>Alger<br/>Algeria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-annaba-algeria/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-tebessa-algeria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-tebessa-algeria/" title="   Tunisian   Consulate  in Tebessa   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Tebessa, Algeria</b><br/>150, Boulevard Colonel Mahmoud Cherif<br/>B.P. 280<br/>12000 Tebessa<br/>Algeria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-annaba-algeria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-algiers-algeria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/swedish-honorary-consulate-in-sousse-tunisia/" title="  Swedish  Honorary Consulate  in Sousse  ">
+<p style="margin-bottom:6px;"> <b>Swedish  Honorary Consulate  in Sousse, Tunisia</b><br/>Rue Ibn el Jazzar Imm.
+Avicienne 3iÃƒÂ¨me etage<br/>4000 Sousse<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/swedish-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/austrian-honorary-consulate-in-sousse-tunisia/" title="  Austrian  Honorary Consulate  in Sousse  ">
+<p style="margin-bottom:6px;"> <b>Austrian  Honorary Consulate  in Sousse, Tunisia</b><br/>c/o Hotel MÃƒÂ¶venpick Resort und Marine Spa Sousse<br/>Boulevard 14 Janvier<br/>4039 Sousse<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/austria-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/algerian-in-le-kef-tunisia/" title="  Algerian Consulate in Le Kef  ">
+<p style="margin-bottom:6px;"> <b>Algerian Consulate in Le Kef, Tunisia</b><br/>3 Rue El Hedi Chaker<br/>7100 Le Kef<br/>Tunisia  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/algerian-in-gafsa-tunisia/
+ - https://tunisia-e-visa.com/embassy/algerian-embassy-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://chad-evisa.com/how-to-apply-for-chad-visa/" target="_blank" title="How to Apply for a Chad Visa?">How to Apply for a Chad Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/chadian-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://chad-evisa.com/who-needs-visa-for-chad/" target="_blank" title="Who Needs a Visa for Chad?">Who Needs a Visa for Chad?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/chadian-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-douala-cameroon/" title="      Tunisian  Honorary Consulate  in Douala      ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Douala, Cameroon</b><br/>497 rue Koumassi<br/>BP 2265, Quartier Bali<br/>Douala<br/>Cameroon<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-in-yaounde-cameroon/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/romania-in-tunis-tunisia/" title="    Embassy of Romania in Tunis    ">
+<p style="margin-bottom:6px;"> <b>Embassy of Romania in Tunis, Tunisia</b><br/>18 Avenue d'Afrique, El Menzah V<br/>BP-57-1004 Tunis    </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/romanian-honorary-consulate-in-sfax-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-adana-turkey/" title="                Tunisian  Honorary Consulate  in Adana                ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Adana, Turkey</b><br/>MÃƒÂ¼cahitler Cad., Yeni Vilayet Binasi yani, No: 87<br/>Adana<br/>Turkey<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-istanbul-turkey/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-izmir-turkey/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-istanbul-turkey/" title="                Tunisian   Consulate General  in Istanbul                ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate General  in Istanbul, Turkey</b><br/>Keskin kalem sok. No:31 Gazeteciler Sitesi<br/>Esentepe, Sisli<br/>Istanbul<br/>Turkey<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-adana-turkey/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-izmir-turkey/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-izmir-turkey/" title="                Tunisian  Honorary Consulate  in Izmir                ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Izmir, Turkey</b><br/>1375 Sokak, No: 23/10, Konak<br/>Izmir<br/>Turkey<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-istanbul-turkey/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-adana-turkey/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-ankara-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-rotterdam-netherlands/" title="  Tunisian  Honorary Consulate  in Rotterdam  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Rotterdam, Netherlands</b><br/>Brielselaan, 85<br/>Havennummer 1359<br/>3081 BC Rotterdam<br/>Netherlands<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-the-hague-netherlands/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-tourist-visa/" target="_blank" title="Ghana Tourist (T)">Ghana Tourist (T)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-employment-visa/" target="_blank" title="Ghana Employment (E)">Ghana Employment (E)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-business-visa/" target="_blank" title="Ghana Business (B)">Ghana Business (B)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-study-visa-for-international-students/" target="_blank" title="Ghana Student (S)">Ghana Student (S)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/journalist-visa-for-ghana/" target="_blank" title="Ghana Journalists (J)">Ghana Journalists (J)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/ghana-diplomatic-visa/" target="_blank" title="Ghana Diplomatic (D)">Ghana Diplomatic (D)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/apply-for-ghana-evisa/" target="_blank" title="How To Apply For A Ghana eVisa?">How To Apply for A Ghana eVisa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a href="https://ghana-e-visa.com/who-needs-visa-for-ghana/" target="_blank" title="Who Needs A Visa For Ghana?">Who Needs A Visa for Ghana?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/ghanaian-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-sydney-australia/" title="  Tunisian  Honorary Consulate  in Sydney  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Sydney, Australia</b><br/>27 Monro Avenue<br/>Sydney, NSW 2232<br/>Australia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-brisbane-australia/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-brisbane-australia/" title="  Tunisian  Honorary Consulate  in Brisbane  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Brisbane, Australia</b><br/>174 Saraband Drive<br/>Eatons Hill, QLD 4037<br/>Australia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-sydney-australia/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-canberra-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-ottawa-canada/" title="   Tunisian   Embassy  in Ottawa   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Ottawa, Canada</b><br/>515 O'Connor Street<br/>Ottawa, ON K1S 3P8<br/>Canada<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-montreal-canada/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-vancouver-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-vancouver-canada/" title="   Tunisian  Honorary Consulate  in Vancouver   ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Vancouver, Canada</b><br/>885 West Georgia Street, Suite 800<br/>Vancouver, BC V6C 3H1<br/>Canada<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-montreal-canada/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-ankara-turkey/" title="                Tunisian   Embassy  in Ankara                ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Ankara, Turkey</b><br/>Diplomatik Site<br/>Ferit Recai Ertugrul cad. No: 19<br/>Oran<br/>Ankara<br/>Turkey<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-istanbul-turkey/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-adana-turkey/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-izmir-turkey/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-yogyakarta-indonesia/" title="  Tunisian  Honorary Consulate  in Yogyakarta  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Yogyakarta, Indonesia</b><br/>Jalan Mawar 12, Baciro<br/>Yogyakarta - 55225<br/>Indonesia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-denpasar-indonesia/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-jakarta-indonesia/
+
+[Line with Issue]:
+<a href="/community/is-nigerians-given-a-free-visa-to-tunisha/">Is Nigerians given a free visa to tunisha?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/ask-community/
+
+[Line with Issue]:
+<a href="/community/do-i-must-attend-by-myself-/">Do I must attend by myself ?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/ask-community/
+
+[Line with Issue]:
+<a href="/community/i-have-uk-travel-document-i-need-visa-to-go-holiday-to-tunisia-from-uk/">I have UK travel document. I need visa to go holiday to tunisia from UK.</a>
+[⚠️] Anchor text ends with punctuation: '.'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/ask-community/
+
+[Line with Issue]:
+<a href="https://tunisia-e-visa.com/tunisia-visa-policy/"><strong>Tunisia visa policy</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/residents-work-permits-in-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-grenoble-france/" title="      Tunisian   Consulate  in Grenoble      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Grenoble, France</b><br/>4, Rue Alexandre 1er de Yougoslavie<br/>38000 Grenoble<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-marseille-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-nice-france/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-strasbourg-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-lille-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-lyon-france/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-toulouse-france/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-paris-france/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-jeddah-saudi-arabia/" title="      Tunisian   Consulate General  in Jeddah      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate General  in Jeddah, Saudi Arabia</b><br/>Aziz Dhia Street<br/>Al Rawdhah District 2<br/>P.O. Box 14293<br/>Jeddah 21424<br/>Saudi Arabia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-riyadh-saudi-arabia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-karachi-pakistan/" title="  Tunisian  Honorary Consulate  in Karachi  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Karachi, Pakistan</b><br/>301, 3rd floor, Standard Insurance House<br/>I.I Chandrigar Road<br/>Karachi<br/>Pakistan<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-lahore-pakistan/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-islamabad-pakistan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-lahore-pakistan/" title="  Tunisian  Honorary Consulate  in Lahore  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Lahore, Pakistan</b><br/>38, Empress Road<br/>Lahore<br/>Pakistan<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-karachi-pakistan/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-islamabad-pakistan/
+
+[Line with Issue]:
+<a href="https://chile-evisa.com/who-needs-chile-visa/" target="_blank" title="Who Needs a Chile Visa?">Who Needs a Chile Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/chilean-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/danish-honorary-consulate-general-in-tunis-tunisia/" title="  Danish  Honorary Consulate General  in Tunis  ">
+<p style="margin-bottom:6px;"> <b>Danish  Honorary Consulate General  in Tunis, Tunisia</b><br/>17, rue Habib Chatti<br/>Residence Les Jasmins, Bloc G, 2ÃƒÂ¨me etage, app. nÃ‚Â°9<br/>En face de la Clinique El Manar<br/>2092 El Manar I<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/danish-honorary-vice-consulate-in-sfax-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/" title="    Tunisian   Embassy  in Vienna    ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Vienna, Austria</b><br/>Sieveringerstrasse 187<br/>1190 Wien<br/>Austria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/" title="    Tunisian  Honorary Consulate  in Eisenstadt    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Eisenstadt, Austria</b><br/>Hauptstrasse 40<br/>7000 Eisenstadt<br/>Austria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/" title="    Tunisian  Honorary Consulate  in Linz    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Linz, Austria</b><br/>Hochleitner RechtsanwÃƒÂ¤lte GmbH<br/>HornauerstraÃƒÅ¸e 2<br/>4020 Linz<br/>Austria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/" title="    Tunisian  Honorary Consulate  in Salzburg    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Salzburg, Austria</b><br/>Sterneckstrasse 55<br/>5020 Salzburg<br/>Austria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-hamburg-germany/" title="   Consulate of Tunisia in Hamburg   ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Hamburg, Germany</b><br/>Lubecker Strasse 1 22087 Hamburg, Germany   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-bonn-germany/
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-in-munich-germany/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-consulate-in-munich-germany/" title="   Tunisian   Consulate  in Munich   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Munich, Germany</b><br/>Wolfratshauser str. 84<br/>81379 MÃƒÂ¼nchen<br/>Germany<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-bonn-germany/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-hamburg-germany/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-berlin-germany/" title="   Tunisian   Embassy  in Berlin   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Berlin, Germany</b><br/>Lindenallee 16<br/>14050 Berlin<br/>Germany<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-bonn-germany/
+ - https://tunisia-e-visa.com/consulate/tunisia-in-hamburg-germany/
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-in-munich-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisia-in-london-united-kingdom/" title="   Embassy of the Republic of Tunisia in London   ">
+<p style="margin-bottom:6px;"> <b>Embassy of the Republic of Tunisia in London, United Kingdom</b><br/>29 Princes Gate<br/>London SW7 1QG   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-glasgow-united-kingdom/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-liverpool-united-kingdom/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-reading-united-kingdom/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-glasgow-united-kingdom/" title="   Tunisian  Honorary Consulate  in Glasgow   ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Glasgow, United Kingdom</b><br/>Yewtree House Braehead Road Thorntonhall<br/>Glasgow G74 5AQ<br/>United Kingdom<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-liverpool-united-kingdom/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-reading-united-kingdom/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-london-united-kingdom/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-reading-united-kingdom/" title="   Tunisian  Honorary Consulate  in Reading   ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Reading, United Kingdom</b><br/>Byways, 57 Canterbury Road<br/>Farnborough<br/>United Kingdom<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-glasgow-united-kingdom/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-liverpool-united-kingdom/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-london-united-kingdom/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-bergen-norway/" title="  Tunisian  Honorary Consulate  in Bergen  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Bergen, Norway</b><br/>Klosteret 8<br/>5005 Bergen<br/>Norway<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-oslo-norway/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-helsinki-finland/" title="  Tunisian   Embassy  in Helsinki  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Helsinki, Finland</b><br/>Rauhankatu 1 B 17<br/>00170 Helsinki<br/>Finland<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-tampere-finland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-porto-alegre-brazil/" title="     Tunisian  Honorary Consulate  in Porto Alegre     ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Porto Alegre, Brazil</b><br/>Rua dos Andradas, nÃ‚Â° 1121- 12th floor, Centro<br/>90020-007 Porto Alegre - RS<br/>Brazil<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-sao-paulo-brazil/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-brasilia-brazil/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-sao-paulo-brazil/" title="     Tunisian  Honorary Consulate  in Sao Paulo     ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Sao Paulo, Brazil</b><br/>Av. Engenheiro Luis Carlo Berrini, nÃ‚Â°1748, conj. 1601<br/>04571-000 Sao Paulo - SP<br/>Brazil<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-porto-alegre-brazil/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-brasilia-brazil/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/danish-honorary-vice-consulate-in-sfax-tunisia/" title="  Danish  Honorary Vice Consulate  in Sfax  ">
+<p style="margin-bottom:6px;"> <b>Danish  Honorary Vice Consulate  in Sfax, Tunisia</b><br/>Rue Habib Thameur<br/>Immeuble Al Manar<br/>Escalier A Bureau No. A 15, 2nd floor<br/>3000 Sfax<br/>Tunisia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/danish-honorary-consulate-general-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-liverpool-united-kingdom/" title="   Tunisian  Honorary Consulate  in Liverpool   ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Liverpool, United Kingdom</b><br/>27 Beach Priory Gardens<br/>Southport PR8 2SA<br/>United Kingdom<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-glasgow-united-kingdom/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-reading-united-kingdom/
+ - https://tunisia-e-visa.com/embassy/tunisia-in-london-united-kingdom/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-abu-dhabi-united-arab-emirates/" title="  Tunisian   Embassy  in Abu Dhabi  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Abu Dhabi, United Arab Emirates</b><br/>Avenue Corniche, villa nÃ‚Â°A11<br/>B.P. 4166<br/>Al Khalidia<br/>Abu Dhabi<br/>United Arab Emirates<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-in-dubai-united-arab-emirates/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-bucharest-romania/" title="    Tunisian   Embassy  in Bucharest    ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Bucharest, Romania</b><br/>Str. Clucerului no. 48<br/>Sector 1<br/>Bucuresti<br/>Romania<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-timisoara-romania/
+
+[Line with Issue]:
+<a href="https://malaysia-e-visa.com/do-i-need-malaysia-visa/" target="_blank" title="Who Needs a Malaysia Visa?">Who Needs a Malaysia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/malaysian-honorary-consulate-in-tunis-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/switzerland-in-tunis-tunisia/" title="  Embassy of Switzerland in Tunis   ">
+<p style="margin-bottom:6px;"> <b>Embassy of Switzerland in Tunis , Tunisia</b><br/>Av. de la Bourse Jardin du Lac 2<br/>Zone V Les Berges du Lac 2<br/>Tunis Tunisia  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/swiss-honorary-consulate-in-djerba-tunisia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisia-in-bonn-germany/" title="   Consulate of Tunisia in Bonn   ">
+<p style="margin-bottom:6px;"> <b>Consulate of Tunisia in Bonn, Germany</b><br/>Godesberger Allee 103 53175 Bonn, Germany   </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisia-in-hamburg-germany/
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-in-munich-germany/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-islamabad-pakistan/" title="  Tunisian   Embassy  in Islamabad  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Islamabad, Pakistan</b><br/>House 221 Street NÃ‚Â° 21, E-7<br/>P. O. Box 1913<br/>Islamabad<br/>Pakistan<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-karachi-pakistan/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-lahore-pakistan/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-riyadh-saudi-arabia/" title="      Tunisian   Embassy  in Riyadh      ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Riyadh, Saudi Arabia</b><br/>Quartier Diplomatique<br/>P.O. Box 94-368<br/>Riyadh 11693<br/>Saudi Arabia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-consulate-general-in-jeddah-saudi-arabia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-graz-austria/" title="    Tunisian  Honorary Consulate  in Graz    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Graz, Austria</b><br/>Heinrichstrasse 97<br/>8010 Graz<br/>Austria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-eisenstadt-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-linz-austria/
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-salzburg-austria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-vienna-austria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-brasilia-brazil/" title="     Tunisian   Embassy  in Brasilia     ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Brasilia, Brazil</b><br/>SHIS QI 11 conjunto 6 casa 6
+<br/>Lago Sul<br/>71625-260 BrasÃƒÂ­lia - DF<br/>Brazil<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-porto-alegre-brazil/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-sao-paulo-brazil/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-oslo-norway/" title="  Tunisian   Embassy  in Oslo  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Oslo, Norway</b><br/>Drammensveien 82C<br/> PO Box 4066 AMB<br/>0271 Oslo<br/>Norway<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-bergen-norway/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-in-tampere-finland/" title="  Tunisian  Honorary Consulate  in Tampere  ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Tampere, Finland</b><br/>Raudikonkatu 16<br/>33580 Tampere<br/>Finland<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-in-helsinki-finland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-consulate-in-dubai-united-arab-emirates/" title="  Tunisian   Consulate  in Dubai  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Dubai, United Arab Emirates</b><br/>Al Bustan Center BLDG nÃ‚Â°6, 4th Floor<br/>Al Qusais<br/>Dubai<br/>United Arab Emirates<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-abu-dhabi-united-arab-emirates/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-miami-united-states-of-america/" title="    Tunisian  Honorary Consulate  in Miami    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Miami, United States</b><br/>American Central Insurance Agency, Inc, 1236<br/>Miami, FL 33145-2923<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-dallas-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-washington-united-states-of-america/
+ - https://tunisia-e-visa.com/embassy/tunisian-representative-office-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-montreal-canada/" title="   Tunisian   Consulate  in Montreal   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Montreal, Canada</b><br/>1255 University Street, Suite 300<br/>Montreal, QC H3B 2B4<br/>Canada<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-vancouver-canada/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-in-annaba-algeria/" title="   Tunisian   Consulate  in Annaba   ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Consulate  in Annaba, Algeria</b><br/>23, Avenue 28 Janvier 1957<br/>Saint Therese<br/>23000 Annaba<br/>Algeria<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-in-tebessa-algeria/
+ - https://tunisia-e-visa.com/embassy/tunisian-in-algiers-algeria/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-porto-portugal/" title="   Tunisian  Honorary Consulate  in Porto   ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Porto, Portugal</b><br/>Rua Rainha D. EstefÃƒÂ¢nia 246<br/>4150-303 Porto<br/>Portugal<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-lisbon-portugal/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-in-canberra-australia/" title="  Tunisian   Embassy  in Canberra  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in Canberra, Australia</b><br/>3 Callemonda Rise<br/>O'Malley, ACT 2606<br/>Australia<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-in-sydney-australia/
+ - https://tunisia-e-visa.com/consulate/tunisian-in-brisbane-australia/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/embassy/tunisian-embassy-in-the-hague-netherlands/" title="  Tunisian   Embassy  in The Hague  ">
+<p style="margin-bottom:6px;"> <b>Tunisian   Embassy  in The Hague, Netherlands</b><br/>Gentsestraat 98<br/>2587 HX 'S-Gravenhage<br/>Netherlands<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-rotterdam-netherlands/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://tunisia-e-visa.com/consulate/tunisian-honorary-consulate-in-timisoara-romania/" title="    Tunisian  Honorary Consulate  in Timisoara    ">
+<p style="margin-bottom:6px;"> <b>Tunisian  Honorary Consulate  in Timisoara, Romania</b><br/>Str. Mures, no. 116A<br/>Timisoara<br/>Romania<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://tunisia-e-visa.com/embassy/tunisian-embassy-in-bucharest-romania/
+

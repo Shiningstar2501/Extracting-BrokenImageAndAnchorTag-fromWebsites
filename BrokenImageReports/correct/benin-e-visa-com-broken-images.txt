@@ -1,0 +1,7 @@
+[Scanning Images for] https://benin-e-visa.com/
+
+
+[Website]: https://benin-e-visa.com
+[Page]: https://benin-e-visa.com/best-placesto-visit-in-benin/
+[Line with Issue]:
+ - Encoded URL Detected: https://benin-e-visa.com/images/ganvi%C3%A9-the-enchanting-lake-village.png

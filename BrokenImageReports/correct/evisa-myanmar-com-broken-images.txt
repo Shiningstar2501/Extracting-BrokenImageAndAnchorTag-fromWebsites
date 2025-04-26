@@ -1,0 +1,15 @@
+[Scanning Images for] https://evisa-myanmar.com/
+
+[Failed to load]: https://evisa-myanmar.com/cookies-policy/
+ - Broken Image: https://evisa-myanmar.comwp-content/themes/myanmarevisa/images/ajax-loader_small2.gif (Exception: HTTPSConnectionPool(host='evisa-myanmar.comwp-content', port=443): Max retries exceeded with url: /themes/myanmarevisa/images/ajax-loader_small2.gif (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029BA06B4950>: Failed to resolve 'evisa-myanmar.comwp-content' ([Errno 11001] getaddrinfo failed)")))
+
+[Website]: https://evisa-myanmar.com
+[Page]: https://evisa-myanmar.com/guide-for-myanmar-business-visa-application-form/
+[Line with Issue]:
+ - Encoded URL Detected: https://evisa-myanmar.com/images/image/term%26cond.png
+
+[Website]: https://evisa-myanmar.com
+[Page]: https://evisa-myanmar.com/guide-for-myanmar-business-visa-application-form/
+[Line with Issue]:
+ - Encoded URL Detected: https://evisa-myanmar.com/images/image/term%26cond.webp
+[Failed to load]: https://evisa-myanmar.com/cdn-cgi/l/email-protection

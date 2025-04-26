@@ -1,0 +1,74 @@
+[Unique Anchor Issues for Website]: https://e-visa-cambodia.com/
+
+[Line with Issue]:
+<a class="navbar-brand mx-2 text-center" href="https://e-visa-cambodia.com" style="    width: 150px;">
+<picture>
+<source srcset="https://e-visa-cambodia.com/images/logo.webp" type="image/webp"/>
+<img alt="logo" height="70" id="logo-img" src="https://e-visa-cambodia.com/images/logo.png" style="width: auto; height:52px;" title="Home" width="127"/>
+</picture>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://e-visa-cambodia.com/
+
+[Line with Issue]:
+<a class="text-white mb-2 d-flex" href="https://e-visa-cambodia.com/how-to-apply-for-cambodia-visa/" title="How to Apply for a Cambodia Visa?"><i class="fa fa-caret-right mr-2"></i>How to Apply for a
+               Cambodia Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://e-visa-cambodia.com
+ - https://e-visa-cambodia.com/
+ - https://e-visa-cambodia.com/affordable-destinations-ideal-for-digital-nomads/
+ - https://e-visa-cambodia.com/application
+ - https://e-visa-cambodia.com/application/
+ - https://e-visa-cambodia.com/budget-travel-in-india-making-the-most-of-your-rupees/
+ - https://e-visa-cambodia.com/cambodia-business-evisa/
+ - https://e-visa-cambodia.com/cambodia-diplomatic-visa/
+ - https://e-visa-cambodia.com/cambodia-eases-travel-restrictions-evisa-fees-cut-effective-january-1-2025/
+ - https://e-visa-cambodia.com/cambodia-evisa-vs-embassy-visa/
+ - https://e-visa-cambodia.com/cambodia-evisa/
+ - https://e-visa-cambodia.com/cambodia-general-evisa/
+ - https://e-visa-cambodia.com/cambodia-meeting-evisa/
+ - https://e-visa-cambodia.com/cambodia-ordinary-evisa/
+ - https://e-visa-cambodia.com/cambodia-project-evisa/
+ - https://e-visa-cambodia.com/cambodia-retired-evisa/
+ - https://e-visa-cambodia.com/cambodia-student-evisa/
+ - https://e-visa-cambodia.com/cambodia-technical-evisa/
+ - https://e-visa-cambodia.com/cambodia-tourist-evisa/
+ - https://e-visa-cambodia.com/cambodia-visa-application-process/
+ - https://e-visa-cambodia.com/cambodia-visa-extension/
+ - https://e-visa-cambodia.com/cambodia-visa-fees/
+ - https://e-visa-cambodia.com/cambodia-visa-on-arrival/
+ - https://e-visa-cambodia.com/cambodia-visa-photo-requirements/
+ - https://e-visa-cambodia.com/cambodia-visa-policy/
+ - https://e-visa-cambodia.com/cambodia-visa-requirements/
+ - https://e-visa-cambodia.com/cambodia-visa-through-embassy/
+ - https://e-visa-cambodia.com/cambodia-visa-types/
+ - https://e-visa-cambodia.com/contact-us/
+ - https://e-visa-cambodia.com/embrace-nomadic-life/
+ - https://e-visa-cambodia.com/how-to-apply-for-cambodia-visa/
+ - https://e-visa-cambodia.com/india-visa-for-cambodia/
+ - https://e-visa-cambodia.com/privacy-policy/
+ - https://e-visa-cambodia.com/term-and-condition/
+ - https://e-visa-cambodia.com/turkey-visa-for-cambodia/
+
+[Line with Issue]:
+<a href="https://e-visa-cambodia.com/blogs/" style="color:#000;"> Blogs</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://e-visa-cambodia.com/affordable-destinations-ideal-for-digital-nomads/
+ - https://e-visa-cambodia.com/budget-travel-in-india-making-the-most-of-your-rupees/
+ - https://e-visa-cambodia.com/cambodia-eases-travel-restrictions-evisa-fees-cut-effective-january-1-2025/
+ - https://e-visa-cambodia.com/cambodia-evisa/
+ - https://e-visa-cambodia.com/embrace-nomadic-life/
+ - https://e-visa-cambodia.com/india-visa-for-cambodia/
+ - https://e-visa-cambodia.com/turkey-visa-for-cambodia/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://e-visa-cambodia.com/india-visa-for-cambodia/
+

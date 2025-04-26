@@ -1,0 +1,12 @@
+[Scanning Images for] https://online.djibouti-evisa.com/
+
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/must-see-attractions-in-djibouti/
+[Line with Issue]:
+ - Encoded URL Detected: https://djibouti-evisa.com/images/lac-abb%C3%A9.png
+
+[Website]: https://online.djibouti-evisa.com
+[Page]: https://online.djibouti-evisa.com/must-see-attractions-in-djibouti/
+[Line with Issue]:
+ - Encoded URL Detected: https://online.djibouti-evisa.com/images/lac-abb%C3%A9.webp

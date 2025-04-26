@@ -1,0 +1,234 @@
+﻿[Unique Anchor Issues for Website]: https://benin-e-visa.com/
+
+
+
+
+
+
+[Line with Issue]:
+<a class="nav-item nav-link line" href="https://benin-e-visa.com/application/" title="Apply eVisa ">Apply eVisa </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/"><strong>Benin E-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com
+
+
+ - https://benin-e-visa.com/
+ - https://benin-e-visa.com/apply-evisa-from-korea-republic-of-south/
+ - https://benin-e-visa.com/benin-30-day-single-entry-e-visa/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>apply for Benin e-Visa</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com
+
+
+ - https://benin-e-visa.com/
+ - https://benin-e-visa.com/apply-evisa-from-korea-republic-of-south/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Apply for Benin e-Visa e-Visa</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-business-e-visa/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin E-Visa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-90-day-multiple-entry-visa/
+ 
+***************************************************
+[Line with Issue]:
+<a href="https://benin-e-visa.com"><strong>Benin electronic visa</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-tourist-e-visa/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin eVisa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-tourist-e-visa/
+
+
+[Line with Issue]:
+<a class="btn btn-primary" href="https://benin-e-visa.com/application/">
+                      Get Your Benin eVisa</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/9-must-try-dishes-of-benin/
+
+
+ - https://benin-e-visa.com/9-unmissable-benin-places-to-visit-experience/
+ - https://benin-e-visa.com/benin-bahamas-abolish-visa-requirements-for-each-other-citizens/
+ - https://benin-e-visa.com/benin-e-visa-for-us-citizens/
+ - https://benin-e-visa.com/benin-new-nationality-law-for-african-descendants/
+ - https://benin-e-visa.com/benin-proposes-citizenship-law-for-afro-descendants/
+ - https://benin-e-visa.com/benin-top-8-unforgettable-experiences-you-can-not-miss/
+ - https://benin-e-visa.com/benin-travel-advice/
+ - https://benin-e-visa.com/benin-voodoo-festival-transforms-into-vodun-days-to-woo-tourists/
+ - https://benin-e-visa.com/best-placesto-visit-in-benin/
+ - https://benin-e-visa.com/india-visa-for-benin-citizens/
+ - https://benin-e-visa.com/language-and-currency-of-benin/
+ - https://benin-e-visa.com/top-popular-cities-in-benin/
+ - https://benin-e-visa.com/traditional-music-and-festivals-in-benin/
+ - https://benin-e-visa.com/traditions-and-culture-in-benin/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin Visa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/how-to-get-benin-visa/
+
+
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Benin E-Visa application form</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-30-day-single-entry-e-visa/
+
+
+[Line with Issue]:
+<a href="https://benin-e-visa.com/application/"><strong>Apply for Benin e-Visa</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/benin-evisa-for-brazil-citizens/
+
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/"><strong>e-visa to India</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/india-visa-for-benin-citizens/
+
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/apply-visa/"><strong>Indian visa application form</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/india-visa-for-benin-citizens/
+
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>Indian visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://benin-e-visa.com/india-visa-for-benin-citizens/
+
+
+PS C:\Users\Intel\Desktop\ANUSHKA\Python Projects\Broken Links and Anchor tag>
+
+
+
+
+
+
+
+
+
+
+
+
+[Line with Issue]:
+<a class="text-white for-hover mb-2" href="https://zimbabwe-visa.com/zimbabwe-e-visa-for-qatar/" title="Zimbabwe e-Visa For Qatar">Zimbabwe e-Visa For Qatar </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://zimbabwe-visa.com/
+
+
+
+
+
+
+[Line with Issue]:
+<a href="https://zambia-visa.com/application/"><strong>Apply now </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://zambia-visa.com/zambia-evisa-for-egypt/
+
+
+
+
+
+
+[Line with Issue]:
+<a href="https://zambia-visa.com/zambia-residence-permit/"><strong>Zambia residence permit </strong></a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://zambia-visa.com/zambia-evisa-for-colombia/
+
+
+
+
+[Line with Issue]:
+<a href="https://e-visa-turkish.com/turkey-residence-permit/" rel="noreferrer" style="text-decoration:none;" target="_blank">Turkey Residence Permit </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://japanevisa.net/other-country-information/
+
+
+[Line with Issue]:
+<a href="https://e-visa-turkish.com/form-for-entry-to-turkey/" rel="noreferrer" style="text-decoration:none;" target="_blank">Form for Entry to Turkey </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://japanevisa.net/other-country-information/
+
+
+
+
+https://japanevisa.net/embassy-and-consulate-in-japan/ in this page all <a>  tags contain space after starting <a> tag or before closing <a> tag
+Same when we click on any embassy or consulate        
+
+
+
+
+[Line with Issue]:
+<a href="https://morocco-e-visas.com/blogs/"> Blogs</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://morocco-e-visas.com/best-cities-to-travel-in-morocco/
+
+
+
+
+
+
+[Line with Issue]:
+<a class="slide-btn-sm btn" href="https://morocco-e-visas.com/apply-evisa/" style="text-decoration: underline;">
+                           Visa for Morocco</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://morocco-e-visas.com/best-cities-to-travel-in-morocco/
+
+
+
+
+
+
+
+
+[Line with Issue]:
+<a class="slide-btn-sm btn" href="https://online.djibouti-evisa.com/apply-evisa/" style="text-decoration: none;color: #4d4cbd;box-shadow: 0px 5px 3px #47c7cd;font-weight: 500;">
+                           Get a visa for Djibouti</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://online.djibouti-evisa.com/10-best-places-to-visit-in-djibouti/

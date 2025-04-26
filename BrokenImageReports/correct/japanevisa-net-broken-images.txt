@@ -1,0 +1,42 @@
+[Scanning Images for] https://japanevisa.net/
+
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/packing-tips-for-japan-evisa-holders/
+[Line with Issue]:
+ - Broken Image: https://japanevisa.net/images/warm-and-cold-weather-clothings.png --> 404
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/all-eligible-country-for-japan-visa/
+[Line with Issue]:
+ - Broken Image: https://japanevisa.net/images/japan-evisa-application-overview.jpg --> 404
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/japan-visa-document-requirements/
+[Line with Issue]:
+ - Encoded URL Detected: https://japanevisa.net/images/ERFS%20certificate_page-0001.jpg
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/japan-visa-document-requirements/
+[Line with Issue]:
+ - Encoded URL Detected: https://japanevisa.net/images/ERFS%20certificate_page-0001.webp
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/japan-evisa-for-south-african-citizens/
+[Line with Issue]:
+ - Broken Image: https://japanevisa.net/images/working-in-japan.png --> 404
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/blog/travel-restrictions-and-regulations-for-japan-evisa-holders/
+[Line with Issue]:
+ - Encoded URL Detected: https://japanevisa.net/images/doctor-checking-patient%27s-blood-pressure.png
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/blog/travel-restrictions-and-regulations-for-japan-evisa-holders/
+[Line with Issue]:
+ - Encoded URL Detected: https://japanevisa.net/images/doctor-checking-patient%27s-blood-pressure.webp
+
+[Website]: https://japanevisa.net
+[Page]: https://japanevisa.net/embassy/japanese-embassy-in-nuku'alofa-tonga/
+[Line with Issue]:
+ - Encoded URL Detected: https://japanevisa.net/embassy/japanese-embassy-in-nuku%27alofa-tonga/

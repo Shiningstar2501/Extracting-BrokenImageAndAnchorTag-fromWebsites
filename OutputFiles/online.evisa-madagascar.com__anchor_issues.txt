@@ -1,0 +1,1763 @@
+[Unique Anchor Issues for Website]: https://online.evisa-madagascar.com/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/
+
+[Line with Issue]:
+<a href="/apply-evisa-from-vatican-city-holy-see/"><span class="flag flag-va"></span> Vatican City (Holy See)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/madagascar-evisa-fee-and-processing-time/"><strong>Madagascar e-Visa fee</strong></a>
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/" target="_blank">https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/</a>
+[⚠️] Anchor text ends with punctuation: '/'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/apply-evisa-from-abkhazia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-aland-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-albania/
+ - https://online.evisa-madagascar.com/apply-evisa-from-algeria/
+ - https://online.evisa-madagascar.com/apply-evisa-from-american-samoa/
+ - https://online.evisa-madagascar.com/apply-evisa-from-andorra/
+ - https://online.evisa-madagascar.com/apply-evisa-from-angola/
+ - https://online.evisa-madagascar.com/apply-evisa-from-anguilla/
+ - https://online.evisa-madagascar.com/apply-evisa-from-antarctica/
+ - https://online.evisa-madagascar.com/apply-evisa-from-antigua-and-barbuda/
+ - https://online.evisa-madagascar.com/apply-evisa-from-argentina/
+ - https://online.evisa-madagascar.com/apply-evisa-from-armenia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-aruba/
+ - https://online.evisa-madagascar.com/apply-evisa-from-australia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-austria/
+ - https://online.evisa-madagascar.com/apply-evisa-from-azerbaijan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bahamas/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bahrain/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bangladesh/
+ - https://online.evisa-madagascar.com/apply-evisa-from-barbados/
+ - https://online.evisa-madagascar.com/apply-evisa-from-belarus/
+ - https://online.evisa-madagascar.com/apply-evisa-from-belgium/
+ - https://online.evisa-madagascar.com/apply-evisa-from-belize/
+ - https://online.evisa-madagascar.com/apply-evisa-from-benin/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bermuda/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bhutan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bolivia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bonaire/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bosnia-and-herzegovina/
+ - https://online.evisa-madagascar.com/apply-evisa-from-botswana/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bouvet-island/
+ - https://online.evisa-madagascar.com/apply-evisa-from-brazil/
+ - https://online.evisa-madagascar.com/apply-evisa-from-british-indian-ocean-territory/
+ - https://online.evisa-madagascar.com/apply-evisa-from-british-virgin-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-brunei/
+ - https://online.evisa-madagascar.com/apply-evisa-from-bulgaria/
+ - https://online.evisa-madagascar.com/apply-evisa-from-burkina-faso/
+ - https://online.evisa-madagascar.com/apply-evisa-from-burundi/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cambodia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cameroon/
+ - https://online.evisa-madagascar.com/apply-evisa-from-canada/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cape-verde/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cayman-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-chile/
+ - https://online.evisa-madagascar.com/apply-evisa-from-china/
+ - https://online.evisa-madagascar.com/apply-evisa-from-christmas-island/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cocos-keeling-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-colombia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-comoros/
+ - https://online.evisa-madagascar.com/apply-evisa-from-congo-democratic-republic-of-the/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cook-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-costa-rica/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cote-divoire/
+ - https://online.evisa-madagascar.com/apply-evisa-from-croatia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-curacao/
+ - https://online.evisa-madagascar.com/apply-evisa-from-cyprus/
+ - https://online.evisa-madagascar.com/apply-evisa-from-czech-republic/
+ - https://online.evisa-madagascar.com/apply-evisa-from-denmark/
+ - https://online.evisa-madagascar.com/apply-evisa-from-djibouti/
+ - https://online.evisa-madagascar.com/apply-evisa-from-dominica/
+ - https://online.evisa-madagascar.com/apply-evisa-from-dominican-republic/
+ - https://online.evisa-madagascar.com/apply-evisa-from-ecuador/
+ - https://online.evisa-madagascar.com/apply-evisa-from-egypt/
+ - https://online.evisa-madagascar.com/apply-evisa-from-el-salvador/
+ - https://online.evisa-madagascar.com/apply-evisa-from-equatorial-guinea/
+ - https://online.evisa-madagascar.com/apply-evisa-from-estonia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-ethiopia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-falkland-islands-islas-malvinas/
+ - https://online.evisa-madagascar.com/apply-evisa-from-faroe-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-fiji/
+ - https://online.evisa-madagascar.com/apply-evisa-from-finland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-france/
+ - https://online.evisa-madagascar.com/apply-evisa-from-french-guiana/
+ - https://online.evisa-madagascar.com/apply-evisa-from-french-polynesia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-french-southern-territories/
+ - https://online.evisa-madagascar.com/apply-evisa-from-gabon/
+ - https://online.evisa-madagascar.com/apply-evisa-from-gambia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-georgia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-germany/
+ - https://online.evisa-madagascar.com/apply-evisa-from-ghana/
+ - https://online.evisa-madagascar.com/apply-evisa-from-gibraltar/
+ - https://online.evisa-madagascar.com/apply-evisa-from-greece/
+ - https://online.evisa-madagascar.com/apply-evisa-from-greenland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-grenada/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guadeloupe/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guam/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guatemala/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guernsey/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guinea-bissau/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guinea/
+ - https://online.evisa-madagascar.com/apply-evisa-from-guyana/
+ - https://online.evisa-madagascar.com/apply-evisa-from-haiti/
+ - https://online.evisa-madagascar.com/apply-evisa-from-heard-island-and-mcdonald-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-honduras/
+ - https://online.evisa-madagascar.com/apply-evisa-from-hong-kong/
+ - https://online.evisa-madagascar.com/apply-evisa-from-hungary/
+ - https://online.evisa-madagascar.com/apply-evisa-from-iceland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-india/
+ - https://online.evisa-madagascar.com/apply-evisa-from-indonesia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-ireland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-isle-of-man/
+ - https://online.evisa-madagascar.com/apply-evisa-from-israel/
+ - https://online.evisa-madagascar.com/apply-evisa-from-italy/
+ - https://online.evisa-madagascar.com/apply-evisa-from-jamaica/
+ - https://online.evisa-madagascar.com/apply-evisa-from-japan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-jersey/
+ - https://online.evisa-madagascar.com/apply-evisa-from-jordan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kazakhstan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kenya/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kiribati/
+ - https://online.evisa-madagascar.com/apply-evisa-from-korea-republic-of-south/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kosovo/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kuwait/
+ - https://online.evisa-madagascar.com/apply-evisa-from-kyrgyzstan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-laos/
+ - https://online.evisa-madagascar.com/apply-evisa-from-latvia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-lebanon/
+ - https://online.evisa-madagascar.com/apply-evisa-from-lesotho/
+ - https://online.evisa-madagascar.com/apply-evisa-from-liberia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-liechtenstein/
+ - https://online.evisa-madagascar.com/apply-evisa-from-lithuania/
+ - https://online.evisa-madagascar.com/apply-evisa-from-luxembourg/
+ - https://online.evisa-madagascar.com/apply-evisa-from-macau/
+ - https://online.evisa-madagascar.com/apply-evisa-from-macedonia-republic-of/
+ - https://online.evisa-madagascar.com/apply-evisa-from-malawi/
+ - https://online.evisa-madagascar.com/apply-evisa-from-malaysia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-maldives/
+ - https://online.evisa-madagascar.com/apply-evisa-from-malta/
+ - https://online.evisa-madagascar.com/apply-evisa-from-marshall-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-martinique/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mauritania/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mauritius/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mayotte/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mexico/
+ - https://online.evisa-madagascar.com/apply-evisa-from-micronesia-federated-states-of/
+ - https://online.evisa-madagascar.com/apply-evisa-from-moldova/
+ - https://online.evisa-madagascar.com/apply-evisa-from-monaco/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mongolia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-montenegro/
+ - https://online.evisa-madagascar.com/apply-evisa-from-montserrat/
+ - https://online.evisa-madagascar.com/apply-evisa-from-morocco/
+ - https://online.evisa-madagascar.com/apply-evisa-from-mozambique/
+ - https://online.evisa-madagascar.com/apply-evisa-from-myanmar/
+ - https://online.evisa-madagascar.com/apply-evisa-from-nagorno-karabakh/
+ - https://online.evisa-madagascar.com/apply-evisa-from-namibia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-nauru/
+ - https://online.evisa-madagascar.com/apply-evisa-from-nepal/
+ - https://online.evisa-madagascar.com/apply-evisa-from-netherlands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-new-caledonia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-new-zealand/
+ - https://online.evisa-madagascar.com/apply-evisa-from-nicaragua/
+ - https://online.evisa-madagascar.com/apply-evisa-from-niger/
+ - https://online.evisa-madagascar.com/apply-evisa-from-nigeria/
+ - https://online.evisa-madagascar.com/apply-evisa-from-niue/
+ - https://online.evisa-madagascar.com/apply-evisa-from-norfolk-island/
+ - https://online.evisa-madagascar.com/apply-evisa-from-northern-cyprus/
+ - https://online.evisa-madagascar.com/apply-evisa-from-northern-mariana-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-norway/
+ - https://online.evisa-madagascar.com/apply-evisa-from-oman/
+ - https://online.evisa-madagascar.com/apply-evisa-from-pakistan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-palau/
+ - https://online.evisa-madagascar.com/apply-evisa-from-panama/
+ - https://online.evisa-madagascar.com/apply-evisa-from-papua-new-guinea/
+ - https://online.evisa-madagascar.com/apply-evisa-from-paraguay/
+ - https://online.evisa-madagascar.com/apply-evisa-from-peru/
+ - https://online.evisa-madagascar.com/apply-evisa-from-philippines/
+ - https://online.evisa-madagascar.com/apply-evisa-from-pitcairn/
+ - https://online.evisa-madagascar.com/apply-evisa-from-poland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-portugal/
+ - https://online.evisa-madagascar.com/apply-evisa-from-puerto-rico/
+ - https://online.evisa-madagascar.com/apply-evisa-from-qatar/
+ - https://online.evisa-madagascar.com/apply-evisa-from-reunion/
+ - https://online.evisa-madagascar.com/apply-evisa-from-romania/
+ - https://online.evisa-madagascar.com/apply-evisa-from-russia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-rwanda/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sahrawi-arab-democratic-republic/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-barthelemy/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-helena-ascension-and-tristan-da-cunha/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-kitts-and-nevis/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-lucia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-martin/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-pierre-and-miquelon/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saint-vincent-and-the-grenadines/
+ - https://online.evisa-madagascar.com/apply-evisa-from-samoa/
+ - https://online.evisa-madagascar.com/apply-evisa-from-san-marino/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sao-tome-and-principe/
+ - https://online.evisa-madagascar.com/apply-evisa-from-saudi-arabia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-senegal/
+ - https://online.evisa-madagascar.com/apply-evisa-from-serbia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-seychelles/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sierra-leone/
+ - https://online.evisa-madagascar.com/apply-evisa-from-singapore/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sint-maarten/
+ - https://online.evisa-madagascar.com/apply-evisa-from-slovakia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-slovenia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-solomon-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-south-africa/
+ - https://online.evisa-madagascar.com/apply-evisa-from-south-georgia-and-the-south-sandwich-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-south-ossetia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-spain/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sri-lanka/
+ - https://online.evisa-madagascar.com/apply-evisa-from-suriname/
+ - https://online.evisa-madagascar.com/apply-evisa-from-svalbard-and-jan-mayen/
+ - https://online.evisa-madagascar.com/apply-evisa-from-swaziland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-sweden/
+ - https://online.evisa-madagascar.com/apply-evisa-from-switzerland/
+ - https://online.evisa-madagascar.com/apply-evisa-from-taiwan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tajikistan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tanzania/
+ - https://online.evisa-madagascar.com/apply-evisa-from-thailand/
+ - https://online.evisa-madagascar.com/apply-evisa-from-timor-leste/
+ - https://online.evisa-madagascar.com/apply-evisa-from-togo/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tokelau/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tonga/
+ - https://online.evisa-madagascar.com/apply-evisa-from-transnistria/
+ - https://online.evisa-madagascar.com/apply-evisa-from-trinidad-and-tobago/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tunisia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-turkey/
+ - https://online.evisa-madagascar.com/apply-evisa-from-turkmenistan/
+ - https://online.evisa-madagascar.com/apply-evisa-from-turks-and-caicos-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-tuvalu/
+ - https://online.evisa-madagascar.com/apply-evisa-from-uganda/
+ - https://online.evisa-madagascar.com/apply-evisa-from-united-arab-emirates/
+ - https://online.evisa-madagascar.com/apply-evisa-from-united-kingdom/
+ - https://online.evisa-madagascar.com/apply-evisa-from-united-states-minor-outlying-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-united-states-of-america/
+ - https://online.evisa-madagascar.com/apply-evisa-from-uruguay/
+ - https://online.evisa-madagascar.com/apply-evisa-from-us-virgin-islands/
+ - https://online.evisa-madagascar.com/apply-evisa-from-vanuatu/
+ - https://online.evisa-madagascar.com/apply-evisa-from-vatican-city-holy-see/
+ - https://online.evisa-madagascar.com/apply-evisa-from-vietnam/
+ - https://online.evisa-madagascar.com/apply-evisa-from-wallis-and-futuna/
+ - https://online.evisa-madagascar.com/apply-evisa-from-western-sahara/
+ - https://online.evisa-madagascar.com/apply-evisa-from-zambia/
+ - https://online.evisa-madagascar.com/apply-evisa-from-zimbabwe/
+ - https://online.evisa-madagascar.com/apply-evisa/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/madagascar-evisa-fee-and-processing-time/"><strong>Madagascar e-Visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/madagascar-visa-for-us-citizens/
+
+[Line with Issue]:
+<a class="btn btn-outline-success" href="https://api.whatsapp.com/send?phone=447915615533&amp;text=Hello! 👋" rel="nofollow" target="_blank">
+<i class="fa fa-whatsapp"></i>
+<span class="whtsp_no"></span>
+</a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/application-status/
+
+[Line with Issue]:
+<a class="btn btn-visa" href="https://online.evisa-madagascar.com/apply-evisa/">
+                           Apply Online</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/best-time-to-visit-madagascar/
+ - https://online.evisa-madagascar.com/culture-of-madagascar-a-rich-tapestry-of-tradition-and-diversity/
+ - https://online.evisa-madagascar.com/differences-between-passport-and-visa/
+ - https://online.evisa-madagascar.com/how-to-travel-around-madagascar/
+ - https://online.evisa-madagascar.com/india-visa-for-madagascar/
+ - https://online.evisa-madagascar.com/is-madagascar-safe-for-travel/
+ - https://online.evisa-madagascar.com/madagascar-awaits-experience-the-ultimate-adventure-in-nature-paradise/
+ - https://online.evisa-madagascar.com/madagascar-cuisine/
+ - https://online.evisa-madagascar.com/madagascar-ecotourism/
+ - https://online.evisa-madagascar.com/madagascar-for-families-best-activities-and-destinations-for-kids/
+ - https://online.evisa-madagascar.com/madagascar-shopper-guide-to-local-markets/
+ - https://online.evisa-madagascar.com/madagascar-top-13-natural-wildlife-havens/
+ - https://online.evisa-madagascar.com/madagascar-travel-tips/
+ - https://online.evisa-madagascar.com/passport-6-month-rule-for-madagascar-evisa/
+ - https://online.evisa-madagascar.com/solo-travel-in-madagascar/
+ - https://online.evisa-madagascar.com/street-foods-of-madagascar/
+ - https://online.evisa-madagascar.com/the-best-beaches-in-madagascar/
+ - https://online.evisa-madagascar.com/top-11-most-popular-foods-in-madagascar/
+ - https://online.evisa-madagascar.com/top-madagascar-sights-discover-unique-wildlife-landscapes/
+ - https://online.evisa-madagascar.com/top-sightseeing-destinations-to-explore-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/"><strong> Madagascar visa</strong></a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] No space or tag immediately before <a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/madagascar-work-visa/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-algiers-algeria/" style="color:#000;">Algeria -  Embassy of Madagascar in Algiers </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-in-brussels-belgium/" style="color:#000;">Belgium -  Madagascan   Embassy  in Brussels </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-ottawa-canada/" style="color:#000;">Canada -   Embassy of Madagascar in Ottawa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-in-beijing-china/" style="color:#000;">China -   Madagascan   Embassy  in Beijing  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-in-addis-ababa-ethiopia/" style="color:#000;">Ethiopia -   Madagascan   Embassy  in Addis Ababa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/" style="color:#000;">France -       Embassy of Madagascar in Paris      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-berlin-germany/" style="color:#000;">Germany -      Embassy of Madagascar in Berlin     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-new-delhi-india/" style="color:#000;">India -   Madagascan   Embassy  in New Delhi  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-rome-italy/" style="color:#000;">Italy -  Embassy of Madagascar in Rome </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-tokyo-japan/" style="color:#000;">Japan -    Embassy of Madagascar in Tokyo   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-port-louis-mauritius/" style="color:#000;">Mauritius -  Embassy of Madagascar in Port Louis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-moscow-russia/" style="color:#000;">Russia -    Embassy of Madagascar in Moscow   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-riyadh-saudi-arabia/" style="color:#000;">Saudi Arabia -    Madagascan   Embassy  in Riyadh   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-in-dakar-senegal/" style="color:#000;">Senegal -  Madagascan   Embassy  in Dakar </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-in-pretoria-south-africa/" style="color:#000;">South Africa -        Madagascan   Embassy  in Pretoria       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascar-in-london-united-kingdom/" style="color:#000;">United Kingdom -  Embassy of Madagascar in London </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-washington-united-states-of-america/" style="color:#000;">United States of America -    Madagascan   Embassy  in Washington   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-general-in-sydney-australia/" style="color:#000;">Australia -  Madagascan  Honorary Consulate General  in Sydney </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-vienna-austria/" style="color:#000;">Austria -  Madagascan  Honorary Consulate  in Vienna </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascar-in-calgary-canada/" style="color:#000;">Canada -   Honorary Consulate of Madagascar in Calgary  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascar-in-montreal-canada/" style="color:#000;">Canada -   Honorary Consulate of Madagascar in Montreal  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-quebec-canada/" style="color:#000;">Canada -   Madagascan  Honorary Consulate  in Quebec  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-moroni-comoros/" style="color:#000;">Comoros -  Madagascan  Honorary Consulate  in Moroni </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-copenhagen-denmark/" style="color:#000;">Denmark -  Madagascan  Honorary Consulate  in Copenhagen </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/" style="color:#000;">France -       Madagascan   Consulate General  in Marseille      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Amiens      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Bordeaux      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Le Havre      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Lyon      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Moulins      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/" style="color:#000;">France -       Madagascan  Honorary Consulate  in Nantes      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/" style="color:#000;">France -       Madagascan  Honorary Consulate General  in St. Etienne      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-libreville-gabon/" style="color:#000;">Gabon -  Madagascan  Honorary Consulate  in Libreville </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascar-in-hamburg-germany/" style="color:#000;">Germany -      Honorary Consulate of Madagascar in Hamburg     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascar-in-munich-germany/" style="color:#000;">Germany -      Honorary Consulate of Madagascar in Munich     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-dsseldorf-germany/" style="color:#000;">Germany -      Madagascan  Honorary Consulate  in DÃ¼sseldorf     </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-hong-kong-hong-kong/" style="color:#000;">Hong Kong -  Madagascan  Honorary Consulate  in Hong Kong </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-budapest-hungary/" style="color:#000;">Hungary -  Madagascan  Honorary Consulate  in Budapest </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-mumbai-india/" style="color:#000;">India -   Madagascan  Honorary Consulate General  in Mumbai  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-nairobi-kenya/" style="color:#000;">Kenya -   Madagascan  Honorary Consulate  in Nairobi  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-beirut-lebanon/" style="color:#000;">Lebanon -  Madagascan  Honorary Consulate  in Beirut </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-luxembourg-ville-luxembourg/" style="color:#000;">Luxembourg -  Madagascan  Honorary Consulate  in Luxembourg Ville </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-kuala-lumpur-malaysia/" style="color:#000;">Malaysia -  Madagascan  Honorary Consulate  in Kuala Lumpur </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascar-in-monaco/" style="color:#000;">Monaco -    Honorary Consulate of Madagascar in Monaco   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-casablanca-morocco/" style="color:#000;">Morocco -   Madagascan  Honorary Consulate  in Casablanca  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-maputo-mozambique/" style="color:#000;">Mozambique -  Madagascan  Honorary Consulate  in Maputo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-rotterdam-netherlands/" style="color:#000;">Netherlands -  Madagascan  Honorary Consulate  in Rotterdam </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-oslo-norway/" style="color:#000;">Norway -  Madagascan  Honorary Consulate General  in Oslo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-porto-portugal/" style="color:#000;">Portugal -  Madagascan  Honorary Consulate  in Porto </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-general-in-saint-denis-reunion/" style="color:#000;">Reunion -  Madagascan   Consulate General  in Saint-Denis </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-bucharest-romania/" style="color:#000;">Romania -       Madagascan  Honorary Consulate General  in Bucharest      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-singapore-singapore/" style="color:#000;">Singapore -  Madagascan  Honorary Consulate  in Singapore </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-in-cape-town-south-africa/" style="color:#000;">South Africa -        Madagascan   Consulate General  in Cape Town       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-durban-south-africa/" style="color:#000;">South Africa -        Madagascan  Honorary Consulate  in Durban       </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-barcelona-spain/" style="color:#000;">Spain -  Madagascan  Honorary Consulate  in Barcelona </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-colombo-sri-lanka/" style="color:#000;">Sri Lanka -  Madagascan  Honorary Consulate  in Colombo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-ystad-sweden/" style="color:#000;">Sweden -   Madagascan  Honorary Consulate  in Ystad  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-stockholm-sweden/" style="color:#000;">Sweden -   Madagascan  Honorary Consulate General  in Stockholm  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-geneva-switzerland/" style="color:#000;">Switzerland -     Madagascan   Consulate General  in Geneva    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-zurich-switzerland/" style="color:#000;">Switzerland -     Madagascan  Honorary Consulate General  in Zurich    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-bangkok-thailand/" style="color:#000;">Thailand -   Madagascan  Honorary Consulate  in Bangkok  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-istanbul-turkey/" style="color:#000;">Turkey -     Madagascan  Honorary Consulate  in Istanbul    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-new-york-united-states-of-america/" style="color:#000;">United States of America -    Madagascan   Consulate General  in New York   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-of-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascar-in-ottawa-canada/" id="Toproll" title="  Embassy of Madagascar in Ottawa  ">
+<p style="margin-bottom:6px;"> <b>Embassy of Madagascar in Ottawa, Canada</b><br/>209, Rue Catherine<br/>Ottawa<br/>Ontario K2P 2K9<br/>Canada  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-quebec-canada/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-calgary-canada/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-montreal-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascar-in-montreal-canada/" id="Toproll" title="  Honorary Consulate of Madagascar in Montreal  ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Madagascar in Montreal, Canada</b><br/>2160 rue de la Montagne, Bureau 330<br/>MontrÃ©al, QuÃ©bec H3G 2T3  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-quebec-canada/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-calgary-canada/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascar-in-calgary-canada/" id="Toproll" title="  Honorary Consulate of Madagascar in Calgary  ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Madagascar in Calgary, Canada</b><br/>8944 Bayridge Drive SW<br/>Calgary, Alberta T2V 3M8  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-quebec-canada/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-montreal-canada/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-ystad-sweden/" id="Toproll" title="  Madagascan  Honorary Consulate  in Ystad  ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Ystad, Sweden</b><br/>Krageholm<br/>271 96 Ystad<br/>Sweden<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-stockholm-sweden/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Amiens      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Amiens, France</b><br/>7, rue Duthoit<br/>80000 Amiens<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Bordeaux      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Bordeaux, France</b><br/>19, rue Thiac<br/>33000 Bordeaux<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Le Havre      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Le Havre, France</b><br/>71 rue Jules Siegfried<br/>76600 Le Havre<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Lyon      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Lyon, France</b><br/>c/o CCI Lyon MÃ©tropole<br/>3, place de la bourse<br/>69289 Lyon Cedex 02<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Moulins      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Moulins, France</b><br/>45, boulevard de Courtais<br/>03000 Moulins<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/" id="Toproll" title="      Embassy of Madagascar in Paris      ">
+<p style="margin-bottom:6px;"> <b>Embassy of Madagascar in Paris, France</b><br/>4 Avenue Raphael<br/>75016 Paris<br/>France      </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/" id="Toproll" title="      Madagascan  Honorary Consulate  in Nantes      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Nantes, France</b><br/>6 Place Sarradin<br/>44 000 Nantes<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/" id="Toproll" title="      Madagascan  Honorary Consulate General  in St. Etienne      ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate General  in St. Etienne, France</b><br/>7 Rue Claude Lebois<br/>42000 St. Etienne<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-new-delhi-india/" id="Toproll" title="  Madagascan   Embassy  in New Delhi  ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Embassy  in New Delhi, India</b><br/>Mayfair Gardens Hauz Khas, Ground Floor<br/>New Delhi - 110049<br/>India<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-mumbai-india/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-durban-south-africa/" id="Toproll" title="       Madagascan  Honorary Consulate  in Durban       ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Durban, South Africa</b><br/>P. O. Box 20554<br/>Durban North
+4016<br/>South Africa<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-cape-town-south-africa/
+ - https://online.evisa-madagascar.com/embassy/madagascan-in-pretoria-south-africa/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascan-in-pretoria-south-africa/" id="Toproll" title="       Madagascan   Embassy  in Pretoria       ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Embassy  in Pretoria, South Africa</b><br/>90 B Tait Street<br/>Colbyn<br/>P. O. Box 11722<br/>Queenswood, 0120<br/>Pretoria<br/>South Africa<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-durban-south-africa/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-cape-town-south-africa/
+
+[Line with Issue]:
+<a href="">
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/the-best-beaches-in-madagascar/
+ - https://online.evisa-madagascar.com/top-11-most-popular-foods-in-madagascar/
+ - https://online.evisa-madagascar.com/top-sightseeing-destinations-to-explore-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/algeria-in-antananarivo-madagascar/" style="color:#000;">Algeria -  Embassy of Algeria in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/chinese-embassy-in-antananarivo-madagascar/" style="color:#000;">China -   Chinese   Embassy  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/comoran-embassy-in-antananarivo-madagascar/" style="color:#000;">Comoros -   Comoran   Embassy  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/egyptian-in-antananarivo-madagascar/" style="color:#000;">Egypt -     Egyptian Embassy in Antananarivo    </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/" style="color:#000;">France -   French  Honorary Consular Agency  in Antsiranana  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/" style="color:#000;">France -   French  Honorary Consular Agency  in Morondava  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/german-in-antananarivo-madagascar/" style="color:#000;">Germany -  German   Embassy  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/indian-in-antananarivo-madagascar/" style="color:#000;">India -  Indian   Embassy  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/indonesia-in-antananarivo-madagascar/" style="color:#000;">Indonesia -  Embassy of Indonesia in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/italian-consular-agency-in-andoany-madagascar/" style="color:#000;">Italy -   Italian   Consular Agency  in Andoany  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/japanese-in-antananarivo-madagascar/" style="color:#000;">Japan -   Japanese   Embassy  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/mauritius-in-antananarivo-madagascar/" style="color:#000;">Mauritius -  Embassy of Mauritius in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/morocco-in-antananarivo-madagascar/" style="color:#000;">Morocco -    Embassy of Morocco in Antananarivo   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/norwegian-embassy-office-in-antananarivo-madagascar/" style="color:#000;">Norway -   Norwegian   Embassy Office  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/russia-in-antananarivo-madagascar/" style="color:#000;">Russia -    Embassy of Russia in Antananarivo   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/south-african-embassy-in-antananarivo-madagascar/" style="color:#000;">South Africa -   South African   Embassy  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/swiss-in-antananarivo-madagascar/" style="color:#000;">Switzerland -  Swiss   Embassy  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/turkish-in-antananarivo-madagascar/" style="color:#000;">Turkey -       Turkish   Embassy  in Antananarivo      </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/british-in-antananarivo-madagascar/" style="color:#000;">United Kingdom -    British   Embassy  in Antananarivo   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/american-embassy-in-antananarivo-madagascar/" style="color:#000;">United States of America -   American   Embassy in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/embassy/vatican-apostolic-nunciature-in-antananarivo-madagascar/" style="color:#000;">Vatican City (Holy See) -  Vatican   Apostolic Nunciature  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/austrian-in-antananarivo-madagascar/" style="color:#000;">Austria -  Austrian Consulate in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/belgium-in-antananarivo-madagascar/" style="color:#000;">Belgium -  Honorary Consulate of Belgium in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/canada-in-antananarivo-madagascar/" style="color:#000;">Canada -  Consulate of Canada in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/chinese-general-in-toamasina-madagascar/" style="color:#000;">China -   Chinese   Consulate General  in Toamasina  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/comoran-in-mahajanga-madagascar/" style="color:#000;">Comoros -   Comoran   Consulate  in Mahajanga  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/cyprus-in-antananarivo-madagascar/" style="color:#000;">Cyprus -  Honorary Consulate of the Republic of Cyprus in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/danish-in-antananarivo-madagascar/" style="color:#000;">Denmark -  Danish  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/finland-in-antananarivo-madagascar/" style="color:#000;">Finland -  Honorary Consulate of Finland in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/" style="color:#000;">France -   Consulate General of France in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Antsirabe  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Fianarantsoa  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Ile Sainte Marie  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Mahajanga  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Manakara  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Toamasina  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Tolanaro  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/" style="color:#000;">France -   French  Honorary Consulate  in Toliara  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/gabonese-in-antananarivo-madagascar/" style="color:#000;">Gabon -  Gabonese  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/greek-in-antananarivo-madagascar/" style="color:#000;">Greece -  Greek  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/guinean-in-antananarivo-madagascar/" style="color:#000;">Guinea -  Guinean  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/israeli-in-antananarivo-madagascar/" style="color:#000;">Israel -  Israeli  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/italian-in-antananarivo-madagascar/" style="color:#000;">Italy -   Italian  Honorary Consulate  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/maltese-in-antananarivo-madagascar/" style="color:#000;">Malta -  Maltese  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/monegasque-in-antananarivo-madagascar/" style="color:#000;">Monaco -  Monegasque  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/netherlands-in-antananarivo-madagascar/" style="color:#000;">Netherlands -  Consulate of Netherlands in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/nigerien-honorary-consulate-general-in-antananarivo-madagascar/" style="color:#000;">Niger -  Nigerien  Honorary Consulate General  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/norwegian-honorary-vice-consulate-in-toamasina-madagascar/" style="color:#000;">Norway -   Norwegian  Honorary Vice Consulate  in Toamasina  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/omani-in-antananarivo-madagascar/" style="color:#000;">Oman -  Omani  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/pakistan-in-antananarivo-madagascar/" style="color:#000;">Pakistan -  Consulate of Pakistan in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/polish-in-antananarivo-madagascar/" style="color:#000;">Poland -  Polish  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/portuguese-in-antananarivo-madagascar/" style="color:#000;">Portugal -  Portuguese  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/seychelles-in-antananarivo-madagascar/" style="color:#000;">Seychelles -  Seychelles Consulate in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/spanish-in-antananarivo-madagascar/" style="color:#000;">Spain -  Spanish  Honorary Consulate  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/swedish-general-in-antananarivo-madagascar/" style="color:#000;">Sweden -  Swedish  Honorary Consulate General  in Antananarivo </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/" style="color:#000;">Thailand -   Thai   Consulate General  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/tunisian-in-antananarivo-madagascar/" style="color:#000;">Tunisia -   Tunisian  Honorary Consulate  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/british-honorary-consulate-in-toamasina-madagascar/" style="color:#000;">United Kingdom -    British  Honorary Consulate  in Toamasina   </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/consulate/vietnamese-in-antananarivo-madagascar/" style="color:#000;">Vietnam -   Vietnamese  Honorary Consulate  in Antananarivo  </a>
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/emabssies-consulates-in-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/" id="Toproll" title="  Consulate General of France in Antananarivo  ">
+<p style="margin-bottom:6px;"> <b>Consulate General of France in Antananarivo, Madagascar</b><br/>3 rue Jean-Jaures - Ambatomena - Tananarive<br/>Adresse postale : BP 897 - Antananarivo 101  </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Antsirabe  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Antsirabe, Madagascar</b><br/>B. P. 59<br/>110 Antsirabe<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Fianarantsoa  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Fianarantsoa, Madagascar</b><br/>B.P. 1071<br/>301 Fianarantsoa<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Ile Sainte Marie  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Ile Sainte Marie, Madagascar</b><br/>B.P. 2<br/>Ile Sainte Marie<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Mahajanga  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Mahajanga, Madagascar</b><br/>Rue Edouard VII<br/>B.P. 236<br/>Mahajanga 401<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Manakara  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Manakara, Madagascar</b><br/>Villa Norbertine<br/>BP 81<br/>316 Manakara<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/" id="Toproll" title="  French  Honorary Consular Agency  in Morondava  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consular Agency  in Morondava, Madagascar</b><br/>Morondava<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Toamasina  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Toamasina, Madagascar</b><br/>Avenue La Bourdonnais<br/>B.P. 155<br/>Toamasina<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Tolanaro  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Tolanaro, Madagascar</b><br/>Enceinte ecole primaire franÃƒÂ§aise<br/>614 Fort Dauphin<br/>Tolanaro<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/" id="Toproll" title="  French  Honorary Consular Agency  in Antsiranana  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consular Agency  in Antsiranana, Madagascar</b><br/>Antsiranana<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-in-quebec-canada/" id="Toproll" title="  Madagascan  Honorary Consulate  in Quebec  ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in Quebec, Canada</b><br/>2915 de Valmont, Sainte-Foy<br/>Quebec, QC G1W 1Y8<br/>Canada<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-calgary-canada/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-montreal-canada/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-ottawa-canada/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-zurich-switzerland/" id="Toproll" title="    Madagascan  Honorary Consulate General  in Zurich    ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate General  in Zurich, Switzerland</b><br/>Kappelergasse 14<br/>Case postale 2517<br/>8022, Zurich<br/>Switzerland<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-geneva-switzerland/
+
+[Line with Issue]:
+<a href="https://india-e-visas.com/india-visa-fees/"><strong>India visa fee</strong></a>
+[⚠️] No space or tag immediately after </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/india-visa-for-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-in-marseille-france/" id="Toproll" title="      Madagascan   Consulate General  in Marseille      ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Consulate General  in Marseille, France</b><br/>234, boulevard PÃ©rier<br/>13008 Marseille<br/>France<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-general-in-st-etienne-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-amiens-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-bordeaux-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-le-havre-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-lyon-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-moulins-france/
+ - https://online.evisa-madagascar.com/consulate/madagascan-in-nantes-france/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-paris-france/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/apply-evisa-from-falkland-islands-islas-malvinas/"><span class="flag flag-fk"></span> Falkland Islands (Islas Malvinas)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/madagascar-tourist-evisa/
+ - https://online.evisa-madagascar.com/madagascar-visa-eligibility/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/apply-evisa-from-korea-republic-of-south/"><span class="flag flag-kr"></span> Korea, Republic of (South)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/madagascar-tourist-evisa/
+ - https://online.evisa-madagascar.com/madagascar-visa-eligibility/
+
+[Line with Issue]:
+<a href="https://online.evisa-madagascar.com/apply-evisa-from-vatican-city-holy-see/"><span class="flag flag-va"></span> Vatican City (Holy See)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/madagascar-tourist-evisa/
+ - https://online.evisa-madagascar.com/madagascar-visa-eligibility/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/french-in-toliara-madagascar/" id="Toproll" title="  French  Honorary Consulate  in Toliara  ">
+<p style="margin-bottom:6px;"> <b>French  Honorary Consulate  in Toliara, Madagascar</b><br/>CollÃƒÂ¨ge Etienne de Flacourt<br/>BP 421<br/>601 Toliara<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/france-in-antananarivo-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-antsirabe-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-fianarantsoa-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-ile-sainte-marie-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-mahajanga-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-manakara-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/consulate/french-in-tolanaro-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-consular-agency-in-morondava-madagascar/
+ - https://online.evisa-madagascar.com/embassy/french-honorary-consular-agency-in-antsiranana-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-mumbai-india/" id="Toproll" title="  Madagascan  Honorary Consulate General  in Mumbai  ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate General  in Mumbai, India</b><br/>Ismail Building, Flora Fountain<br/>Mumbai 400 001<br/>India<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-new-delhi-india/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/how-to-get-china-visa/" target="_blank" title="How to Get a China Visa?">How to Get a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/chinese-general-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/embassy/chinese-embassy-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://china-e-visas.com/requirements-for-china-visa/" target="_blank" title="What Are the Requirements for a China Visa?">What Are the Requirements for a China Visa?</a>
+[⚠️] Anchor text ends with punctuation: '?'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/chinese-general-in-toamasina-madagascar/
+ - https://online.evisa-madagascar.com/embassy/chinese-embassy-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/chinese-embassy-in-antananarivo-madagascar/" id="Toproll" title="  Chinese   Embassy  in Antananarivo  ">
+<p style="margin-bottom:6px;"> <b>Chinese   Embassy  in Antananarivo, Madagascar</b><br/>Nanisana-Ambatobe<br/>P.O. Box 1658<br/>Antananarivo<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/chinese-general-in-toamasina-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-stockholm-sweden/" id="Toproll" title="  Madagascan  Honorary Consulate General  in Stockholm  ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate General  in Stockholm, Sweden</b><br/>Box no. 7199<br/>103 88 Stockholm<br/>Sweden<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-ystad-sweden/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-geneva-switzerland/" id="Toproll" title="    Madagascan   Consulate General  in Geneva    ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Consulate General  in Geneva, Switzerland</b><br/>Avenue de Riant Parc 32<br/>1209 GenÃƒÂ¨ve<br/>Switzerland<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-general-in-zurich-switzerland/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/norwegian-honorary-vice-consulate-in-toamasina-madagascar/" id="Toproll" title="  Norwegian  Honorary Vice Consulate  in Toamasina  ">
+<p style="margin-bottom:6px;"> <b>Norwegian  Honorary Vice Consulate  in Toamasina, Madagascar</b><br/>c/o La Ligne Scandinavie<br/>2, Rue Lieutenant Berard<br/>B. P. 18<br/>Toamasina<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/norwegian-embassy-office-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascar-in-hamburg-germany/" id="Toproll" title="     Honorary Consulate of Madagascar in Hamburg     ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Madagascar in Hamburg, Germany</b><br/>Christoph-Probst-Weg 4<br/>20251 Hamburg<br/>Germany     </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-dsseldorf-germany/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-munich-germany/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascar-in-berlin-germany/" id="Toproll" title="     Embassy of Madagascar in Berlin     ">
+<p style="margin-bottom:6px;"> <b>Embassy of Madagascar in Berlin, Germany</b><br/>Seepromenade 92<br/>14612 Falkensee (Brandenburg)<br/>Germany     </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-dsseldorf-germany/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-hamburg-germany/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-munich-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-dsseldorf-germany/" id="Toproll" title="     Madagascan  Honorary Consulate  in DÃ¼sseldorf     ">
+<p style="margin-bottom:6px;"> <b>Madagascan  Honorary Consulate  in DÃƒÂ¼sseldorf, Germany</b><br/>Graf-Recke-Strasse 43<br/>40239 DÃƒÂ¼sseldorf<br/>Germany<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-hamburg-germany/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-munich-germany/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/comoran-embassy-in-antananarivo-madagascar/" id="Toproll" title="  Comoran   Embassy  in Antananarivo  ">
+<p style="margin-bottom:6px;"> <b>Comoran   Embassy  in Antananarivo, Madagascar</b><br/>Lot IB 50, Rue Docteur Theodore Villette<br/>Isoraka<br/>Antananarivo<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/comoran-in-mahajanga-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascar-in-munich-germany/" id="Toproll" title="     Honorary Consulate of Madagascar in Munich     ">
+<p style="margin-bottom:6px;"> <b>Honorary Consulate of Madagascar in Munich, Germany</b><br/>Kafkastrasse 6<br/>81737 MÃ¼nchen<br/>Germany     </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-consulate-in-dsseldorf-germany/
+ - https://online.evisa-madagascar.com/consulate/madagascar-in-hamburg-germany/
+ - https://online.evisa-madagascar.com/embassy/madagascar-in-berlin-germany/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-washington-united-states-of-america/" id="Toproll" title="   Madagascan   Embassy  in Washington   ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Embassy  in Washington, D.C., United States</b><br/>2374 Massachusetts Avenue, NW<br/>Washington, D.C. 20008<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-new-york-united-states-of-america/
+
+[Line with Issue]:
+<a href="https://eta-canada.info/canada-super-visa-parents-and-grandparents-visa/" target="_blank" title="Canada Super Visa (Parents and Grandparents Visa)">Canada Super Visa (Parents and Grandparents Visa)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/canada-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/norwegian-embassy-office-in-antananarivo-madagascar/" id="Toproll" title="  Norwegian   Embassy Office  in Antananarivo  ">
+<p style="margin-bottom:6px;"> <b>Norwegian   Embassy Office  in Antananarivo, Madagascar</b><br/>Batiment 2D, Business Explorer Park<br/>Ankorondrano<br/>P.O. Box 12180<br/>101 Antananarivo<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/norwegian-honorary-vice-consulate-in-toamasina-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/comoran-in-mahajanga-madagascar/" id="Toproll" title="  Comoran   Consulate  in Mahajanga  ">
+<p style="margin-bottom:6px;"> <b>Comoran   Consulate  in Mahajanga, Madagascar</b><br/>Mahajanga<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/comoran-embassy-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/chinese-general-in-toamasina-madagascar/" id="Toproll" title="  Chinese   Consulate General  in Toamasina  ">
+<p style="margin-bottom:6px;"> <b>Chinese   Consulate General  in Toamasina, Madagascar</b><br/>Toamasina<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/chinese-embassy-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/italian-in-antananarivo-madagascar/" id="Toproll" title="  Italian  Honorary Consulate  in Antananarivo  ">
+<p style="margin-bottom:6px;"> <b>Italian  Honorary Consulate  in Antananarivo, Madagascar</b><br/>Enceinte STTA<br/>Alarobia Morarano<br/>B.P. 3019<br/>101 Antananarivo<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/italian-consular-agency-in-andoany-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/british-in-antananarivo-madagascar/" id="Toproll" title="   British   Embassy  in Antananarivo   ">
+<p style="margin-bottom:6px;"> <b>British   Embassy  in Antananarivo, Madagascar</b><br/>Ninth Floor, Tour Zital<br/>Ravoninahitriniarivo Street<br/>Ankorondrano<br/>Antananarivo 101<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/british-honorary-consulate-in-toamasina-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-consulate-general-in-new-york-united-states-of-america/" id="Toproll" title="   Madagascan   Consulate General  in New York   ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Consulate General  in New York, United States</b><br/>820 Second Avenue, Suite 800<br/>New York, NY 10017<br/>United States<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/madagascan-embassy-in-washington-united-states-of-america/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/madagascan-in-cape-town-south-africa/" id="Toproll" title="       Madagascan   Consulate General  in Cape Town       ">
+<p style="margin-bottom:6px;"> <b>Madagascan   Consulate General  in Cape Town, South Africa</b><br/>77, Newlands Avenue<br/>P. O. Box 44612<br/>Claremont, 7735<br/>Cape Town<br/>South Africa<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/madagascan-honorary-in-durban-south-africa/
+ - https://online.evisa-madagascar.com/embassy/madagascan-in-pretoria-south-africa/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/embassy/italian-consular-agency-in-andoany-madagascar/" id="Toproll" title="  Italian   Consular Agency  in Andoany  ">
+<p style="margin-bottom:6px;"> <b>Italian   Consular Agency  in Andoany, Madagascar</b><br/>c/o Hotel Marlin Club<br/>Madirokely<br/>B.P. 205<br/>207 Nosy Be / Andoany<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/italian-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a class="ToprollCtrl" href="https://online.evisa-madagascar.com/consulate/british-honorary-consulate-in-toamasina-madagascar/" id="Toproll" title="   British  Honorary Consulate  in Toamasina   ">
+<p style="margin-bottom:6px;"> <b>British  Honorary Consulate  in Toamasina, Madagascar</b><br/>c/o La Ligne Scandinave<br/>B.P. 18<br/>2, Rue Lieutnenant Berard<br/>501 Toamasina<br/>Madagascar<br/> </p>
+</a>
+[⚠️] Unwanted space immediately after opening <a> tag
+[⚠️] Unwanted space immediately before closing </a> tag
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/embassy/british-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-f/" target="_blank" title="Thailand Non-Immigrant F (Government or diplomatic mission)">Thailand Non-Immigrant F (Government or diplomatic mission)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-non-immigrant-o-visa/" target="_blank" title="Thailand Non-Immigrant O Visa(Visiting friends and family)">Thailand Non-Immigrant O Visa(Visiting friends and family)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailands-smart-visa/" target="_blank" title="Thailand Smart Visa (Executives, entrepreneurs or investor)">Thailand Smart Visa (Executives, entrepreneurs or investor)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-long-term-resident-visa/" target="_blank" title="Thailand Long -Term Resident Visa (LTR)">Thailand Long -Term Resident Visa (LTR)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-diplomatic-official-visa/" target="_blank" title="Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)">Thailand Diplomatic Visa/Official Visa (Un Laissez Passer Or Official Passport)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
+[Line with Issue]:
+<a href="https://thailand-e-visas.com/thailand-visa-non-immigrant-ed-visit-to-study/" target="_blank" title="Thailand Visa Non-Immigrant ED(Visit to study)">Thailand Visa Non-Immigrant ED(Visit to study)</a>
+[⚠️] Anchor text ends with punctuation: ')'
+[Pages this occurred on]:
+ - https://online.evisa-madagascar.com/consulate/thai-general-in-antananarivo-madagascar/
+
